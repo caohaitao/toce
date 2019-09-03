@@ -1,0 +1,616 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="MinSizeRel|x64">
+      <Configuration>MinSizeRel</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="RelWithDebInfo|x64">
+      <Configuration>RelWithDebInfo</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{366F762A-F1C7-3F71-A1E2-DA3D1DB06617}</ProjectGuid>
+    <Keyword>Win32Proj</Keyword>
+    <Platform>x64</Platform>
+    <ProjectName>ALL_BUILD</ProjectName>
+    <VCProjectUpgraderObjectName>NoUpgrade</VCProjectUpgraderObjectName>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Utility</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v140</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Utility</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v140</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'" Label="Configuration">
+    <ConfigurationType>Utility</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v140</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'" Label="Configuration">
+    <ConfigurationType>Utility</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v140</PlatformToolset>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup>
+    <_ProjectFileVersion>10.0.20506.1</_ProjectFileVersion>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">$(Platform)\$(Configuration)\$(ProjectName)\</IntDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Release|x64'">$(Platform)\$(Configuration)\$(ProjectName)\</IntDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">$(Platform)\$(Configuration)\$(ProjectName)\</IntDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">$(Platform)\$(Configuration)\$(ProjectName)\</IntDir>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Midl>
+      <AdditionalIncludeDirectories>E:\code\c\oce\build\build_inc;E:\code\c\oce\inc;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Midl>
+      <AdditionalIncludeDirectories>E:\code\c\oce\build\build_inc;E:\code\c\oce\inc;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">
+    <Midl>
+      <AdditionalIncludeDirectories>E:\code\c\oce\build\build_inc;E:\code\c\oce\inc;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">
+    <Midl>
+      <AdditionalIncludeDirectories>E:\code\c\oce\build\build_inc;E:\code\c\oce\inc;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\code\c\oce\CMakeLists.txt">
+      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Building Custom Rule E:/code/c/oce/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">setlocal
+"E:\Program Files\CMake\bin\cmake.exe" -SE:/code/c/oce -BE:/code/c/oce/build --check-stamp-file E:/code/c/oce/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">E:/code/c/oce/CMakeLists.txt;E:\Program Files\CMake\share\cmake-3.14\Modules\CMakeCInformation.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\CMakeCXXInformation.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\CMakeCommonLanguageInclude.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\CMakeGenericSystem.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\CMakeInitializeConfigs.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\CMakeLanguageInformation.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\CMakeRCInformation.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\CMakeSystemSpecificInformation.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\CMakeSystemSpecificInitialize.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\CPack.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\CPackComponent.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\CTest.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\CTestTargets.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\CTestUseLaunchers.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\CheckIncludeFile.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\CheckLibraryExists.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\CheckSymbolExists.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\Compiler\CMakeCommonCompilerMacros.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\Compiler\MSVC-C.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\Compiler\MSVC-CXX.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\DartConfiguration.tcl.in;E:\Program Files\CMake\share\cmake-3.14\Modules\FindFreetype.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\FindOpenGL.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\FindPackageHandleStandardArgs.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\FindPackageMessage.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\FindThreads.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\Platform\Windows-MSVC-C.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\Platform\Windows-MSVC-CXX.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\Platform\Windows-MSVC.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\Platform\Windows.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\Platform\WindowsPaths.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\SelectLibraryConfigurations.cmake;E:\Program Files\CMake\share\cmake-3.14\Templates\CPackConfig.cmake.in;E:\code\c\oce\CMakeLists.txt;E:\code\c\oce\CTestConfig.cmake;E:\code\c\oce\adm\cmake\config\ProjectConfig.cmake.in;E:\code\c\oce\adm\cmake\config\ProjectConfigVersion.cmake.in;E:\code\c\oce\adm\cmake\config\TestDuplicateBodyTemplate.cxx;E:\code\c\oce\adm\cmake\config\Version.rc.cmake;E:\code\c\oce\adm\cmake\config\cmake_uninstall.cmake.in;E:\code\c\oce\adm\cmake\config\oce_build_config.h.cmake;E:\code\c\oce\adm\cmake\config\oce_build_paths.h.cmake;E:\code\c\oce\adm\cmake\config\oce_install_config.h.cmake;E:\code\c\oce\build\CMakeFiles\3.14.3\CMakeCCompiler.cmake;E:\code\c\oce\build\CMakeFiles\3.14.3\CMakeCXXCompiler.cmake;E:\code\c\oce\build\CMakeFiles\3.14.3\CMakeRCCompiler.cmake;E:\code\c\oce\build\CMakeFiles\3.14.3\CMakeSystem.cmake;E:\code\c\oce\CMakeLists.txt;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">E:\code\c\oce\build\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Building Custom Rule E:/code/c/oce/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Release|x64'">setlocal
+"E:\Program Files\CMake\bin\cmake.exe" -SE:/code/c/oce -BE:/code/c/oce/build --check-stamp-file E:/code/c/oce/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">E:/code/c/oce/CMakeLists.txt;E:\Program Files\CMake\share\cmake-3.14\Modules\CMakeCInformation.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\CMakeCXXInformation.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\CMakeCommonLanguageInclude.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\CMakeGenericSystem.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\CMakeInitializeConfigs.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\CMakeLanguageInformation.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\CMakeRCInformation.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\CMakeSystemSpecificInformation.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\CMakeSystemSpecificInitialize.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\CPack.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\CPackComponent.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\CTest.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\CTestTargets.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\CTestUseLaunchers.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\CheckIncludeFile.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\CheckLibraryExists.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\CheckSymbolExists.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\Compiler\CMakeCommonCompilerMacros.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\Compiler\MSVC-C.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\Compiler\MSVC-CXX.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\DartConfiguration.tcl.in;E:\Program Files\CMake\share\cmake-3.14\Modules\FindFreetype.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\FindOpenGL.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\FindPackageHandleStandardArgs.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\FindPackageMessage.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\FindThreads.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\Platform\Windows-MSVC-C.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\Platform\Windows-MSVC-CXX.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\Platform\Windows-MSVC.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\Platform\Windows.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\Platform\WindowsPaths.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\SelectLibraryConfigurations.cmake;E:\Program Files\CMake\share\cmake-3.14\Templates\CPackConfig.cmake.in;E:\code\c\oce\CMakeLists.txt;E:\code\c\oce\CTestConfig.cmake;E:\code\c\oce\adm\cmake\config\ProjectConfig.cmake.in;E:\code\c\oce\adm\cmake\config\ProjectConfigVersion.cmake.in;E:\code\c\oce\adm\cmake\config\TestDuplicateBodyTemplate.cxx;E:\code\c\oce\adm\cmake\config\Version.rc.cmake;E:\code\c\oce\adm\cmake\config\cmake_uninstall.cmake.in;E:\code\c\oce\adm\cmake\config\oce_build_config.h.cmake;E:\code\c\oce\adm\cmake\config\oce_build_paths.h.cmake;E:\code\c\oce\adm\cmake\config\oce_install_config.h.cmake;E:\code\c\oce\build\CMakeFiles\3.14.3\CMakeCCompiler.cmake;E:\code\c\oce\build\CMakeFiles\3.14.3\CMakeCXXCompiler.cmake;E:\code\c\oce\build\CMakeFiles\3.14.3\CMakeRCCompiler.cmake;E:\code\c\oce\build\CMakeFiles\3.14.3\CMakeSystem.cmake;E:\code\c\oce\CMakeLists.txt;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">E:\code\c\oce\build\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">Building Custom Rule E:/code/c/oce/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">setlocal
+"E:\Program Files\CMake\bin\cmake.exe" -SE:/code/c/oce -BE:/code/c/oce/build --check-stamp-file E:/code/c/oce/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">E:/code/c/oce/CMakeLists.txt;E:\Program Files\CMake\share\cmake-3.14\Modules\CMakeCInformation.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\CMakeCXXInformation.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\CMakeCommonLanguageInclude.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\CMakeGenericSystem.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\CMakeInitializeConfigs.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\CMakeLanguageInformation.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\CMakeRCInformation.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\CMakeSystemSpecificInformation.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\CMakeSystemSpecificInitialize.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\CPack.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\CPackComponent.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\CTest.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\CTestTargets.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\CTestUseLaunchers.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\CheckIncludeFile.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\CheckLibraryExists.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\CheckSymbolExists.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\Compiler\CMakeCommonCompilerMacros.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\Compiler\MSVC-C.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\Compiler\MSVC-CXX.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\DartConfiguration.tcl.in;E:\Program Files\CMake\share\cmake-3.14\Modules\FindFreetype.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\FindOpenGL.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\FindPackageHandleStandardArgs.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\FindPackageMessage.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\FindThreads.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\Platform\Windows-MSVC-C.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\Platform\Windows-MSVC-CXX.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\Platform\Windows-MSVC.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\Platform\Windows.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\Platform\WindowsPaths.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\SelectLibraryConfigurations.cmake;E:\Program Files\CMake\share\cmake-3.14\Templates\CPackConfig.cmake.in;E:\code\c\oce\CMakeLists.txt;E:\code\c\oce\CTestConfig.cmake;E:\code\c\oce\adm\cmake\config\ProjectConfig.cmake.in;E:\code\c\oce\adm\cmake\config\ProjectConfigVersion.cmake.in;E:\code\c\oce\adm\cmake\config\TestDuplicateBodyTemplate.cxx;E:\code\c\oce\adm\cmake\config\Version.rc.cmake;E:\code\c\oce\adm\cmake\config\cmake_uninstall.cmake.in;E:\code\c\oce\adm\cmake\config\oce_build_config.h.cmake;E:\code\c\oce\adm\cmake\config\oce_build_paths.h.cmake;E:\code\c\oce\adm\cmake\config\oce_install_config.h.cmake;E:\code\c\oce\build\CMakeFiles\3.14.3\CMakeCCompiler.cmake;E:\code\c\oce\build\CMakeFiles\3.14.3\CMakeCXXCompiler.cmake;E:\code\c\oce\build\CMakeFiles\3.14.3\CMakeRCCompiler.cmake;E:\code\c\oce\build\CMakeFiles\3.14.3\CMakeSystem.cmake;E:\code\c\oce\CMakeLists.txt;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">E:\code\c\oce\build\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">Building Custom Rule E:/code/c/oce/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">setlocal
+"E:\Program Files\CMake\bin\cmake.exe" -SE:/code/c/oce -BE:/code/c/oce/build --check-stamp-file E:/code/c/oce/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">E:/code/c/oce/CMakeLists.txt;E:\Program Files\CMake\share\cmake-3.14\Modules\CMakeCInformation.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\CMakeCXXInformation.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\CMakeCommonLanguageInclude.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\CMakeGenericSystem.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\CMakeInitializeConfigs.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\CMakeLanguageInformation.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\CMakeRCInformation.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\CMakeSystemSpecificInformation.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\CMakeSystemSpecificInitialize.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\CPack.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\CPackComponent.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\CTest.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\CTestTargets.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\CTestUseLaunchers.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\CheckIncludeFile.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\CheckLibraryExists.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\CheckSymbolExists.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\Compiler\CMakeCommonCompilerMacros.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\Compiler\MSVC-C.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\Compiler\MSVC-CXX.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\DartConfiguration.tcl.in;E:\Program Files\CMake\share\cmake-3.14\Modules\FindFreetype.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\FindOpenGL.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\FindPackageHandleStandardArgs.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\FindPackageMessage.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\FindThreads.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\Platform\Windows-MSVC-C.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\Platform\Windows-MSVC-CXX.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\Platform\Windows-MSVC.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\Platform\Windows.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\Platform\WindowsPaths.cmake;E:\Program Files\CMake\share\cmake-3.14\Modules\SelectLibraryConfigurations.cmake;E:\Program Files\CMake\share\cmake-3.14\Templates\CPackConfig.cmake.in;E:\code\c\oce\CMakeLists.txt;E:\code\c\oce\CTestConfig.cmake;E:\code\c\oce\adm\cmake\config\ProjectConfig.cmake.in;E:\code\c\oce\adm\cmake\config\ProjectConfigVersion.cmake.in;E:\code\c\oce\adm\cmake\config\TestDuplicateBodyTemplate.cxx;E:\code\c\oce\adm\cmake\config\Version.rc.cmake;E:\code\c\oce\adm\cmake\config\cmake_uninstall.cmake.in;E:\code\c\oce\adm\cmake\config\oce_build_config.h.cmake;E:\code\c\oce\adm\cmake\config\oce_build_paths.h.cmake;E:\code\c\oce\adm\cmake\config\oce_install_config.h.cmake;E:\code\c\oce\build\CMakeFiles\3.14.3\CMakeCCompiler.cmake;E:\code\c\oce\build\CMakeFiles\3.14.3\CMakeCXXCompiler.cmake;E:\code\c\oce\build\CMakeFiles\3.14.3\CMakeRCCompiler.cmake;E:\code\c\oce\build\CMakeFiles\3.14.3\CMakeSystem.cmake;E:\code\c\oce\CMakeLists.txt;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">E:\code\c\oce\build\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">false</LinkObjects>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="E:\code\c\oce\build\ZERO_CHECK.vcxproj">
+      <Project>{F3003AD1-FC6D-3F47-8116-176C16E781E7}</Project>
+      <Name>ZERO_CHECK</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="E:\code\c\oce\build\test\BRepExtrema_test\BRepExtrema_test.vcxproj">
+      <Project>{0C668192-D147-3FDE-8D31-110B7402FCF8}</Project>
+      <Name>BRepExtrema_test</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="E:\code\c\oce\build\test\BRepGProp_test\BRepGProp_test.vcxproj">
+      <Project>{DBF052D8-373C-3BF9-9DAD-6E20D20F5505}</Project>
+      <Name>BRepGProp_test</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="E:\code\c\oce\build\test\BRepImport_test\BRepImport_test.vcxproj">
+      <Project>{95680473-05A8-39AC-9AC1-09032CE00F64}</Project>
+      <Name>BRepImport_test</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="E:\code\c\oce\build\test\BRepMesh_test\BRepMesh_test.vcxproj">
+      <Project>{AE8F9407-A444-38A6-816B-5EE7F1C9EC5A}</Project>
+      <Name>BRepMesh_test</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="E:\code\c\oce\build\test\BRepOffsetAPI_test\BRepOffsetAPI_test.vcxproj">
+      <Project>{6D41346F-B59E-3DBC-A01C-CF2BE75EEFC3}</Project>
+      <Name>BRepOffsetAPI_test</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="E:\code\c\oce\build\test\BRepPrimAPI_test\BRepPrimAPI_test.vcxproj">
+      <Project>{06DE39A4-42E5-34AC-9F29-C46CA22936C2}</Project>
+      <Name>BRepPrimAPI_test</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="E:\code\c\oce\build\adm\cmake\FWOSPlugin\FWOSPlugin.vcxproj">
+      <Project>{8B701762-601B-3A67-AF78-A0AD300176F5}</Project>
+      <Name>FWOSPlugin</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="E:\code\c\oce\build\test\IGESImport_test\IGESImport_test.vcxproj">
+      <Project>{B6004DD1-2973-325A-AC19-EA7CD4A1FD22}</Project>
+      <Name>IGESImport_test</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="E:\code\c\oce\build\test\OCAFExport_test\OCAFExport_test.vcxproj">
+      <Project>{DADD8BE0-FCB2-3724-85B3-A1D8D5E009EA}</Project>
+      <Name>OCAFExport_test</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="E:\code\c\oce\build\adm\cmake\PTKernel\PTKernel.vcxproj">
+      <Project>{64E55413-4528-3BEA-B43E-76910FE97716}</Project>
+      <Name>PTKernel</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="E:\code\c\oce\build\test\STEPImport_test\STEPImport_test.vcxproj">
+      <Project>{67779950-CABA-3309-A7C5-D0A0FD005BE5}</Project>
+      <Name>STEPImport_test</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="E:\code\c\oce\build\test\Standard_StdAllocator_test\Standard_StdAllocator_test.vcxproj">
+      <Project>{5990E8FD-AC2B-35EC-8CB0-32B476F62142}</Project>
+      <Name>Standard_StdAllocator_test</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="E:\code\c\oce\build\test\TCollection_test\TCollection_test.vcxproj">
+      <Project>{DB4FF50A-928D-33FB-A074-9BEFBB268D5C}</Project>
+      <Name>TCollection_test</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="E:\code\c\oce\build\test\TDataXtd_test\TDataXtd_test.vcxproj">
+      <Project>{02A7C675-07F4-3D6B-A3C0-7AF26023B654}</Project>
+      <Name>TDataXtd_test</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="E:\code\c\oce\build\adm\cmake\TKBO\TKBO.vcxproj">
+      <Project>{663EF987-3349-3EB8-A074-933E139BE072}</Project>
+      <Name>TKBO</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="E:\code\c\oce\build\adm\cmake\TKBRep\TKBRep.vcxproj">
+      <Project>{F9F2D015-364B-324B-9A32-A9920BA4CE5A}</Project>
+      <Name>TKBRep</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="E:\code\c\oce\build\adm\cmake\TKBin\TKBin.vcxproj">
+      <Project>{5B245D6F-E268-3C23-B17D-948CE79AF864}</Project>
+      <Name>TKBin</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="E:\code\c\oce\build\adm\cmake\TKBinL\TKBinL.vcxproj">
+      <Project>{5871C33C-EE4A-3697-BA86-EBAFA949E617}</Project>
+      <Name>TKBinL</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="E:\code\c\oce\build\adm\cmake\TKBinTObj\TKBinTObj.vcxproj">
+      <Project>{DECF3EE8-F27C-38BD-9D2F-57BD21F89ACC}</Project>
+      <Name>TKBinTObj</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="E:\code\c\oce\build\adm\cmake\TKBinXCAF\TKBinXCAF.vcxproj">
+      <Project>{E90EB64F-0BA0-3194-BE9E-67FEBD6E56EA}</Project>
+      <Name>TKBinXCAF</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="E:\code\c\oce\build\adm\cmake\TKBool\TKBool.vcxproj">
+      <Project>{4EA2D4EB-C020-3127-8288-5602FCDBF643}</Project>
+      <Name>TKBool</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="E:\code\c\oce\build\adm\cmake\TKCAF\TKCAF.vcxproj">
+      <Project>{6A28BB3F-0B22-34D8-BD7D-3622B3E76998}</Project>
+      <Name>TKCAF</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="E:\code\c\oce\build\adm\cmake\TKCDF\TKCDF.vcxproj">
+      <Project>{16F1B014-3F17-361E-9561-2D9AF00270D8}</Project>
+      <Name>TKCDF</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="E:\code\c\oce\build\adm\cmake\TKFeat\TKFeat.vcxproj">
+      <Project>{F59C6A85-14B6-3820-99DC-94DF08F509B7}</Project>
+      <Name>TKFeat</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="E:\code\c\oce\build\adm\cmake\TKFillet\TKFillet.vcxproj">
+      <Project>{DD76F2C3-8E99-3764-9367-C1939E19DC29}</Project>
+      <Name>TKFillet</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="E:\code\c\oce\build\adm\cmake\TKG2d\TKG2d.vcxproj">
+      <Project>{2E06FE59-9AF4-3018-9013-C47C04805D72}</Project>
+      <Name>TKG2d</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="E:\code\c\oce\build\adm\cmake\TKG3d\TKG3d.vcxproj">
+      <Project>{A1C044E0-E7E5-3985-A3E3-697E512718F0}</Project>
+      <Name>TKG3d</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="E:\code\c\oce\build\adm\cmake\TKGeomAlgo\TKGeomAlgo.vcxproj">
+      <Project>{D09A7B0B-E091-3BCB-BC74-3246BF96FAD2}</Project>
+      <Name>TKGeomAlgo</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="E:\code\c\oce\build\adm\cmake\TKGeomBase\TKGeomBase.vcxproj">
+      <Project>{225BFBD5-CCB6-35FE-B429-9D0EEA53DF78}</Project>
+      <Name>TKGeomBase</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="E:\code\c\oce\build\adm\cmake\TKHLR\TKHLR.vcxproj">
+      <Project>{A964BDE3-7035-30AE-B32B-7C87B6C7D8C9}</Project>
+      <Name>TKHLR</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="E:\code\c\oce\build\adm\cmake\TKIGES\TKIGES.vcxproj">
+      <Project>{AC9D75C2-8AD4-3ABD-AC74-B718061725D9}</Project>
+      <Name>TKIGES</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="E:\code\c\oce\build\adm\cmake\TKLCAF\TKLCAF.vcxproj">
+      <Project>{45B82EAD-D2AE-3F68-B946-72B69D64C498}</Project>
+      <Name>TKLCAF</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="E:\code\c\oce\build\adm\cmake\TKMath\TKMath.vcxproj">
+      <Project>{D7CD95A9-C752-3A6F-92BC-5DC11DEEFA6A}</Project>
+      <Name>TKMath</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="E:\code\c\oce\build\adm\cmake\TKMesh\TKMesh.vcxproj">
+      <Project>{BBD68075-00B4-3849-9092-5245C03AB33F}</Project>
+      <Name>TKMesh</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="E:\code\c\oce\build\adm\cmake\TKMeshVS\TKMeshVS.vcxproj">
+      <Project>{D16D7CAF-E1E6-343F-AE77-C51D9502FC99}</Project>
+      <Name>TKMeshVS</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="E:\code\c\oce\build\adm\cmake\TKNIS\TKNIS.vcxproj">
+      <Project>{2EE95DBA-DA20-30D5-A860-69FF2F851FEA}</Project>
+      <Name>TKNIS</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="E:\code\c\oce\build\adm\cmake\TKOffset\TKOffset.vcxproj">
+      <Project>{773204D3-3E9B-3AEB-A62D-4F79521F43BD}</Project>
+      <Name>TKOffset</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="E:\code\c\oce\build\adm\cmake\TKOpenGl\TKOpenGl.vcxproj">
+      <Project>{A0A4A7B1-F4F6-33FE-BC96-50D1D04001C3}</Project>
+      <Name>TKOpenGl</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="E:\code\c\oce\build\adm\cmake\TKPCAF\TKPCAF.vcxproj">
+      <Project>{69CFC474-3FE5-385E-9063-B5FF3CA5AE51}</Project>
+      <Name>TKPCAF</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="E:\code\c\oce\build\adm\cmake\TKPLCAF\TKPLCAF.vcxproj">
+      <Project>{09F6767D-02E6-3C19-9E1E-4D5CB614B6FC}</Project>
+      <Name>TKPLCAF</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="E:\code\c\oce\build\adm\cmake\TKPShape\TKPShape.vcxproj">
+      <Project>{CE0C6C1A-C551-353C-B233-2EDAD131CD0F}</Project>
+      <Name>TKPShape</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="E:\code\c\oce\build\adm\cmake\TKPrim\TKPrim.vcxproj">
+      <Project>{070326B3-D460-3FB5-956D-2974190CD29A}</Project>
+      <Name>TKPrim</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="E:\code\c\oce\build\adm\cmake\TKSTEP\TKSTEP.vcxproj">
+      <Project>{9FDEB6DF-9349-3F59-9C06-96B99D65F597}</Project>
+      <Name>TKSTEP</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="E:\code\c\oce\build\adm\cmake\TKSTEP209\TKSTEP209.vcxproj">
+      <Project>{0D815384-036B-34FC-AF57-8704BDCCCC63}</Project>
+      <Name>TKSTEP209</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="E:\code\c\oce\build\adm\cmake\TKSTEPAttr\TKSTEPAttr.vcxproj">
+      <Project>{A9D72AD5-D2BC-3526-99FF-3202CAF8103A}</Project>
+      <Name>TKSTEPAttr</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="E:\code\c\oce\build\adm\cmake\TKSTEPBase\TKSTEPBase.vcxproj">
+      <Project>{2F374A16-0000-31F5-A9A8-926F967F7F5C}</Project>
+      <Name>TKSTEPBase</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="E:\code\c\oce\build\adm\cmake\TKSTL\TKSTL.vcxproj">
+      <Project>{994DA9B1-5110-3108-8044-BAFEB9042E28}</Project>
+      <Name>TKSTL</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="E:\code\c\oce\build\adm\cmake\TKService\TKService.vcxproj">
+      <Project>{836207B4-DE1F-3F15-87F2-0BB2EB653F54}</Project>
+      <Name>TKService</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="E:\code\c\oce\build\adm\cmake\TKShHealing\TKShHealing.vcxproj">
+      <Project>{F41822A1-EBCB-3C54-AC9D-35F95F2ECC8E}</Project>
+      <Name>TKShHealing</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="E:\code\c\oce\build\adm\cmake\TKShapeSchema\TKShapeSchema.vcxproj">
+      <Project>{AED1F2B0-A8DB-3FC4-86CD-C26B5FABCA7B}</Project>
+      <Name>TKShapeSchema</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="E:\code\c\oce\build\adm\cmake\TKStdLSchema\TKStdLSchema.vcxproj">
+      <Project>{E8DF15A0-311B-372F-B2B4-043DD893A997}</Project>
+      <Name>TKStdLSchema</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="E:\code\c\oce\build\adm\cmake\TKStdSchema\TKStdSchema.vcxproj">
+      <Project>{CD5F7373-2492-360D-8836-38551A2D9097}</Project>
+      <Name>TKStdSchema</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="E:\code\c\oce\build\adm\cmake\TKTObj\TKTObj.vcxproj">
+      <Project>{30440459-5C76-3335-94D3-A832F5A01548}</Project>
+      <Name>TKTObj</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="E:\code\c\oce\build\adm\cmake\TKTopAlgo\TKTopAlgo.vcxproj">
+      <Project>{9C61B3EE-33F7-3D03-8B36-AC6694CD2750}</Project>
+      <Name>TKTopAlgo</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="E:\code\c\oce\build\adm\cmake\TKV3d\TKV3d.vcxproj">
+      <Project>{D41D2806-BC8E-3DEB-B950-61440424DF0A}</Project>
+      <Name>TKV3d</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="E:\code\c\oce\build\adm\cmake\TKVRML\TKVRML.vcxproj">
+      <Project>{45E11187-B97A-3019-B69D-5B4F1A704F1A}</Project>
+      <Name>TKVRML</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="E:\code\c\oce\build\adm\cmake\TKVoxel\TKVoxel.vcxproj">
+      <Project>{5EF7ABA0-5249-3B6F-86BB-270A0A8F9A99}</Project>
+      <Name>TKVoxel</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="E:\code\c\oce\build\adm\cmake\TKXCAF\TKXCAF.vcxproj">
+      <Project>{93B4DFAE-DB98-3FC5-B3C8-0AF4F34609BB}</Project>
+      <Name>TKXCAF</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="E:\code\c\oce\build\adm\cmake\TKXCAFSchema\TKXCAFSchema.vcxproj">
+      <Project>{0268515E-FB90-3B8A-B63A-AA34CE4D6521}</Project>
+      <Name>TKXCAFSchema</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="E:\code\c\oce\build\adm\cmake\TKXDEIGES\TKXDEIGES.vcxproj">
+      <Project>{C5AE8A17-E88B-3070-AA06-FCFD426B3B08}</Project>
+      <Name>TKXDEIGES</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="E:\code\c\oce\build\adm\cmake\TKXDESTEP\TKXDESTEP.vcxproj">
+      <Project>{551DF64D-8841-31D6-AF06-A4F4D8503EB4}</Project>
+      <Name>TKXDESTEP</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="E:\code\c\oce\build\adm\cmake\TKXMesh\TKXMesh.vcxproj">
+      <Project>{E10A5F86-FC65-38D5-94D9-C7654238B1DA}</Project>
+      <Name>TKXMesh</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="E:\code\c\oce\build\adm\cmake\TKXSBase\TKXSBase.vcxproj">
+      <Project>{0CEF27D5-C903-3685-BA65-DE0D58D74CC3}</Project>
+      <Name>TKXSBase</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="E:\code\c\oce\build\adm\cmake\TKXml\TKXml.vcxproj">
+      <Project>{DD28056A-1615-315E-8052-081849F6D95A}</Project>
+      <Name>TKXml</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="E:\code\c\oce\build\adm\cmake\TKXmlL\TKXmlL.vcxproj">
+      <Project>{EEC01838-E3F3-3F6F-8732-2A22336DEE7E}</Project>
+      <Name>TKXmlL</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="E:\code\c\oce\build\adm\cmake\TKXmlTObj\TKXmlTObj.vcxproj">
+      <Project>{C70D388A-9235-323B-9CF9-86A843B9B644}</Project>
+      <Name>TKXmlTObj</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="E:\code\c\oce\build\adm\cmake\TKXmlXCAF\TKXmlXCAF.vcxproj">
+      <Project>{67E04C0A-5FCD-37CD-82BF-054B75571BCB}</Project>
+      <Name>TKXmlXCAF</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="E:\code\c\oce\build\adm\cmake\TKernel\TKernel.vcxproj">
+      <Project>{30F79EA1-E015-3291-AD3B-264C33789DF7}</Project>
+      <Name>TKernel</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="E:\code\c\oce\build\test\BRepAlgoAPI_test\boolean_ops_test.vcxproj">
+      <Project>{CB52B010-59CC-39B6-81D7-C0478B4CBBDC}</Project>
+      <Name>boolean_ops_test</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="E:\code\c\oce\build\test\gp_test\gp_test.vcxproj">
+      <Project>{F984D6AF-6598-3770-BF3E-BC124A386B58}</Project>
+      <Name>gp_test</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="E:\code\c\oce\build\test\gtest.vcxproj">
+      <Project>{8EF7B6B1-9715-387C-9727-C62ADAC77E46}</Project>
+      <Name>gtest</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="E:\code\c\oce\build\test\gtest_sandbox\sandbox.vcxproj">
+      <Project>{ED9C362C-908C-369E-8DE2-EFF9DBDF6C71}</Project>
+      <Name>sandbox</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="E:\code\c\oce\build\test\SortTools_test\sorttools_test.vcxproj">
+      <Project>{DC319881-6108-30E0-8157-0013CD74F1F9}</Project>
+      <Name>sorttools_test</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="E:\code\c\oce\build\test\UnitsAPI_test\units_test.vcxproj">
+      <Project>{C234F1E5-F9BA-3017-834C-41225F89FCEA}</Project>
+      <Name>units_test</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

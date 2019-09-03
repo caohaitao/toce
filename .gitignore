@@ -1,1 +1,8 @@
 oce-win-bundle/
+/build/CMakeFiles
+/build/adm/cmake
+/build/bin
+/build/x64
+/build/test
+/build/*.opendb
+/build/*.db
