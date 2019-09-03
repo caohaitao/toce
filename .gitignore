@@ -6,3 +6,9 @@ oce-win-bundle/
 /build/test
 /build/*.opendb
 /build/*.db
+*.tlog
+*.log
+*.lib
+*.dll
+*.pdb
+*.suo
