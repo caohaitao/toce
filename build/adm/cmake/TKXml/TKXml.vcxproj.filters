@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\code\c\oce\adm\cmake\TKXml\Precompiled.cpp">
+      <Filter>Precompiled</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\XmlDrivers\XmlDrivers.cxx">
+      <Filter>XmlDrivers</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\XmlDrivers\XmlDrivers_DocumentRetrievalDriver.cxx">
+      <Filter>XmlDrivers</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\XmlDrivers\XmlDrivers_DocumentStorageDriver.cxx">
+      <Filter>XmlDrivers</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\XmlMDataXtd\XmlMDataXtd.cxx">
+      <Filter>XmlMDataXtd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\XmlMDataXtd\XmlMDataXtd_AxisDriver.cxx">
+      <Filter>XmlMDataXtd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\XmlMDataXtd\XmlMDataXtd_ConstraintDriver.cxx">
+      <Filter>XmlMDataXtd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\XmlMDataXtd\XmlMDataXtd_GeometryDriver.cxx">
+      <Filter>XmlMDataXtd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\XmlMDataXtd\XmlMDataXtd_PatternStdDriver.cxx">
+      <Filter>XmlMDataXtd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\XmlMDataXtd\XmlMDataXtd_PlacementDriver.cxx">
+      <Filter>XmlMDataXtd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\XmlMDataXtd\XmlMDataXtd_PlaneDriver.cxx">
+      <Filter>XmlMDataXtd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\XmlMDataXtd\XmlMDataXtd_PointDriver.cxx">
+      <Filter>XmlMDataXtd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\XmlMDataXtd\XmlMDataXtd_ShapeDriver.cxx">
+      <Filter>XmlMDataXtd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\XmlMNaming\XmlMNaming.cxx">
+      <Filter>XmlMNaming</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\XmlMNaming\XmlMNaming_NamedShapeDriver.cxx">
+      <Filter>XmlMNaming</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\XmlMNaming\XmlMNaming_NamingDriver.cxx">
+      <Filter>XmlMNaming</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\XmlMNaming\XmlMNaming_Shape1.cxx">
+      <Filter>XmlMNaming</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\XmlMPrsStd\XmlMPrsStd.cxx">
+      <Filter>XmlMPrsStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\XmlMPrsStd\XmlMPrsStd_AISPresentationDriver.cxx">
+      <Filter>XmlMPrsStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\XmlMPrsStd\XmlMPrsStd_PositionDriver.cxx">
+      <Filter>XmlMPrsStd</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="E:\code\c\oce\adm\cmake\TKXml\Precompiled.h">
+      <Filter>Precompiled</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\code\c\oce\adm\cmake\TKXml\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="E:\code\c\oce\build\Version.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Precompiled">
+      <UniqueIdentifier>{9798687B-1064-3C74-84F3-7C7EA6AC7B09}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{89761968-2B46-3580-8630-22C285107311}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="XmlDrivers">
+      <UniqueIdentifier>{85F77356-E2B4-327E-9676-5B2BAE114BF9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="XmlMDataXtd">
+      <UniqueIdentifier>{9FF85927-E4F6-3575-8389-D9C79EF3E5BE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="XmlMNaming">
+      <UniqueIdentifier>{01752094-C68D-3403-806B-3ECC8016A072}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="XmlMPrsStd">
+      <UniqueIdentifier>{F1E22888-2BCC-36E0-9E2B-EED5872EB2AE}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

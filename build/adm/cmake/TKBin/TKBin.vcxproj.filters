@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\code\c\oce\adm\cmake\TKBin\Precompiled.cpp">
+      <Filter>Precompiled</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BinDrivers\BinDrivers.cxx">
+      <Filter>BinDrivers</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BinDrivers\BinDrivers_DocumentRetrievalDriver.cxx">
+      <Filter>BinDrivers</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BinDrivers\BinDrivers_DocumentStorageDriver.cxx">
+      <Filter>BinDrivers</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BinMDataXtd\BinMDataXtd.cxx">
+      <Filter>BinMDataXtd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BinMDataXtd\BinMDataXtd_AxisDriver.cxx">
+      <Filter>BinMDataXtd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BinMDataXtd\BinMDataXtd_ConstraintDriver.cxx">
+      <Filter>BinMDataXtd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BinMDataXtd\BinMDataXtd_GeometryDriver.cxx">
+      <Filter>BinMDataXtd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BinMDataXtd\BinMDataXtd_PatternStdDriver.cxx">
+      <Filter>BinMDataXtd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BinMDataXtd\BinMDataXtd_PlacementDriver.cxx">
+      <Filter>BinMDataXtd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BinMDataXtd\BinMDataXtd_PlaneDriver.cxx">
+      <Filter>BinMDataXtd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BinMDataXtd\BinMDataXtd_PointDriver.cxx">
+      <Filter>BinMDataXtd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BinMDataXtd\BinMDataXtd_ShapeDriver.cxx">
+      <Filter>BinMDataXtd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BinMPrsStd\BinMPrsStd.cxx">
+      <Filter>BinMPrsStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BinMPrsStd\BinMPrsStd_AISPresentationDriver.cxx">
+      <Filter>BinMPrsStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BinMPrsStd\BinMPrsStd_PositionDriver.cxx">
+      <Filter>BinMPrsStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BinMNaming\BinMNaming.cxx">
+      <Filter>BinMNaming</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BinMNaming\BinMNaming_NamedShapeDriver.cxx">
+      <Filter>BinMNaming</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BinMNaming\BinMNaming_NamingDriver.cxx">
+      <Filter>BinMNaming</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BinTools\BinTools.cxx">
+      <Filter>BinTools</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BinTools\BinTools_Curve2dSet.cxx">
+      <Filter>BinTools</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BinTools\BinTools_CurveSet.cxx">
+      <Filter>BinTools</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BinTools\BinTools_LocationSet.cxx">
+      <Filter>BinTools</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BinTools\BinTools_ShapeSet.cxx">
+      <Filter>BinTools</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BinTools\BinTools_SurfaceSet.cxx">
+      <Filter>BinTools</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="E:\code\c\oce\adm\cmake\TKBin\Precompiled.h">
+      <Filter>Precompiled</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\code\c\oce\adm\cmake\TKBin\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="E:\code\c\oce\build\Version.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="BinDrivers">
+      <UniqueIdentifier>{9853240C-A08C-3405-AE61-F5CE9C74494A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BinMDataXtd">
+      <UniqueIdentifier>{8597B925-0FC7-3C33-B728-BDE262F009B4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BinMNaming">
+      <UniqueIdentifier>{2FC10042-4D91-381F-A8F2-514D9D113CD2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BinMPrsStd">
+      <UniqueIdentifier>{7E46E378-BD26-30AE-8690-8F0D8A924BCC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BinTools">
+      <UniqueIdentifier>{58F28B45-EC94-3609-9369-D340F461ADA3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Precompiled">
+      <UniqueIdentifier>{9798687B-1064-3C74-84F3-7C7EA6AC7B09}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{89761968-2B46-3580-8630-22C285107311}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

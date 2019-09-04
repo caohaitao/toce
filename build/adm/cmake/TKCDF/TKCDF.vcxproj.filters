@@ -1,0 +1,260 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\code\c\oce\adm\cmake\TKCDF\Precompiled.cpp">
+      <Filter>Precompiled</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\CDM\CDM_DataMapIteratorOfMetaDataLookUpTable_0.cxx">
+      <Filter>CDM</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\CDM\CDM_DataMapIteratorOfPresentationDirectory_0.cxx">
+      <Filter>CDM</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\CDM\CDM_DataMapNodeOfMetaDataLookUpTable_0.cxx">
+      <Filter>CDM</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\CDM\CDM_DataMapNodeOfPresentationDirectory_0.cxx">
+      <Filter>CDM</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\CDM\CDM_DocumentHasher_0.cxx">
+      <Filter>CDM</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\CDM\CDM_ListIteratorOfListOfDocument_0.cxx">
+      <Filter>CDM</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\CDM\CDM_ListIteratorOfListOfReferences_0.cxx">
+      <Filter>CDM</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\CDM\CDM_ListNodeOfListOfDocument_0.cxx">
+      <Filter>CDM</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\CDM\CDM_ListNodeOfListOfReferences_0.cxx">
+      <Filter>CDM</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\CDM\CDM_ListOfDocument_0.cxx">
+      <Filter>CDM</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\CDM\CDM_ListOfReferences_0.cxx">
+      <Filter>CDM</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\CDM\CDM_MapIteratorOfMapOfDocument_0.cxx">
+      <Filter>CDM</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\CDM\CDM_MapOfDocument_0.cxx">
+      <Filter>CDM</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\CDM\CDM_MetaDataLookUpTable_0.cxx">
+      <Filter>CDM</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\CDM\CDM_PresentationDirectory_0.cxx">
+      <Filter>CDM</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\CDM\CDM_StdMapNodeOfMapOfDocument_0.cxx">
+      <Filter>CDM</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\CDM\CDM_Application.cxx">
+      <Filter>CDM</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\CDM\CDM_COutMessageDriver.cxx">
+      <Filter>CDM</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\CDM\CDM_Document.cxx">
+      <Filter>CDM</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\CDM\CDM_MessageDriver.cxx">
+      <Filter>CDM</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\CDM\CDM_MetaData.cxx">
+      <Filter>CDM</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\CDM\CDM_NullMessageDriver.cxx">
+      <Filter>CDM</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\CDM\CDM_Reference.cxx">
+      <Filter>CDM</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\CDM\CDM_ReferenceIterator.cxx">
+      <Filter>CDM</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PCDM\PCDM_DriverError_0.cxx">
+      <Filter>PCDM</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PCDM\PCDM_SequenceNodeOfSequenceOfDocument_0.cxx">
+      <Filter>PCDM</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PCDM\PCDM_SequenceNodeOfSequenceOfReference_0.cxx">
+      <Filter>PCDM</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PCDM\PCDM_SequenceOfDocument_0.cxx">
+      <Filter>PCDM</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PCDM\PCDM_SequenceOfReference_0.cxx">
+      <Filter>PCDM</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PCDM\PCDM.cxx">
+      <Filter>PCDM</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PCDM\PCDM_DOMHeaderParser.cxx">
+      <Filter>PCDM</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PCDM\PCDM_Document.cxx">
+      <Filter>PCDM</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PCDM\PCDM_ReadWriter.cxx">
+      <Filter>PCDM</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PCDM\PCDM_ReadWriter_1.cxx">
+      <Filter>PCDM</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PCDM\PCDM_Reader.cxx">
+      <Filter>PCDM</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PCDM\PCDM_Reference.cxx">
+      <Filter>PCDM</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PCDM\PCDM_ReferenceIterator.cxx">
+      <Filter>PCDM</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PCDM\PCDM_RetrievalDriver.cxx">
+      <Filter>PCDM</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PCDM\PCDM_StorageDriver.cxx">
+      <Filter>PCDM</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PCDM\PCDM_Writer.cxx">
+      <Filter>PCDM</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\CDF\CDF_MetaDataDriverError_0.cxx">
+      <Filter>CDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\CDF\CDF.cxx">
+      <Filter>CDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\CDF\CDF_Application.cxx">
+      <Filter>CDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\CDF\CDF_Directory.cxx">
+      <Filter>CDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\CDF\CDF_DirectoryIterator.cxx">
+      <Filter>CDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\CDF\CDF_FWOSDriver.cxx">
+      <Filter>CDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\CDF\CDF_MetaDataDriver.cxx">
+      <Filter>CDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\CDF\CDF_MetaDataDriverFactory.cxx">
+      <Filter>CDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\CDF\CDF_Session.cxx">
+      <Filter>CDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\CDF\CDF_Store.cxx">
+      <Filter>CDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\CDF\CDF_StoreList.cxx">
+      <Filter>CDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\CDF\CDF_Timer.cxx">
+      <Filter>CDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\UTL\UTL.cxx">
+      <Filter>UTL</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\LDOM\LDOMBasicString.cxx">
+      <Filter>LDOM</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\LDOM\LDOMParser.cxx">
+      <Filter>LDOM</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\LDOM\LDOMString.cxx">
+      <Filter>LDOM</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\LDOM\LDOM_Attr.cxx">
+      <Filter>LDOM</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\LDOM\LDOM_BasicAttribute.cxx">
+      <Filter>LDOM</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\LDOM\LDOM_BasicElement.cxx">
+      <Filter>LDOM</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\LDOM\LDOM_BasicNode.cxx">
+      <Filter>LDOM</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\LDOM\LDOM_BasicText.cxx">
+      <Filter>LDOM</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\LDOM\LDOM_CharReference.cxx">
+      <Filter>LDOM</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\LDOM\LDOM_CharacterData.cxx">
+      <Filter>LDOM</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\LDOM\LDOM_Document.cxx">
+      <Filter>LDOM</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\LDOM\LDOM_Element.cxx">
+      <Filter>LDOM</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\LDOM\LDOM_LDOMImplementation.cxx">
+      <Filter>LDOM</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\LDOM\LDOM_MemManager.cxx">
+      <Filter>LDOM</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\LDOM\LDOM_Node.cxx">
+      <Filter>LDOM</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\LDOM\LDOM_NodeList.cxx">
+      <Filter>LDOM</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\LDOM\LDOM_OSStream.cxx">
+      <Filter>LDOM</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\LDOM\LDOM_XmlReader.cxx">
+      <Filter>LDOM</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\LDOM\LDOM_XmlWriter.cxx">
+      <Filter>LDOM</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="E:\code\c\oce\adm\cmake\TKCDF\Precompiled.h">
+      <Filter>Precompiled</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\code\c\oce\adm\cmake\TKCDF\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="E:\code\c\oce\build\Version.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CDF">
+      <UniqueIdentifier>{F14840B7-8AE0-359E-85EF-0C37E3EE54B7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CDM">
+      <UniqueIdentifier>{F8262663-A8B8-30FB-919F-429A812763BB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="LDOM">
+      <UniqueIdentifier>{D2EE40BE-D862-3519-B724-5B26A1FF5423}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PCDM">
+      <UniqueIdentifier>{0A9D654A-EC5B-333C-B177-55B3ED60D6B0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Precompiled">
+      <UniqueIdentifier>{9798687B-1064-3C74-84F3-7C7EA6AC7B09}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{89761968-2B46-3580-8630-22C285107311}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UTL">
+      <UniqueIdentifier>{13A5A267-E578-3FA6-A8B4-1ED29C01C81A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

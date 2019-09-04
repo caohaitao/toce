@@ -1,0 +1,755 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\code\c\oce\adm\cmake\TKPShape\Precompiled.cpp">
+      <Filter>Precompiled</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PBRep\PBRep_Curve3D.cxx">
+      <Filter>PBRep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PBRep\PBRep_CurveOn2Surfaces.cxx">
+      <Filter>PBRep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PBRep\PBRep_CurveOnClosedSurface.cxx">
+      <Filter>PBRep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PBRep\PBRep_CurveOnSurface.cxx">
+      <Filter>PBRep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PBRep\PBRep_CurveRepresentation.cxx">
+      <Filter>PBRep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PBRep\PBRep_GCurve.cxx">
+      <Filter>PBRep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PBRep\PBRep_PointOnCurve.cxx">
+      <Filter>PBRep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PBRep\PBRep_PointOnCurveOnSurface.cxx">
+      <Filter>PBRep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PBRep\PBRep_PointOnSurface.cxx">
+      <Filter>PBRep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PBRep\PBRep_PointRepresentation.cxx">
+      <Filter>PBRep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PBRep\PBRep_PointsOnSurface.cxx">
+      <Filter>PBRep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PBRep\PBRep_Polygon3D.cxx">
+      <Filter>PBRep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PBRep\PBRep_PolygonOnClosedSurface.cxx">
+      <Filter>PBRep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PBRep\PBRep_PolygonOnClosedTriangulation.cxx">
+      <Filter>PBRep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PBRep\PBRep_PolygonOnSurface.cxx">
+      <Filter>PBRep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PBRep\PBRep_PolygonOnTriangulation.cxx">
+      <Filter>PBRep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PBRep\PBRep_TEdge.cxx">
+      <Filter>PBRep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PBRep\PBRep_TEdge1.cxx">
+      <Filter>PBRep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PBRep\PBRep_TFace.cxx">
+      <Filter>PBRep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PBRep\PBRep_TFace1.cxx">
+      <Filter>PBRep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PBRep\PBRep_TVertex.cxx">
+      <Filter>PBRep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PBRep\PBRep_TVertex1.cxx">
+      <Filter>PBRep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PTopoDS\PTopoDS_FieldOfHArray1OfHShape_0.cxx">
+      <Filter>PTopoDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PTopoDS\PTopoDS_FieldOfHArray1OfShape1_0.cxx">
+      <Filter>PTopoDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PTopoDS\PTopoDS_HArray1OfHShape_0.cxx">
+      <Filter>PTopoDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PTopoDS\PTopoDS_HArray1OfShape1_0.cxx">
+      <Filter>PTopoDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PTopoDS\PTopoDS_VArrayNodeOfFieldOfHArray1OfHShape_0.cxx">
+      <Filter>PTopoDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PTopoDS\PTopoDS_VArrayNodeOfFieldOfHArray1OfShape1_0.cxx">
+      <Filter>PTopoDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PTopoDS\PTopoDS_VArrayTNodeOfFieldOfHArray1OfHShape_0.cxx">
+      <Filter>PTopoDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PTopoDS\PTopoDS_VArrayTNodeOfFieldOfHArray1OfShape1_0.cxx">
+      <Filter>PTopoDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PTopoDS\PTopoDS_CompSolid.cxx">
+      <Filter>PTopoDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PTopoDS\PTopoDS_Compound.cxx">
+      <Filter>PTopoDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PTopoDS\PTopoDS_Edge.cxx">
+      <Filter>PTopoDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PTopoDS\PTopoDS_Face.cxx">
+      <Filter>PTopoDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PTopoDS\PTopoDS_HShape.cxx">
+      <Filter>PTopoDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PTopoDS\PTopoDS_Shape1.cxx">
+      <Filter>PTopoDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PTopoDS\PTopoDS_Shell.cxx">
+      <Filter>PTopoDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PTopoDS\PTopoDS_Solid.cxx">
+      <Filter>PTopoDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PTopoDS\PTopoDS_TCompSolid.cxx">
+      <Filter>PTopoDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PTopoDS\PTopoDS_TCompSolid1.cxx">
+      <Filter>PTopoDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PTopoDS\PTopoDS_TCompound.cxx">
+      <Filter>PTopoDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PTopoDS\PTopoDS_TCompound1.cxx">
+      <Filter>PTopoDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PTopoDS\PTopoDS_TEdge.cxx">
+      <Filter>PTopoDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PTopoDS\PTopoDS_TEdge1.cxx">
+      <Filter>PTopoDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PTopoDS\PTopoDS_TFace.cxx">
+      <Filter>PTopoDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PTopoDS\PTopoDS_TFace1.cxx">
+      <Filter>PTopoDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PTopoDS\PTopoDS_TShape.cxx">
+      <Filter>PTopoDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PTopoDS\PTopoDS_TShape1.cxx">
+      <Filter>PTopoDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PTopoDS\PTopoDS_TShell.cxx">
+      <Filter>PTopoDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PTopoDS\PTopoDS_TShell1.cxx">
+      <Filter>PTopoDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PTopoDS\PTopoDS_TSolid.cxx">
+      <Filter>PTopoDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PTopoDS\PTopoDS_TSolid1.cxx">
+      <Filter>PTopoDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PTopoDS\PTopoDS_TVertex.cxx">
+      <Filter>PTopoDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PTopoDS\PTopoDS_TVertex1.cxx">
+      <Filter>PTopoDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PTopoDS\PTopoDS_TWire.cxx">
+      <Filter>PTopoDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PTopoDS\PTopoDS_TWire1.cxx">
+      <Filter>PTopoDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PTopoDS\PTopoDS_Vertex.cxx">
+      <Filter>PTopoDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PTopoDS\PTopoDS_Wire.cxx">
+      <Filter>PTopoDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PGeom\PGeom_Axis1Placement.cxx">
+      <Filter>PGeom</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PGeom\PGeom_Axis2Placement.cxx">
+      <Filter>PGeom</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PGeom\PGeom_AxisPlacement.cxx">
+      <Filter>PGeom</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PGeom\PGeom_BSplineCurve.cxx">
+      <Filter>PGeom</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PGeom\PGeom_BSplineSurface.cxx">
+      <Filter>PGeom</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PGeom\PGeom_BezierCurve.cxx">
+      <Filter>PGeom</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PGeom\PGeom_BezierSurface.cxx">
+      <Filter>PGeom</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PGeom\PGeom_BoundedCurve.cxx">
+      <Filter>PGeom</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PGeom\PGeom_BoundedSurface.cxx">
+      <Filter>PGeom</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PGeom\PGeom_CartesianPoint.cxx">
+      <Filter>PGeom</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PGeom\PGeom_Circle.cxx">
+      <Filter>PGeom</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PGeom\PGeom_Conic.cxx">
+      <Filter>PGeom</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PGeom\PGeom_ConicalSurface.cxx">
+      <Filter>PGeom</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PGeom\PGeom_Curve.cxx">
+      <Filter>PGeom</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PGeom\PGeom_CylindricalSurface.cxx">
+      <Filter>PGeom</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PGeom\PGeom_Direction.cxx">
+      <Filter>PGeom</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PGeom\PGeom_ElementarySurface.cxx">
+      <Filter>PGeom</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PGeom\PGeom_Ellipse.cxx">
+      <Filter>PGeom</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PGeom\PGeom_Geometry.cxx">
+      <Filter>PGeom</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PGeom\PGeom_Hyperbola.cxx">
+      <Filter>PGeom</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PGeom\PGeom_Line.cxx">
+      <Filter>PGeom</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PGeom\PGeom_OffsetCurve.cxx">
+      <Filter>PGeom</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PGeom\PGeom_OffsetSurface.cxx">
+      <Filter>PGeom</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PGeom\PGeom_Parabola.cxx">
+      <Filter>PGeom</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PGeom\PGeom_Plane.cxx">
+      <Filter>PGeom</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PGeom\PGeom_Point.cxx">
+      <Filter>PGeom</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PGeom\PGeom_RectangularTrimmedSurface.cxx">
+      <Filter>PGeom</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PGeom\PGeom_SphericalSurface.cxx">
+      <Filter>PGeom</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PGeom\PGeom_Surface.cxx">
+      <Filter>PGeom</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PGeom\PGeom_SurfaceOfLinearExtrusion.cxx">
+      <Filter>PGeom</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PGeom\PGeom_SurfaceOfRevolution.cxx">
+      <Filter>PGeom</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PGeom\PGeom_SweptSurface.cxx">
+      <Filter>PGeom</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PGeom\PGeom_ToroidalSurface.cxx">
+      <Filter>PGeom</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PGeom\PGeom_Transformation.cxx">
+      <Filter>PGeom</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PGeom\PGeom_TrimmedCurve.cxx">
+      <Filter>PGeom</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PGeom\PGeom_Vector.cxx">
+      <Filter>PGeom</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PGeom\PGeom_VectorWithMagnitude.cxx">
+      <Filter>PGeom</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PGeom2d\PGeom2d_AxisPlacement.cxx">
+      <Filter>PGeom2d</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PGeom2d\PGeom2d_BSplineCurve.cxx">
+      <Filter>PGeom2d</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PGeom2d\PGeom2d_BezierCurve.cxx">
+      <Filter>PGeom2d</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PGeom2d\PGeom2d_BoundedCurve.cxx">
+      <Filter>PGeom2d</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PGeom2d\PGeom2d_CartesianPoint.cxx">
+      <Filter>PGeom2d</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PGeom2d\PGeom2d_Circle.cxx">
+      <Filter>PGeom2d</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PGeom2d\PGeom2d_Conic.cxx">
+      <Filter>PGeom2d</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PGeom2d\PGeom2d_Curve.cxx">
+      <Filter>PGeom2d</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PGeom2d\PGeom2d_Direction.cxx">
+      <Filter>PGeom2d</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PGeom2d\PGeom2d_Ellipse.cxx">
+      <Filter>PGeom2d</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PGeom2d\PGeom2d_Geometry.cxx">
+      <Filter>PGeom2d</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PGeom2d\PGeom2d_Hyperbola.cxx">
+      <Filter>PGeom2d</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PGeom2d\PGeom2d_Line.cxx">
+      <Filter>PGeom2d</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PGeom2d\PGeom2d_OffsetCurve.cxx">
+      <Filter>PGeom2d</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PGeom2d\PGeom2d_Parabola.cxx">
+      <Filter>PGeom2d</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PGeom2d\PGeom2d_Point.cxx">
+      <Filter>PGeom2d</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PGeom2d\PGeom2d_Transformation.cxx">
+      <Filter>PGeom2d</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PGeom2d\PGeom2d_TrimmedCurve.cxx">
+      <Filter>PGeom2d</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PGeom2d\PGeom2d_Vector.cxx">
+      <Filter>PGeom2d</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PGeom2d\PGeom2d_VectorWithMagnitude.cxx">
+      <Filter>PGeom2d</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PPoly\PPoly_FieldOfHArray1OfTriangle_0.cxx">
+      <Filter>PPoly</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PPoly\PPoly_HArray1OfTriangle_0.cxx">
+      <Filter>PPoly</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PPoly\PPoly_VArrayNodeOfFieldOfHArray1OfTriangle_0.cxx">
+      <Filter>PPoly</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PPoly\PPoly_VArrayTNodeOfFieldOfHArray1OfTriangle_0.cxx">
+      <Filter>PPoly</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PPoly\PPoly_Polygon2D.cxx">
+      <Filter>PPoly</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PPoly\PPoly_Polygon3D.cxx">
+      <Filter>PPoly</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PPoly\PPoly_PolygonOnTriangulation.cxx">
+      <Filter>PPoly</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PPoly\PPoly_Triangle.cxx">
+      <Filter>PPoly</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PPoly\PPoly_Triangulation.cxx">
+      <Filter>PPoly</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColgp\PColgp_FieldOfHArray1OfCirc2d_0.cxx">
+      <Filter>PColgp</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColgp\PColgp_FieldOfHArray1OfDir2d_0.cxx">
+      <Filter>PColgp</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColgp\PColgp_FieldOfHArray1OfDir_0.cxx">
+      <Filter>PColgp</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColgp\PColgp_FieldOfHArray1OfLin2d_0.cxx">
+      <Filter>PColgp</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColgp\PColgp_FieldOfHArray1OfPnt2d_0.cxx">
+      <Filter>PColgp</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColgp\PColgp_FieldOfHArray1OfPnt_0.cxx">
+      <Filter>PColgp</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColgp\PColgp_FieldOfHArray1OfVec2d_0.cxx">
+      <Filter>PColgp</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColgp\PColgp_FieldOfHArray1OfVec_0.cxx">
+      <Filter>PColgp</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColgp\PColgp_FieldOfHArray1OfXYZ_0.cxx">
+      <Filter>PColgp</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColgp\PColgp_FieldOfHArray1OfXY_0.cxx">
+      <Filter>PColgp</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColgp\PColgp_FieldOfHArray2OfCirc2d_0.cxx">
+      <Filter>PColgp</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColgp\PColgp_FieldOfHArray2OfDir2d_0.cxx">
+      <Filter>PColgp</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColgp\PColgp_FieldOfHArray2OfDir_0.cxx">
+      <Filter>PColgp</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColgp\PColgp_FieldOfHArray2OfLin2d_0.cxx">
+      <Filter>PColgp</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColgp\PColgp_FieldOfHArray2OfPnt2d_0.cxx">
+      <Filter>PColgp</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColgp\PColgp_FieldOfHArray2OfPnt_0.cxx">
+      <Filter>PColgp</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColgp\PColgp_FieldOfHArray2OfVec2d_0.cxx">
+      <Filter>PColgp</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColgp\PColgp_FieldOfHArray2OfVec_0.cxx">
+      <Filter>PColgp</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColgp\PColgp_FieldOfHArray2OfXYZ_0.cxx">
+      <Filter>PColgp</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColgp\PColgp_FieldOfHArray2OfXY_0.cxx">
+      <Filter>PColgp</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColgp\PColgp_HArray1OfCirc2d_0.cxx">
+      <Filter>PColgp</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColgp\PColgp_HArray1OfDir2d_0.cxx">
+      <Filter>PColgp</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColgp\PColgp_HArray1OfDir_0.cxx">
+      <Filter>PColgp</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColgp\PColgp_HArray1OfLin2d_0.cxx">
+      <Filter>PColgp</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColgp\PColgp_HArray1OfPnt2d_0.cxx">
+      <Filter>PColgp</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColgp\PColgp_HArray1OfPnt_0.cxx">
+      <Filter>PColgp</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColgp\PColgp_HArray1OfVec2d_0.cxx">
+      <Filter>PColgp</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColgp\PColgp_HArray1OfVec_0.cxx">
+      <Filter>PColgp</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColgp\PColgp_HArray1OfXYZ_0.cxx">
+      <Filter>PColgp</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColgp\PColgp_HArray1OfXY_0.cxx">
+      <Filter>PColgp</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColgp\PColgp_HArray2OfCirc2d_0.cxx">
+      <Filter>PColgp</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColgp\PColgp_HArray2OfDir2d_0.cxx">
+      <Filter>PColgp</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColgp\PColgp_HArray2OfDir_0.cxx">
+      <Filter>PColgp</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColgp\PColgp_HArray2OfLin2d_0.cxx">
+      <Filter>PColgp</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColgp\PColgp_HArray2OfPnt2d_0.cxx">
+      <Filter>PColgp</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColgp\PColgp_HArray2OfPnt_0.cxx">
+      <Filter>PColgp</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColgp\PColgp_HArray2OfVec2d_0.cxx">
+      <Filter>PColgp</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColgp\PColgp_HArray2OfVec_0.cxx">
+      <Filter>PColgp</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColgp\PColgp_HArray2OfXYZ_0.cxx">
+      <Filter>PColgp</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColgp\PColgp_HArray2OfXY_0.cxx">
+      <Filter>PColgp</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColgp\PColgp_HSequenceOfDir_0.cxx">
+      <Filter>PColgp</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColgp\PColgp_HSequenceOfPnt_0.cxx">
+      <Filter>PColgp</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColgp\PColgp_HSequenceOfVec_0.cxx">
+      <Filter>PColgp</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColgp\PColgp_HSequenceOfXYZ_0.cxx">
+      <Filter>PColgp</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColgp\PColgp_SeqExplorerOfHSequenceOfDir_0.cxx">
+      <Filter>PColgp</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColgp\PColgp_SeqExplorerOfHSequenceOfPnt_0.cxx">
+      <Filter>PColgp</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColgp\PColgp_SeqExplorerOfHSequenceOfVec_0.cxx">
+      <Filter>PColgp</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColgp\PColgp_SeqExplorerOfHSequenceOfXYZ_0.cxx">
+      <Filter>PColgp</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColgp\PColgp_SeqNodeOfHSequenceOfDir_0.cxx">
+      <Filter>PColgp</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColgp\PColgp_SeqNodeOfHSequenceOfPnt_0.cxx">
+      <Filter>PColgp</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColgp\PColgp_SeqNodeOfHSequenceOfVec_0.cxx">
+      <Filter>PColgp</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColgp\PColgp_SeqNodeOfHSequenceOfXYZ_0.cxx">
+      <Filter>PColgp</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColgp\PColgp_VArrayNodeOfFieldOfHArray1OfCirc2d_0.cxx">
+      <Filter>PColgp</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColgp\PColgp_VArrayNodeOfFieldOfHArray1OfDir2d_0.cxx">
+      <Filter>PColgp</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColgp\PColgp_VArrayNodeOfFieldOfHArray1OfDir_0.cxx">
+      <Filter>PColgp</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColgp\PColgp_VArrayNodeOfFieldOfHArray1OfLin2d_0.cxx">
+      <Filter>PColgp</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColgp\PColgp_VArrayNodeOfFieldOfHArray1OfPnt2d_0.cxx">
+      <Filter>PColgp</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColgp\PColgp_VArrayNodeOfFieldOfHArray1OfPnt_0.cxx">
+      <Filter>PColgp</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColgp\PColgp_VArrayNodeOfFieldOfHArray1OfVec2d_0.cxx">
+      <Filter>PColgp</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColgp\PColgp_VArrayNodeOfFieldOfHArray1OfVec_0.cxx">
+      <Filter>PColgp</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColgp\PColgp_VArrayNodeOfFieldOfHArray1OfXYZ_0.cxx">
+      <Filter>PColgp</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColgp\PColgp_VArrayNodeOfFieldOfHArray1OfXY_0.cxx">
+      <Filter>PColgp</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColgp\PColgp_VArrayNodeOfFieldOfHArray2OfCirc2d_0.cxx">
+      <Filter>PColgp</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColgp\PColgp_VArrayNodeOfFieldOfHArray2OfDir2d_0.cxx">
+      <Filter>PColgp</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColgp\PColgp_VArrayNodeOfFieldOfHArray2OfDir_0.cxx">
+      <Filter>PColgp</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColgp\PColgp_VArrayNodeOfFieldOfHArray2OfLin2d_0.cxx">
+      <Filter>PColgp</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColgp\PColgp_VArrayNodeOfFieldOfHArray2OfPnt2d_0.cxx">
+      <Filter>PColgp</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColgp\PColgp_VArrayNodeOfFieldOfHArray2OfPnt_0.cxx">
+      <Filter>PColgp</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColgp\PColgp_VArrayNodeOfFieldOfHArray2OfVec2d_0.cxx">
+      <Filter>PColgp</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColgp\PColgp_VArrayNodeOfFieldOfHArray2OfVec_0.cxx">
+      <Filter>PColgp</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColgp\PColgp_VArrayNodeOfFieldOfHArray2OfXYZ_0.cxx">
+      <Filter>PColgp</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColgp\PColgp_VArrayNodeOfFieldOfHArray2OfXY_0.cxx">
+      <Filter>PColgp</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColgp\PColgp_VArrayTNodeOfFieldOfHArray1OfCirc2d_0.cxx">
+      <Filter>PColgp</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColgp\PColgp_VArrayTNodeOfFieldOfHArray1OfDir2d_0.cxx">
+      <Filter>PColgp</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColgp\PColgp_VArrayTNodeOfFieldOfHArray1OfDir_0.cxx">
+      <Filter>PColgp</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColgp\PColgp_VArrayTNodeOfFieldOfHArray1OfLin2d_0.cxx">
+      <Filter>PColgp</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColgp\PColgp_VArrayTNodeOfFieldOfHArray1OfPnt2d_0.cxx">
+      <Filter>PColgp</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColgp\PColgp_VArrayTNodeOfFieldOfHArray1OfPnt_0.cxx">
+      <Filter>PColgp</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColgp\PColgp_VArrayTNodeOfFieldOfHArray1OfVec2d_0.cxx">
+      <Filter>PColgp</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColgp\PColgp_VArrayTNodeOfFieldOfHArray1OfVec_0.cxx">
+      <Filter>PColgp</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColgp\PColgp_VArrayTNodeOfFieldOfHArray1OfXYZ_0.cxx">
+      <Filter>PColgp</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColgp\PColgp_VArrayTNodeOfFieldOfHArray1OfXY_0.cxx">
+      <Filter>PColgp</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColgp\PColgp_VArrayTNodeOfFieldOfHArray2OfCirc2d_0.cxx">
+      <Filter>PColgp</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColgp\PColgp_VArrayTNodeOfFieldOfHArray2OfDir2d_0.cxx">
+      <Filter>PColgp</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColgp\PColgp_VArrayTNodeOfFieldOfHArray2OfDir_0.cxx">
+      <Filter>PColgp</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColgp\PColgp_VArrayTNodeOfFieldOfHArray2OfLin2d_0.cxx">
+      <Filter>PColgp</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColgp\PColgp_VArrayTNodeOfFieldOfHArray2OfPnt2d_0.cxx">
+      <Filter>PColgp</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColgp\PColgp_VArrayTNodeOfFieldOfHArray2OfPnt_0.cxx">
+      <Filter>PColgp</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColgp\PColgp_VArrayTNodeOfFieldOfHArray2OfVec2d_0.cxx">
+      <Filter>PColgp</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColgp\PColgp_VArrayTNodeOfFieldOfHArray2OfVec_0.cxx">
+      <Filter>PColgp</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColgp\PColgp_VArrayTNodeOfFieldOfHArray2OfXYZ_0.cxx">
+      <Filter>PColgp</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColgp\PColgp_VArrayTNodeOfFieldOfHArray2OfXY_0.cxx">
+      <Filter>PColgp</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PTopLoc\PTopLoc_Datum3D.cxx">
+      <Filter>PTopLoc</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PTopLoc\PTopLoc_ItemLocation.cxx">
+      <Filter>PTopLoc</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PTopLoc\PTopLoc_Location.cxx">
+      <Filter>PTopLoc</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MgtBRep\MgtBRep.cxx">
+      <Filter>MgtBRep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MgtBRep\MgtBRep_TranslateTool.cxx">
+      <Filter>MgtBRep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MgtBRep\MgtBRep_TranslateTool1.cxx">
+      <Filter>MgtBRep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MgtGeom\MgtGeom.cxx">
+      <Filter>MgtGeom</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MgtGeom2d\MgtGeom2d.cxx">
+      <Filter>MgtGeom2d</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MgtPoly\MgtPoly.cxx">
+      <Filter>MgtPoly</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MgtTopLoc\MgtTopLoc.cxx">
+      <Filter>MgtTopLoc</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MgtTopoDS\MgtTopoDS.cxx">
+      <Filter>MgtTopoDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MgtTopoDS\MgtTopoDS_TranslateTool.cxx">
+      <Filter>MgtTopoDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MgtTopoDS\MgtTopoDS_TranslateTool1.cxx">
+      <Filter>MgtTopoDS</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="E:\code\c\oce\adm\cmake\TKPShape\Precompiled.h">
+      <Filter>Precompiled</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\code\c\oce\adm\cmake\TKPShape\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="E:\code\c\oce\build\Version.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="MgtBRep">
+      <UniqueIdentifier>{2A9C1430-0B95-3F94-8446-C2AD39C544FB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MgtGeom">
+      <UniqueIdentifier>{C5A583A9-D202-37EF-A038-D8620563A57B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MgtGeom2d">
+      <UniqueIdentifier>{834061B8-22CA-3F7F-886A-723C2B8035F3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MgtPoly">
+      <UniqueIdentifier>{6434C1D4-B384-30B4-8751-C09AC641B6B9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MgtTopLoc">
+      <UniqueIdentifier>{7F368BB9-9559-3D71-82D3-48A2008938F1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MgtTopoDS">
+      <UniqueIdentifier>{42ABEFE2-EC4B-3C63-B226-7379C63B575B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PBRep">
+      <UniqueIdentifier>{884BC57C-014E-388C-B2DA-5C8E35C79CF1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PColgp">
+      <UniqueIdentifier>{0902CA51-0299-3872-8E50-69A481F1BB88}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PGeom">
+      <UniqueIdentifier>{EBDB22E4-6AB9-348D-A940-5B6F21CEA88B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PGeom2d">
+      <UniqueIdentifier>{31DA39E2-72F6-3149-92F6-A8D36A29DD0A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PPoly">
+      <UniqueIdentifier>{55624016-0569-3F1C-BA92-85EA04CADE9E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PTopLoc">
+      <UniqueIdentifier>{F5BE0B4D-7639-323C-90A8-691EFDA9D4A2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PTopoDS">
+      <UniqueIdentifier>{011F8B9C-84C3-3146-9A60-44D1C8375894}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Precompiled">
+      <UniqueIdentifier>{9798687B-1064-3C74-84F3-7C7EA6AC7B09}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{89761968-2B46-3580-8630-22C285107311}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

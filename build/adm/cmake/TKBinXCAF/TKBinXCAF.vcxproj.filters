@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\code\c\oce\adm\cmake\TKBinXCAF\Precompiled.cpp">
+      <Filter>Precompiled</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BinXCAFDrivers\BinXCAFDrivers.cxx">
+      <Filter>BinXCAFDrivers</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BinXCAFDrivers\BinXCAFDrivers_DocumentRetrievalDriver.cxx">
+      <Filter>BinXCAFDrivers</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BinXCAFDrivers\BinXCAFDrivers_DocumentStorageDriver.cxx">
+      <Filter>BinXCAFDrivers</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BinMXCAFDoc\BinMXCAFDoc.cxx">
+      <Filter>BinMXCAFDoc</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BinMXCAFDoc\BinMXCAFDoc_AreaDriver.cxx">
+      <Filter>BinMXCAFDoc</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BinMXCAFDoc\BinMXCAFDoc_CentroidDriver.cxx">
+      <Filter>BinMXCAFDoc</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BinMXCAFDoc\BinMXCAFDoc_ColorDriver.cxx">
+      <Filter>BinMXCAFDoc</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BinMXCAFDoc\BinMXCAFDoc_ColorToolDriver.cxx">
+      <Filter>BinMXCAFDoc</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BinMXCAFDoc\BinMXCAFDoc_DatumDriver.cxx">
+      <Filter>BinMXCAFDoc</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BinMXCAFDoc\BinMXCAFDoc_DimTolDriver.cxx">
+      <Filter>BinMXCAFDoc</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BinMXCAFDoc\BinMXCAFDoc_DimTolToolDriver.cxx">
+      <Filter>BinMXCAFDoc</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BinMXCAFDoc\BinMXCAFDoc_DocumentToolDriver.cxx">
+      <Filter>BinMXCAFDoc</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BinMXCAFDoc\BinMXCAFDoc_GraphNodeDriver.cxx">
+      <Filter>BinMXCAFDoc</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BinMXCAFDoc\BinMXCAFDoc_LayerToolDriver.cxx">
+      <Filter>BinMXCAFDoc</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BinMXCAFDoc\BinMXCAFDoc_LocationDriver.cxx">
+      <Filter>BinMXCAFDoc</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BinMXCAFDoc\BinMXCAFDoc_MaterialDriver.cxx">
+      <Filter>BinMXCAFDoc</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BinMXCAFDoc\BinMXCAFDoc_MaterialToolDriver.cxx">
+      <Filter>BinMXCAFDoc</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BinMXCAFDoc\BinMXCAFDoc_ShapeToolDriver.cxx">
+      <Filter>BinMXCAFDoc</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BinMXCAFDoc\BinMXCAFDoc_VolumeDriver.cxx">
+      <Filter>BinMXCAFDoc</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="E:\code\c\oce\adm\cmake\TKBinXCAF\Precompiled.h">
+      <Filter>Precompiled</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\code\c\oce\adm\cmake\TKBinXCAF\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="E:\code\c\oce\build\Version.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="BinMXCAFDoc">
+      <UniqueIdentifier>{3761D1F4-DCC2-3B7E-AED4-46B014D36FA5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BinXCAFDrivers">
+      <UniqueIdentifier>{0C1D5FE5-C7DC-3893-B8DB-E69784ECDD84}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Precompiled">
+      <UniqueIdentifier>{9798687B-1064-3C74-84F3-7C7EA6AC7B09}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{89761968-2B46-3580-8630-22C285107311}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

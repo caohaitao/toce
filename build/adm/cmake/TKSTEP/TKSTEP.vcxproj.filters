@@ -1,0 +1,1061 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\code\c\oce\adm\cmake\TKSTEP\Precompiled.cpp">
+      <Filter>Precompiled</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StepAP214\StepAP214_Array1OfApprovalItem_0.cxx">
+      <Filter>StepAP214</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StepAP214\StepAP214_Array1OfAutoDesignDateAndPersonItem_0.cxx">
+      <Filter>StepAP214</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StepAP214\StepAP214_Array1OfAutoDesignDateAndTimeItem_0.cxx">
+      <Filter>StepAP214</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StepAP214\StepAP214_Array1OfAutoDesignDatedItem_0.cxx">
+      <Filter>StepAP214</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StepAP214\StepAP214_Array1OfAutoDesignGeneralOrgItem_0.cxx">
+      <Filter>StepAP214</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StepAP214\StepAP214_Array1OfAutoDesignGroupedItem_0.cxx">
+      <Filter>StepAP214</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StepAP214\StepAP214_Array1OfAutoDesignPresentedItemSelect_0.cxx">
+      <Filter>StepAP214</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StepAP214\StepAP214_Array1OfAutoDesignReferencingItem_0.cxx">
+      <Filter>StepAP214</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StepAP214\StepAP214_Array1OfDateAndTimeItem_0.cxx">
+      <Filter>StepAP214</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StepAP214\StepAP214_Array1OfDateItem_0.cxx">
+      <Filter>StepAP214</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StepAP214\StepAP214_Array1OfDocumentReferenceItem_0.cxx">
+      <Filter>StepAP214</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StepAP214\StepAP214_Array1OfExternalIdentificationItem_0.cxx">
+      <Filter>StepAP214</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StepAP214\StepAP214_Array1OfGroupItem_0.cxx">
+      <Filter>StepAP214</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StepAP214\StepAP214_Array1OfOrganizationItem_0.cxx">
+      <Filter>StepAP214</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StepAP214\StepAP214_Array1OfPersonAndOrganizationItem_0.cxx">
+      <Filter>StepAP214</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StepAP214\StepAP214_Array1OfPresentedItemSelect_0.cxx">
+      <Filter>StepAP214</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StepAP214\StepAP214_Array1OfSecurityClassificationItem_0.cxx">
+      <Filter>StepAP214</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StepAP214\StepAP214_HArray1OfApprovalItem_0.cxx">
+      <Filter>StepAP214</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StepAP214\StepAP214_HArray1OfAutoDesignDateAndPersonItem_0.cxx">
+      <Filter>StepAP214</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StepAP214\StepAP214_HArray1OfAutoDesignDateAndTimeItem_0.cxx">
+      <Filter>StepAP214</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StepAP214\StepAP214_HArray1OfAutoDesignDatedItem_0.cxx">
+      <Filter>StepAP214</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StepAP214\StepAP214_HArray1OfAutoDesignGeneralOrgItem_0.cxx">
+      <Filter>StepAP214</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StepAP214\StepAP214_HArray1OfAutoDesignGroupedItem_0.cxx">
+      <Filter>StepAP214</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StepAP214\StepAP214_HArray1OfAutoDesignPresentedItemSelect_0.cxx">
+      <Filter>StepAP214</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StepAP214\StepAP214_HArray1OfAutoDesignReferencingItem_0.cxx">
+      <Filter>StepAP214</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StepAP214\StepAP214_HArray1OfDateAndTimeItem_0.cxx">
+      <Filter>StepAP214</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StepAP214\StepAP214_HArray1OfDateItem_0.cxx">
+      <Filter>StepAP214</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StepAP214\StepAP214_HArray1OfDocumentReferenceItem_0.cxx">
+      <Filter>StepAP214</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StepAP214\StepAP214_HArray1OfExternalIdentificationItem_0.cxx">
+      <Filter>StepAP214</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StepAP214\StepAP214_HArray1OfGroupItem_0.cxx">
+      <Filter>StepAP214</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StepAP214\StepAP214_HArray1OfOrganizationItem_0.cxx">
+      <Filter>StepAP214</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StepAP214\StepAP214_HArray1OfPersonAndOrganizationItem_0.cxx">
+      <Filter>StepAP214</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StepAP214\StepAP214_HArray1OfPresentedItemSelect_0.cxx">
+      <Filter>StepAP214</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StepAP214\StepAP214_HArray1OfSecurityClassificationItem_0.cxx">
+      <Filter>StepAP214</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepAP214\StepAP214.cxx">
+      <Filter>StepAP214</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepAP214\StepAP214_AppliedApprovalAssignment.cxx">
+      <Filter>StepAP214</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepAP214\StepAP214_AppliedDateAndTimeAssignment.cxx">
+      <Filter>StepAP214</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepAP214\StepAP214_AppliedDateAssignment.cxx">
+      <Filter>StepAP214</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepAP214\StepAP214_AppliedDocumentReference.cxx">
+      <Filter>StepAP214</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepAP214\StepAP214_AppliedExternalIdentificationAssignment.cxx">
+      <Filter>StepAP214</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepAP214\StepAP214_AppliedGroupAssignment.cxx">
+      <Filter>StepAP214</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepAP214\StepAP214_AppliedOrganizationAssignment.cxx">
+      <Filter>StepAP214</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepAP214\StepAP214_AppliedPersonAndOrganizationAssignment.cxx">
+      <Filter>StepAP214</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepAP214\StepAP214_AppliedPresentedItem.cxx">
+      <Filter>StepAP214</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepAP214\StepAP214_AppliedSecurityClassificationAssignment.cxx">
+      <Filter>StepAP214</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepAP214\StepAP214_ApprovalItem.cxx">
+      <Filter>StepAP214</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepAP214\StepAP214_AutoDesignActualDateAndTimeAssignment.cxx">
+      <Filter>StepAP214</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepAP214\StepAP214_AutoDesignActualDateAssignment.cxx">
+      <Filter>StepAP214</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepAP214\StepAP214_AutoDesignApprovalAssignment.cxx">
+      <Filter>StepAP214</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepAP214\StepAP214_AutoDesignDateAndPersonAssignment.cxx">
+      <Filter>StepAP214</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepAP214\StepAP214_AutoDesignDateAndPersonItem.cxx">
+      <Filter>StepAP214</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepAP214\StepAP214_AutoDesignDateAndTimeItem.cxx">
+      <Filter>StepAP214</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepAP214\StepAP214_AutoDesignDatedItem.cxx">
+      <Filter>StepAP214</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepAP214\StepAP214_AutoDesignDocumentReference.cxx">
+      <Filter>StepAP214</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepAP214\StepAP214_AutoDesignGeneralOrgItem.cxx">
+      <Filter>StepAP214</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepAP214\StepAP214_AutoDesignGroupAssignment.cxx">
+      <Filter>StepAP214</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepAP214\StepAP214_AutoDesignGroupedItem.cxx">
+      <Filter>StepAP214</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepAP214\StepAP214_AutoDesignNominalDateAndTimeAssignment.cxx">
+      <Filter>StepAP214</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepAP214\StepAP214_AutoDesignNominalDateAssignment.cxx">
+      <Filter>StepAP214</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepAP214\StepAP214_AutoDesignOrganizationAssignment.cxx">
+      <Filter>StepAP214</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepAP214\StepAP214_AutoDesignOrganizationItem.cxx">
+      <Filter>StepAP214</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepAP214\StepAP214_AutoDesignPersonAndOrganizationAssignment.cxx">
+      <Filter>StepAP214</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepAP214\StepAP214_AutoDesignPresentedItem.cxx">
+      <Filter>StepAP214</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepAP214\StepAP214_AutoDesignPresentedItemSelect.cxx">
+      <Filter>StepAP214</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepAP214\StepAP214_AutoDesignReferencingItem.cxx">
+      <Filter>StepAP214</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepAP214\StepAP214_AutoDesignSecurityClassificationAssignment.cxx">
+      <Filter>StepAP214</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepAP214\StepAP214_Class.cxx">
+      <Filter>StepAP214</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepAP214\StepAP214_DateAndTimeItem.cxx">
+      <Filter>StepAP214</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepAP214\StepAP214_DateItem.cxx">
+      <Filter>StepAP214</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepAP214\StepAP214_DocumentReferenceItem.cxx">
+      <Filter>StepAP214</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepAP214\StepAP214_ExternalIdentificationItem.cxx">
+      <Filter>StepAP214</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepAP214\StepAP214_ExternallyDefinedClass.cxx">
+      <Filter>StepAP214</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepAP214\StepAP214_ExternallyDefinedGeneralProperty.cxx">
+      <Filter>StepAP214</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepAP214\StepAP214_GroupItem.cxx">
+      <Filter>StepAP214</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepAP214\StepAP214_OrganizationItem.cxx">
+      <Filter>StepAP214</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepAP214\StepAP214_PersonAndOrganizationItem.cxx">
+      <Filter>StepAP214</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepAP214\StepAP214_PresentedItemSelect.cxx">
+      <Filter>StepAP214</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepAP214\StepAP214_Protocol.cxx">
+      <Filter>StepAP214</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepAP214\StepAP214_RepItemGroup.cxx">
+      <Filter>StepAP214</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepAP214\StepAP214_SecurityClassificationItem.cxx">
+      <Filter>StepAP214</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepAP214\RWStepAP214.cxx">
+      <Filter>RWStepAP214</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepAP214\RWStepAP214_GeneralModule.cxx">
+      <Filter>RWStepAP214</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepAP214\RWStepAP214_RWAppliedApprovalAssignment.cxx">
+      <Filter>RWStepAP214</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepAP214\RWStepAP214_RWAppliedDateAndTimeAssignment.cxx">
+      <Filter>RWStepAP214</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepAP214\RWStepAP214_RWAppliedDateAssignment.cxx">
+      <Filter>RWStepAP214</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepAP214\RWStepAP214_RWAppliedDocumentReference.cxx">
+      <Filter>RWStepAP214</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepAP214\RWStepAP214_RWAppliedExternalIdentificationAssignment.cxx">
+      <Filter>RWStepAP214</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepAP214\RWStepAP214_RWAppliedGroupAssignment.cxx">
+      <Filter>RWStepAP214</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepAP214\RWStepAP214_RWAppliedOrganizationAssignment.cxx">
+      <Filter>RWStepAP214</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepAP214\RWStepAP214_RWAppliedPersonAndOrganizationAssignment.cxx">
+      <Filter>RWStepAP214</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepAP214\RWStepAP214_RWAppliedPresentedItem.cxx">
+      <Filter>RWStepAP214</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepAP214\RWStepAP214_RWAppliedSecurityClassificationAssignment.cxx">
+      <Filter>RWStepAP214</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepAP214\RWStepAP214_RWAutoDesignActualDateAndTimeAssignment.cxx">
+      <Filter>RWStepAP214</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepAP214\RWStepAP214_RWAutoDesignActualDateAssignment.cxx">
+      <Filter>RWStepAP214</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepAP214\RWStepAP214_RWAutoDesignApprovalAssignment.cxx">
+      <Filter>RWStepAP214</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepAP214\RWStepAP214_RWAutoDesignDateAndPersonAssignment.cxx">
+      <Filter>RWStepAP214</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepAP214\RWStepAP214_RWAutoDesignDocumentReference.cxx">
+      <Filter>RWStepAP214</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepAP214\RWStepAP214_RWAutoDesignGroupAssignment.cxx">
+      <Filter>RWStepAP214</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepAP214\RWStepAP214_RWAutoDesignNominalDateAndTimeAssignment.cxx">
+      <Filter>RWStepAP214</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepAP214\RWStepAP214_RWAutoDesignNominalDateAssignment.cxx">
+      <Filter>RWStepAP214</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepAP214\RWStepAP214_RWAutoDesignOrganizationAssignment.cxx">
+      <Filter>RWStepAP214</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepAP214\RWStepAP214_RWAutoDesignPersonAndOrganizationAssignment.cxx">
+      <Filter>RWStepAP214</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepAP214\RWStepAP214_RWAutoDesignPresentedItem.cxx">
+      <Filter>RWStepAP214</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepAP214\RWStepAP214_RWAutoDesignSecurityClassificationAssignment.cxx">
+      <Filter>RWStepAP214</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepAP214\RWStepAP214_RWClass.cxx">
+      <Filter>RWStepAP214</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepAP214\RWStepAP214_RWExternallyDefinedClass.cxx">
+      <Filter>RWStepAP214</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepAP214\RWStepAP214_RWExternallyDefinedGeneralProperty.cxx">
+      <Filter>RWStepAP214</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepAP214\RWStepAP214_RWRepItemGroup.cxx">
+      <Filter>RWStepAP214</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepAP214\RWStepAP214_ReadWriteModule.cxx">
+      <Filter>RWStepAP214</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StepAP203\StepAP203_Array1OfApprovedItem_0.cxx">
+      <Filter>StepAP203</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StepAP203\StepAP203_Array1OfCertifiedItem_0.cxx">
+      <Filter>StepAP203</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StepAP203\StepAP203_Array1OfChangeRequestItem_0.cxx">
+      <Filter>StepAP203</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StepAP203\StepAP203_Array1OfClassifiedItem_0.cxx">
+      <Filter>StepAP203</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StepAP203\StepAP203_Array1OfContractedItem_0.cxx">
+      <Filter>StepAP203</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StepAP203\StepAP203_Array1OfDateTimeItem_0.cxx">
+      <Filter>StepAP203</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StepAP203\StepAP203_Array1OfPersonOrganizationItem_0.cxx">
+      <Filter>StepAP203</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StepAP203\StepAP203_Array1OfSpecifiedItem_0.cxx">
+      <Filter>StepAP203</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StepAP203\StepAP203_Array1OfStartRequestItem_0.cxx">
+      <Filter>StepAP203</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StepAP203\StepAP203_Array1OfWorkItem_0.cxx">
+      <Filter>StepAP203</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StepAP203\StepAP203_HArray1OfApprovedItem_0.cxx">
+      <Filter>StepAP203</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StepAP203\StepAP203_HArray1OfCertifiedItem_0.cxx">
+      <Filter>StepAP203</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StepAP203\StepAP203_HArray1OfChangeRequestItem_0.cxx">
+      <Filter>StepAP203</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StepAP203\StepAP203_HArray1OfClassifiedItem_0.cxx">
+      <Filter>StepAP203</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StepAP203\StepAP203_HArray1OfContractedItem_0.cxx">
+      <Filter>StepAP203</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StepAP203\StepAP203_HArray1OfDateTimeItem_0.cxx">
+      <Filter>StepAP203</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StepAP203\StepAP203_HArray1OfPersonOrganizationItem_0.cxx">
+      <Filter>StepAP203</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StepAP203\StepAP203_HArray1OfSpecifiedItem_0.cxx">
+      <Filter>StepAP203</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StepAP203\StepAP203_HArray1OfStartRequestItem_0.cxx">
+      <Filter>StepAP203</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StepAP203\StepAP203_HArray1OfWorkItem_0.cxx">
+      <Filter>StepAP203</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepAP203\StepAP203_ApprovedItem.cxx">
+      <Filter>StepAP203</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepAP203\StepAP203_CcDesignApproval.cxx">
+      <Filter>StepAP203</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepAP203\StepAP203_CcDesignCertification.cxx">
+      <Filter>StepAP203</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepAP203\StepAP203_CcDesignContract.cxx">
+      <Filter>StepAP203</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepAP203\StepAP203_CcDesignDateAndTimeAssignment.cxx">
+      <Filter>StepAP203</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepAP203\StepAP203_CcDesignPersonAndOrganizationAssignment.cxx">
+      <Filter>StepAP203</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepAP203\StepAP203_CcDesignSecurityClassification.cxx">
+      <Filter>StepAP203</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepAP203\StepAP203_CcDesignSpecificationReference.cxx">
+      <Filter>StepAP203</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepAP203\StepAP203_CertifiedItem.cxx">
+      <Filter>StepAP203</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepAP203\StepAP203_Change.cxx">
+      <Filter>StepAP203</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepAP203\StepAP203_ChangeRequest.cxx">
+      <Filter>StepAP203</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepAP203\StepAP203_ChangeRequestItem.cxx">
+      <Filter>StepAP203</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepAP203\StepAP203_ClassifiedItem.cxx">
+      <Filter>StepAP203</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepAP203\StepAP203_ContractedItem.cxx">
+      <Filter>StepAP203</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepAP203\StepAP203_DateTimeItem.cxx">
+      <Filter>StepAP203</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepAP203\StepAP203_PersonOrganizationItem.cxx">
+      <Filter>StepAP203</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepAP203\StepAP203_SpecifiedItem.cxx">
+      <Filter>StepAP203</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepAP203\StepAP203_StartRequest.cxx">
+      <Filter>StepAP203</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepAP203\StepAP203_StartRequestItem.cxx">
+      <Filter>StepAP203</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepAP203\StepAP203_StartWork.cxx">
+      <Filter>StepAP203</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepAP203\StepAP203_WorkItem.cxx">
+      <Filter>StepAP203</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepAP203\RWStepAP203_RWCcDesignApproval.cxx">
+      <Filter>RWStepAP203</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepAP203\RWStepAP203_RWCcDesignCertification.cxx">
+      <Filter>RWStepAP203</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepAP203\RWStepAP203_RWCcDesignContract.cxx">
+      <Filter>RWStepAP203</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepAP203\RWStepAP203_RWCcDesignDateAndTimeAssignment.cxx">
+      <Filter>RWStepAP203</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepAP203\RWStepAP203_RWCcDesignPersonAndOrganizationAssignment.cxx">
+      <Filter>RWStepAP203</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepAP203\RWStepAP203_RWCcDesignSecurityClassification.cxx">
+      <Filter>RWStepAP203</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepAP203\RWStepAP203_RWCcDesignSpecificationReference.cxx">
+      <Filter>RWStepAP203</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepAP203\RWStepAP203_RWChange.cxx">
+      <Filter>RWStepAP203</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepAP203\RWStepAP203_RWChangeRequest.cxx">
+      <Filter>RWStepAP203</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepAP203\RWStepAP203_RWStartRequest.cxx">
+      <Filter>RWStepAP203</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepAP203\RWStepAP203_RWStartWork.cxx">
+      <Filter>RWStepAP203</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\STEPConstruct\STEPConstruct_DataMapIteratorOfDataMapOfAsciiStringTransient_0.cxx">
+      <Filter>STEPConstruct</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\STEPConstruct\STEPConstruct_DataMapIteratorOfDataMapOfPointTransient_0.cxx">
+      <Filter>STEPConstruct</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\STEPConstruct\STEPConstruct_DataMapNodeOfDataMapOfAsciiStringTransient_0.cxx">
+      <Filter>STEPConstruct</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\STEPConstruct\STEPConstruct_DataMapNodeOfDataMapOfPointTransient_0.cxx">
+      <Filter>STEPConstruct</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\STEPConstruct\STEPConstruct_DataMapOfAsciiStringTransient_0.cxx">
+      <Filter>STEPConstruct</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\STEPConstruct\STEPConstruct_DataMapOfPointTransient_0.cxx">
+      <Filter>STEPConstruct</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\STEPConstruct\STEPConstruct.cxx">
+      <Filter>STEPConstruct</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\STEPConstruct\STEPConstruct_AP203Context.cxx">
+      <Filter>STEPConstruct</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\STEPConstruct\STEPConstruct_Assembly.cxx">
+      <Filter>STEPConstruct</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\STEPConstruct\STEPConstruct_ContextTool.cxx">
+      <Filter>STEPConstruct</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\STEPConstruct\STEPConstruct_ExternRefs.cxx">
+      <Filter>STEPConstruct</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\STEPConstruct\STEPConstruct_Part.cxx">
+      <Filter>STEPConstruct</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\STEPConstruct\STEPConstruct_PointHasher.cxx">
+      <Filter>STEPConstruct</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\STEPConstruct\STEPConstruct_Styles.cxx">
+      <Filter>STEPConstruct</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\STEPConstruct\STEPConstruct_Tool.cxx">
+      <Filter>STEPConstruct</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\STEPConstruct\STEPConstruct_UnitContext.cxx">
+      <Filter>STEPConstruct</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\STEPConstruct\STEPConstruct_ValidationProps.cxx">
+      <Filter>STEPConstruct</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\STEPEdit\STEPEdit.cxx">
+      <Filter>STEPEdit</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\STEPEdit\STEPEdit_EditContext.cxx">
+      <Filter>STEPEdit</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\STEPEdit\STEPEdit_EditSDR.cxx">
+      <Filter>STEPEdit</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\GeomToStep\GeomToStep_MakeAxis1Placement.cxx">
+      <Filter>GeomToStep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\GeomToStep\GeomToStep_MakeAxis2Placement2d.cxx">
+      <Filter>GeomToStep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\GeomToStep\GeomToStep_MakeAxis2Placement3d.cxx">
+      <Filter>GeomToStep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\GeomToStep\GeomToStep_MakeBSplineCurveWithKnots.cxx">
+      <Filter>GeomToStep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\GeomToStep\GeomToStep_MakeBSplineCurveWithKnotsAndRationalBSplineCurve.cxx">
+      <Filter>GeomToStep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\GeomToStep\GeomToStep_MakeBSplineSurfaceWithKnots.cxx">
+      <Filter>GeomToStep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\GeomToStep\GeomToStep_MakeBSplineSurfaceWithKnotsAndRationalBSplineSurface.cxx">
+      <Filter>GeomToStep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\GeomToStep\GeomToStep_MakeBoundedCurve.cxx">
+      <Filter>GeomToStep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\GeomToStep\GeomToStep_MakeBoundedSurface.cxx">
+      <Filter>GeomToStep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\GeomToStep\GeomToStep_MakeCartesianPoint.cxx">
+      <Filter>GeomToStep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\GeomToStep\GeomToStep_MakeCircle.cxx">
+      <Filter>GeomToStep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\GeomToStep\GeomToStep_MakeConic.cxx">
+      <Filter>GeomToStep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\GeomToStep\GeomToStep_MakeConicalSurface.cxx">
+      <Filter>GeomToStep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\GeomToStep\GeomToStep_MakeCurve.cxx">
+      <Filter>GeomToStep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\GeomToStep\GeomToStep_MakeCylindricalSurface.cxx">
+      <Filter>GeomToStep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\GeomToStep\GeomToStep_MakeDirection.cxx">
+      <Filter>GeomToStep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\GeomToStep\GeomToStep_MakeElementarySurface.cxx">
+      <Filter>GeomToStep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\GeomToStep\GeomToStep_MakeEllipse.cxx">
+      <Filter>GeomToStep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\GeomToStep\GeomToStep_MakeHyperbola.cxx">
+      <Filter>GeomToStep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\GeomToStep\GeomToStep_MakeLine.cxx">
+      <Filter>GeomToStep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\GeomToStep\GeomToStep_MakeParabola.cxx">
+      <Filter>GeomToStep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\GeomToStep\GeomToStep_MakePlane.cxx">
+      <Filter>GeomToStep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\GeomToStep\GeomToStep_MakePolyline.cxx">
+      <Filter>GeomToStep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\GeomToStep\GeomToStep_MakeRectangularTrimmedSurface.cxx">
+      <Filter>GeomToStep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\GeomToStep\GeomToStep_MakeSphericalSurface.cxx">
+      <Filter>GeomToStep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\GeomToStep\GeomToStep_MakeSurface.cxx">
+      <Filter>GeomToStep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\GeomToStep\GeomToStep_MakeSurfaceOfLinearExtrusion.cxx">
+      <Filter>GeomToStep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\GeomToStep\GeomToStep_MakeSurfaceOfRevolution.cxx">
+      <Filter>GeomToStep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\GeomToStep\GeomToStep_MakeSweptSurface.cxx">
+      <Filter>GeomToStep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\GeomToStep\GeomToStep_MakeToroidalSurface.cxx">
+      <Filter>GeomToStep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\GeomToStep\GeomToStep_MakeVector.cxx">
+      <Filter>GeomToStep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\GeomToStep\GeomToStep_Root.cxx">
+      <Filter>GeomToStep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepToGeom\StepToGeom_MakeAxis1Placement.cxx">
+      <Filter>StepToGeom</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepToGeom\StepToGeom_MakeAxis2Placement.cxx">
+      <Filter>StepToGeom</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepToGeom\StepToGeom_MakeAxisPlacement.cxx">
+      <Filter>StepToGeom</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepToGeom\StepToGeom_MakeBSplineCurve.cxx">
+      <Filter>StepToGeom</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepToGeom\StepToGeom_MakeBSplineCurve2d.cxx">
+      <Filter>StepToGeom</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepToGeom\StepToGeom_MakeBSplineSurface.cxx">
+      <Filter>StepToGeom</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepToGeom\StepToGeom_MakeBoundedCurve.cxx">
+      <Filter>StepToGeom</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepToGeom\StepToGeom_MakeBoundedCurve2d.cxx">
+      <Filter>StepToGeom</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepToGeom\StepToGeom_MakeBoundedSurface.cxx">
+      <Filter>StepToGeom</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepToGeom\StepToGeom_MakeCartesianPoint.cxx">
+      <Filter>StepToGeom</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepToGeom\StepToGeom_MakeCartesianPoint2d.cxx">
+      <Filter>StepToGeom</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepToGeom\StepToGeom_MakeCircle.cxx">
+      <Filter>StepToGeom</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepToGeom\StepToGeom_MakeCircle2d.cxx">
+      <Filter>StepToGeom</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepToGeom\StepToGeom_MakeConic.cxx">
+      <Filter>StepToGeom</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepToGeom\StepToGeom_MakeConic2d.cxx">
+      <Filter>StepToGeom</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepToGeom\StepToGeom_MakeConicalSurface.cxx">
+      <Filter>StepToGeom</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepToGeom\StepToGeom_MakeCurve.cxx">
+      <Filter>StepToGeom</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepToGeom\StepToGeom_MakeCurve2d.cxx">
+      <Filter>StepToGeom</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepToGeom\StepToGeom_MakeCylindricalSurface.cxx">
+      <Filter>StepToGeom</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepToGeom\StepToGeom_MakeDirection.cxx">
+      <Filter>StepToGeom</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepToGeom\StepToGeom_MakeDirection2d.cxx">
+      <Filter>StepToGeom</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepToGeom\StepToGeom_MakeElementarySurface.cxx">
+      <Filter>StepToGeom</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepToGeom\StepToGeom_MakeEllipse.cxx">
+      <Filter>StepToGeom</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepToGeom\StepToGeom_MakeEllipse2d.cxx">
+      <Filter>StepToGeom</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepToGeom\StepToGeom_MakeHyperbola.cxx">
+      <Filter>StepToGeom</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepToGeom\StepToGeom_MakeHyperbola2d.cxx">
+      <Filter>StepToGeom</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepToGeom\StepToGeom_MakeLine.cxx">
+      <Filter>StepToGeom</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepToGeom\StepToGeom_MakeLine2d.cxx">
+      <Filter>StepToGeom</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepToGeom\StepToGeom_MakeParabola.cxx">
+      <Filter>StepToGeom</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepToGeom\StepToGeom_MakeParabola2d.cxx">
+      <Filter>StepToGeom</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepToGeom\StepToGeom_MakePlane.cxx">
+      <Filter>StepToGeom</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepToGeom\StepToGeom_MakePolyline.cxx">
+      <Filter>StepToGeom</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepToGeom\StepToGeom_MakePolyline2d.cxx">
+      <Filter>StepToGeom</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepToGeom\StepToGeom_MakeRectangularTrimmedSurface.cxx">
+      <Filter>StepToGeom</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepToGeom\StepToGeom_MakeSphericalSurface.cxx">
+      <Filter>StepToGeom</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepToGeom\StepToGeom_MakeSurface.cxx">
+      <Filter>StepToGeom</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepToGeom\StepToGeom_MakeSurfaceOfLinearExtrusion.cxx">
+      <Filter>StepToGeom</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepToGeom\StepToGeom_MakeSurfaceOfRevolution.cxx">
+      <Filter>StepToGeom</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepToGeom\StepToGeom_MakeSweptSurface.cxx">
+      <Filter>StepToGeom</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepToGeom\StepToGeom_MakeToroidalSurface.cxx">
+      <Filter>StepToGeom</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepToGeom\StepToGeom_MakeTransformation2d.cxx">
+      <Filter>StepToGeom</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepToGeom\StepToGeom_MakeTransformation3d.cxx">
+      <Filter>StepToGeom</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepToGeom\StepToGeom_MakeTrimmedCurve.cxx">
+      <Filter>StepToGeom</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepToGeom\StepToGeom_MakeTrimmedCurve2d.cxx">
+      <Filter>StepToGeom</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepToGeom\StepToGeom_MakeVectorWithMagnitude.cxx">
+      <Filter>StepToGeom</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepToGeom\StepToGeom_MakeVectorWithMagnitude2d.cxx">
+      <Filter>StepToGeom</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepToGeom\StepToGeom_Root.cxx">
+      <Filter>StepToGeom</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StepToTopoDS\StepToTopoDS_DataMapIteratorOfDataMapOfRINames_0.cxx">
+      <Filter>StepToTopoDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StepToTopoDS\StepToTopoDS_DataMapIteratorOfDataMapOfRI_0.cxx">
+      <Filter>StepToTopoDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StepToTopoDS\StepToTopoDS_DataMapIteratorOfDataMapOfTRI_0.cxx">
+      <Filter>StepToTopoDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StepToTopoDS\StepToTopoDS_DataMapIteratorOfPointEdgeMap_0.cxx">
+      <Filter>StepToTopoDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StepToTopoDS\StepToTopoDS_DataMapIteratorOfPointVertexMap_0.cxx">
+      <Filter>StepToTopoDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StepToTopoDS\StepToTopoDS_DataMapNodeOfDataMapOfRINames_0.cxx">
+      <Filter>StepToTopoDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StepToTopoDS\StepToTopoDS_DataMapNodeOfDataMapOfRI_0.cxx">
+      <Filter>StepToTopoDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StepToTopoDS\StepToTopoDS_DataMapNodeOfDataMapOfTRI_0.cxx">
+      <Filter>StepToTopoDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StepToTopoDS\StepToTopoDS_DataMapNodeOfPointEdgeMap_0.cxx">
+      <Filter>StepToTopoDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StepToTopoDS\StepToTopoDS_DataMapNodeOfPointVertexMap_0.cxx">
+      <Filter>StepToTopoDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StepToTopoDS\StepToTopoDS_DataMapOfRINames_0.cxx">
+      <Filter>StepToTopoDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StepToTopoDS\StepToTopoDS_DataMapOfRI_0.cxx">
+      <Filter>StepToTopoDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StepToTopoDS\StepToTopoDS_DataMapOfTRI_0.cxx">
+      <Filter>StepToTopoDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StepToTopoDS\StepToTopoDS_PointEdgeMap_0.cxx">
+      <Filter>StepToTopoDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StepToTopoDS\StepToTopoDS_PointVertexMap_0.cxx">
+      <Filter>StepToTopoDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepToTopoDS\StepToTopoDS.cxx">
+      <Filter>StepToTopoDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepToTopoDS\StepToTopoDS_Builder.cxx">
+      <Filter>StepToTopoDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepToTopoDS\StepToTopoDS_CartesianPointHasher.cxx">
+      <Filter>StepToTopoDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepToTopoDS\StepToTopoDS_GeometricTool.cxx">
+      <Filter>StepToTopoDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepToTopoDS\StepToTopoDS_MakeTransformed.cxx">
+      <Filter>StepToTopoDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepToTopoDS\StepToTopoDS_NMTool.cxx">
+      <Filter>StepToTopoDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepToTopoDS\StepToTopoDS_PointPair.cxx">
+      <Filter>StepToTopoDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepToTopoDS\StepToTopoDS_PointPairHasher.cxx">
+      <Filter>StepToTopoDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepToTopoDS\StepToTopoDS_Root.cxx">
+      <Filter>StepToTopoDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepToTopoDS\StepToTopoDS_Tool.cxx">
+      <Filter>StepToTopoDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepToTopoDS\StepToTopoDS_TranslateCompositeCurve.cxx">
+      <Filter>StepToTopoDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepToTopoDS\StepToTopoDS_TranslateCurveBoundedSurface.cxx">
+      <Filter>StepToTopoDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepToTopoDS\StepToTopoDS_TranslateEdge.cxx">
+      <Filter>StepToTopoDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepToTopoDS\StepToTopoDS_TranslateEdgeLoop.cxx">
+      <Filter>StepToTopoDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepToTopoDS\StepToTopoDS_TranslateFace.cxx">
+      <Filter>StepToTopoDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepToTopoDS\StepToTopoDS_TranslatePolyLoop.cxx">
+      <Filter>StepToTopoDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepToTopoDS\StepToTopoDS_TranslateShell.cxx">
+      <Filter>StepToTopoDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepToTopoDS\StepToTopoDS_TranslateVertex.cxx">
+      <Filter>StepToTopoDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepToTopoDS\StepToTopoDS_TranslateVertexLoop.cxx">
+      <Filter>StepToTopoDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopoDSToStep\TopoDSToStep.cxx">
+      <Filter>TopoDSToStep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopoDSToStep\TopoDSToStep_Builder.cxx">
+      <Filter>TopoDSToStep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopoDSToStep\TopoDSToStep_FacetedTool.cxx">
+      <Filter>TopoDSToStep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopoDSToStep\TopoDSToStep_MakeBrepWithVoids.cxx">
+      <Filter>TopoDSToStep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopoDSToStep\TopoDSToStep_MakeFacetedBrep.cxx">
+      <Filter>TopoDSToStep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopoDSToStep\TopoDSToStep_MakeFacetedBrepAndBrepWithVoids.cxx">
+      <Filter>TopoDSToStep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopoDSToStep\TopoDSToStep_MakeGeometricCurveSet.cxx">
+      <Filter>TopoDSToStep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopoDSToStep\TopoDSToStep_MakeManifoldSolidBrep.cxx">
+      <Filter>TopoDSToStep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopoDSToStep\TopoDSToStep_MakeShellBasedSurfaceModel.cxx">
+      <Filter>TopoDSToStep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopoDSToStep\TopoDSToStep_MakeStepEdge.cxx">
+      <Filter>TopoDSToStep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopoDSToStep\TopoDSToStep_MakeStepFace.cxx">
+      <Filter>TopoDSToStep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopoDSToStep\TopoDSToStep_MakeStepVertex.cxx">
+      <Filter>TopoDSToStep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopoDSToStep\TopoDSToStep_MakeStepWire.cxx">
+      <Filter>TopoDSToStep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopoDSToStep\TopoDSToStep_Root.cxx">
+      <Filter>TopoDSToStep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopoDSToStep\TopoDSToStep_Tool.cxx">
+      <Filter>TopoDSToStep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopoDSToStep\TopoDSToStep_WireframeBuilder.cxx">
+      <Filter>TopoDSToStep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\STEPControl\STEPControl_ActorRead.cxx">
+      <Filter>STEPControl</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\STEPControl\STEPControl_ActorWrite.cxx">
+      <Filter>STEPControl</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\STEPControl\STEPControl_Controller.cxx">
+      <Filter>STEPControl</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\STEPControl\STEPControl_Reader.cxx">
+      <Filter>STEPControl</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\STEPControl\STEPControl_Writer.cxx">
+      <Filter>STEPControl</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\STEPSelections\STEPSelections_HSequenceOfAssemblyLink_0.cxx">
+      <Filter>STEPSelections</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\STEPSelections\STEPSelections_SequenceNodeOfSequenceOfAssemblyComponent_0.cxx">
+      <Filter>STEPSelections</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\STEPSelections\STEPSelections_SequenceNodeOfSequenceOfAssemblyLink_0.cxx">
+      <Filter>STEPSelections</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\STEPSelections\STEPSelections_SequenceOfAssemblyComponent_0.cxx">
+      <Filter>STEPSelections</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\STEPSelections\STEPSelections_SequenceOfAssemblyLink_0.cxx">
+      <Filter>STEPSelections</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\STEPSelections\STEPSelections_AssemblyComponent.cxx">
+      <Filter>STEPSelections</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\STEPSelections\STEPSelections_AssemblyExplorer.cxx">
+      <Filter>STEPSelections</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\STEPSelections\STEPSelections_AssemblyLink.cxx">
+      <Filter>STEPSelections</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\STEPSelections\STEPSelections_Counter.cxx">
+      <Filter>STEPSelections</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\STEPSelections\STEPSelections_SelectAssembly.cxx">
+      <Filter>STEPSelections</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\STEPSelections\STEPSelections_SelectDerived.cxx">
+      <Filter>STEPSelections</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\STEPSelections\STEPSelections_SelectFaces.cxx">
+      <Filter>STEPSelections</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\STEPSelections\STEPSelections_SelectForTransfer.cxx">
+      <Filter>STEPSelections</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\STEPSelections\STEPSelections_SelectGSCurves.cxx">
+      <Filter>STEPSelections</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\STEPSelections\STEPSelections_SelectInstances.cxx">
+      <Filter>STEPSelections</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepAP209\StepAP209_Construct.cxx">
+      <Filter>StepAP209</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="E:\code\c\oce\adm\cmake\TKSTEP\Precompiled.h">
+      <Filter>Precompiled</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\code\c\oce\adm\cmake\TKSTEP\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="E:\code\c\oce\build\Version.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="GeomToStep">
+      <UniqueIdentifier>{880247DF-3174-3BF7-8C08-574DA2859A01}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Precompiled">
+      <UniqueIdentifier>{9798687B-1064-3C74-84F3-7C7EA6AC7B09}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="RWStepAP203">
+      <UniqueIdentifier>{401DAFC0-B7DB-306C-8328-396DE475E5B6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="RWStepAP214">
+      <UniqueIdentifier>{5B172A55-C86E-32B8-A6AF-29E01E28F027}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="STEPConstruct">
+      <UniqueIdentifier>{9EDB383A-DEBD-38FF-9693-AB2549DA34F1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="STEPControl">
+      <UniqueIdentifier>{75C518A1-73BE-3228-81E0-E928C7C3F82C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="STEPEdit">
+      <UniqueIdentifier>{6CE29889-B362-3D93-B702-A3EDE11F2E79}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="STEPSelections">
+      <UniqueIdentifier>{524290B0-CF06-3DB2-BAF1-1727C9A24A20}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{89761968-2B46-3580-8630-22C285107311}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="StepAP203">
+      <UniqueIdentifier>{66499397-7323-3F40-A7E3-ADF56BCF7941}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="StepAP209">
+      <UniqueIdentifier>{7D5D883A-658C-3107-A6CD-B9ACD90C7C84}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="StepAP214">
+      <UniqueIdentifier>{371C7615-8648-381F-A2A1-C1567D7C75E9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="StepToGeom">
+      <UniqueIdentifier>{24803B80-B541-3470-9460-4F80007A7297}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="StepToTopoDS">
+      <UniqueIdentifier>{662124DF-A2C0-372D-9C03-82A1322EA6A9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="TopoDSToStep">
+      <UniqueIdentifier>{23DEB24D-3609-376F-A908-E4BE15DD2AB8}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

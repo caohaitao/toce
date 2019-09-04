@@ -1,0 +1,209 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\code\c\oce\adm\cmake\TKXmlL\Precompiled.cpp">
+      <Filter>Precompiled</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\XmlLDrivers\XmlLDrivers_SequenceNodeOfSequenceOfNamespaceDef_0.cxx">
+      <Filter>XmlLDrivers</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\XmlLDrivers\XmlLDrivers_SequenceOfNamespaceDef_0.cxx">
+      <Filter>XmlLDrivers</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\XmlLDrivers\XmlLDrivers.cxx">
+      <Filter>XmlLDrivers</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\XmlLDrivers\XmlLDrivers_DocumentRetrievalDriver.cxx">
+      <Filter>XmlLDrivers</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\XmlLDrivers\XmlLDrivers_DocumentStorageDriver.cxx">
+      <Filter>XmlLDrivers</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\XmlLDrivers\XmlLDrivers_NamespaceDef.cxx">
+      <Filter>XmlLDrivers</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\XmlMDF\XmlMDF_DataMapIteratorOfMapOfDriver_0.cxx">
+      <Filter>XmlMDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\XmlMDF\XmlMDF_DataMapIteratorOfTypeADriverMap_0.cxx">
+      <Filter>XmlMDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\XmlMDF\XmlMDF_DataMapNodeOfMapOfDriver_0.cxx">
+      <Filter>XmlMDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\XmlMDF\XmlMDF_DataMapNodeOfTypeADriverMap_0.cxx">
+      <Filter>XmlMDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\XmlMDF\XmlMDF_MapOfDriver_0.cxx">
+      <Filter>XmlMDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\XmlMDF\XmlMDF_TypeADriverMap_0.cxx">
+      <Filter>XmlMDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\XmlMDF\XmlMDF.cxx">
+      <Filter>XmlMDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\XmlMDF\XmlMDF_ADriver.cxx">
+      <Filter>XmlMDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\XmlMDF\XmlMDF_ADriverTable.cxx">
+      <Filter>XmlMDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\XmlMDF\XmlMDF_ReferenceDriver.cxx">
+      <Filter>XmlMDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\XmlMDF\XmlMDF_TagSourceDriver.cxx">
+      <Filter>XmlMDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\XmlMDataStd\XmlMDataStd.cxx">
+      <Filter>XmlMDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\XmlMDataStd\XmlMDataStd_AsciiStringDriver.cxx">
+      <Filter>XmlMDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\XmlMDataStd\XmlMDataStd_BooleanArrayDriver.cxx">
+      <Filter>XmlMDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\XmlMDataStd\XmlMDataStd_BooleanListDriver.cxx">
+      <Filter>XmlMDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\XmlMDataStd\XmlMDataStd_ByteArrayDriver.cxx">
+      <Filter>XmlMDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\XmlMDataStd\XmlMDataStd_CommentDriver.cxx">
+      <Filter>XmlMDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\XmlMDataStd\XmlMDataStd_DirectoryDriver.cxx">
+      <Filter>XmlMDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\XmlMDataStd\XmlMDataStd_ExpressionDriver.cxx">
+      <Filter>XmlMDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\XmlMDataStd\XmlMDataStd_ExtStringArrayDriver.cxx">
+      <Filter>XmlMDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\XmlMDataStd\XmlMDataStd_ExtStringListDriver.cxx">
+      <Filter>XmlMDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\XmlMDataStd\XmlMDataStd_IntPackedMapDriver.cxx">
+      <Filter>XmlMDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\XmlMDataStd\XmlMDataStd_IntegerArrayDriver.cxx">
+      <Filter>XmlMDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\XmlMDataStd\XmlMDataStd_IntegerDriver.cxx">
+      <Filter>XmlMDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\XmlMDataStd\XmlMDataStd_IntegerListDriver.cxx">
+      <Filter>XmlMDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\XmlMDataStd\XmlMDataStd_NameDriver.cxx">
+      <Filter>XmlMDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\XmlMDataStd\XmlMDataStd_NamedDataDriver.cxx">
+      <Filter>XmlMDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\XmlMDataStd\XmlMDataStd_NoteBookDriver.cxx">
+      <Filter>XmlMDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\XmlMDataStd\XmlMDataStd_RealArrayDriver.cxx">
+      <Filter>XmlMDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\XmlMDataStd\XmlMDataStd_RealDriver.cxx">
+      <Filter>XmlMDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\XmlMDataStd\XmlMDataStd_RealListDriver.cxx">
+      <Filter>XmlMDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\XmlMDataStd\XmlMDataStd_ReferenceArrayDriver.cxx">
+      <Filter>XmlMDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\XmlMDataStd\XmlMDataStd_ReferenceListDriver.cxx">
+      <Filter>XmlMDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\XmlMDataStd\XmlMDataStd_RelationDriver.cxx">
+      <Filter>XmlMDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\XmlMDataStd\XmlMDataStd_TickDriver.cxx">
+      <Filter>XmlMDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\XmlMDataStd\XmlMDataStd_TreeNodeDriver.cxx">
+      <Filter>XmlMDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\XmlMDataStd\XmlMDataStd_UAttributeDriver.cxx">
+      <Filter>XmlMDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\XmlMDataStd\XmlMDataStd_VariableDriver.cxx">
+      <Filter>XmlMDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\XmlMDocStd\XmlMDocStd.cxx">
+      <Filter>XmlMDocStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\XmlMDocStd\XmlMDocStd_XLinkDriver.cxx">
+      <Filter>XmlMDocStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\XmlMFunction\XmlMFunction.cxx">
+      <Filter>XmlMFunction</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\XmlMFunction\XmlMFunction_FunctionDriver.cxx">
+      <Filter>XmlMFunction</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\XmlMFunction\XmlMFunction_GraphNodeDriver.cxx">
+      <Filter>XmlMFunction</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\XmlMFunction\XmlMFunction_ScopeDriver.cxx">
+      <Filter>XmlMFunction</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\XmlObjMgt\XmlObjMgt.cxx">
+      <Filter>XmlObjMgt</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\XmlObjMgt\XmlObjMgt_Array1.cxx">
+      <Filter>XmlObjMgt</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\XmlObjMgt\XmlObjMgt_GP.cxx">
+      <Filter>XmlObjMgt</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\XmlObjMgt\XmlObjMgt_Persistent.cxx">
+      <Filter>XmlObjMgt</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="E:\code\c\oce\adm\cmake\TKXmlL\Precompiled.h">
+      <Filter>Precompiled</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\code\c\oce\adm\cmake\TKXmlL\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="E:\code\c\oce\build\Version.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Precompiled">
+      <UniqueIdentifier>{9798687B-1064-3C74-84F3-7C7EA6AC7B09}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{89761968-2B46-3580-8630-22C285107311}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="XmlLDrivers">
+      <UniqueIdentifier>{E9B68A6A-E601-3BB4-9DE7-75625FC2FE7E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="XmlMDF">
+      <UniqueIdentifier>{29CEF140-A06B-342C-B42E-1B6C70B16F54}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="XmlMDataStd">
+      <UniqueIdentifier>{23E97B2B-AE28-3F59-8406-CBBBA2293356}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="XmlMDocStd">
+      <UniqueIdentifier>{E1B6F6F6-0BCB-301C-93F4-E2FFB9108D02}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="XmlMFunction">
+      <UniqueIdentifier>{42D5FFB5-44E4-3449-AE24-6481ACA27113}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="XmlObjMgt">
+      <UniqueIdentifier>{115409DF-6E6D-3589-A8FC-1FEB59863653}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

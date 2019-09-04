@@ -1,0 +1,194 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\code\c\oce\adm\cmake\TKBinL\Precompiled.cpp">
+      <Filter>Precompiled</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\BinMDF\BinMDF_DataMapIteratorOfTypeADriverMap_0.cxx">
+      <Filter>BinMDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\BinMDF\BinMDF_DataMapNodeOfTypeADriverMap_0.cxx">
+      <Filter>BinMDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\BinMDF\BinMDF_DoubleMapIteratorOfTypeIdMap_0.cxx">
+      <Filter>BinMDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\BinMDF\BinMDF_DoubleMapNodeOfTypeIdMap_0.cxx">
+      <Filter>BinMDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\BinMDF\BinMDF_TypeADriverMap_0.cxx">
+      <Filter>BinMDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\BinMDF\BinMDF_TypeIdMap_0.cxx">
+      <Filter>BinMDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BinMDF\BinMDF.cxx">
+      <Filter>BinMDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BinMDF\BinMDF_ADriver.cxx">
+      <Filter>BinMDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BinMDF\BinMDF_ADriverTable.cxx">
+      <Filter>BinMDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BinMDF\BinMDF_ReferenceDriver.cxx">
+      <Filter>BinMDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BinMDF\BinMDF_TagSourceDriver.cxx">
+      <Filter>BinMDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BinMDataStd\BinMDataStd.cxx">
+      <Filter>BinMDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BinMDataStd\BinMDataStd_AsciiStringDriver.cxx">
+      <Filter>BinMDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BinMDataStd\BinMDataStd_BooleanArrayDriver.cxx">
+      <Filter>BinMDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BinMDataStd\BinMDataStd_BooleanListDriver.cxx">
+      <Filter>BinMDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BinMDataStd\BinMDataStd_ByteArrayDriver.cxx">
+      <Filter>BinMDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BinMDataStd\BinMDataStd_CommentDriver.cxx">
+      <Filter>BinMDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BinMDataStd\BinMDataStd_DirectoryDriver.cxx">
+      <Filter>BinMDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BinMDataStd\BinMDataStd_ExpressionDriver.cxx">
+      <Filter>BinMDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BinMDataStd\BinMDataStd_ExtStringArrayDriver.cxx">
+      <Filter>BinMDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BinMDataStd\BinMDataStd_ExtStringListDriver.cxx">
+      <Filter>BinMDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BinMDataStd\BinMDataStd_IntPackedMapDriver.cxx">
+      <Filter>BinMDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BinMDataStd\BinMDataStd_IntegerArrayDriver.cxx">
+      <Filter>BinMDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BinMDataStd\BinMDataStd_IntegerDriver.cxx">
+      <Filter>BinMDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BinMDataStd\BinMDataStd_IntegerListDriver.cxx">
+      <Filter>BinMDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BinMDataStd\BinMDataStd_NameDriver.cxx">
+      <Filter>BinMDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BinMDataStd\BinMDataStd_NamedDataDriver.cxx">
+      <Filter>BinMDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BinMDataStd\BinMDataStd_NoteBookDriver.cxx">
+      <Filter>BinMDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BinMDataStd\BinMDataStd_RealArrayDriver.cxx">
+      <Filter>BinMDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BinMDataStd\BinMDataStd_RealDriver.cxx">
+      <Filter>BinMDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BinMDataStd\BinMDataStd_RealListDriver.cxx">
+      <Filter>BinMDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BinMDataStd\BinMDataStd_ReferenceArrayDriver.cxx">
+      <Filter>BinMDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BinMDataStd\BinMDataStd_ReferenceListDriver.cxx">
+      <Filter>BinMDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BinMDataStd\BinMDataStd_RelationDriver.cxx">
+      <Filter>BinMDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BinMDataStd\BinMDataStd_TickDriver.cxx">
+      <Filter>BinMDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BinMDataStd\BinMDataStd_TreeNodeDriver.cxx">
+      <Filter>BinMDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BinMDataStd\BinMDataStd_UAttributeDriver.cxx">
+      <Filter>BinMDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BinMDataStd\BinMDataStd_VariableDriver.cxx">
+      <Filter>BinMDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BinMFunction\BinMFunction.cxx">
+      <Filter>BinMFunction</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BinMFunction\BinMFunction_FunctionDriver.cxx">
+      <Filter>BinMFunction</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BinMFunction\BinMFunction_GraphNodeDriver.cxx">
+      <Filter>BinMFunction</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BinMFunction\BinMFunction_ScopeDriver.cxx">
+      <Filter>BinMFunction</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BinMDocStd\BinMDocStd.cxx">
+      <Filter>BinMDocStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BinMDocStd\BinMDocStd_XLinkDriver.cxx">
+      <Filter>BinMDocStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BinObjMgt\BinObjMgt_Persistent.cxx">
+      <Filter>BinObjMgt</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BinLDrivers\BinLDrivers.cxx">
+      <Filter>BinLDrivers</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BinLDrivers\BinLDrivers_DocumentRetrievalDriver.cxx">
+      <Filter>BinLDrivers</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BinLDrivers\BinLDrivers_DocumentSection.cxx">
+      <Filter>BinLDrivers</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BinLDrivers\BinLDrivers_DocumentStorageDriver.cxx">
+      <Filter>BinLDrivers</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="E:\code\c\oce\adm\cmake\TKBinL\Precompiled.h">
+      <Filter>Precompiled</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\code\c\oce\adm\cmake\TKBinL\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="E:\code\c\oce\build\Version.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="BinLDrivers">
+      <UniqueIdentifier>{626B2371-D7EE-3772-8045-AAF9BE0EDA79}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BinMDF">
+      <UniqueIdentifier>{2A450C65-4E75-3B3A-8B2F-FA1805118C7F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BinMDataStd">
+      <UniqueIdentifier>{9B948B4C-F2F2-33D5-A607-176C7BB01A46}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BinMDocStd">
+      <UniqueIdentifier>{855C13F8-9D35-3B24-AC2C-EAF2B1D21291}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BinMFunction">
+      <UniqueIdentifier>{39EAF097-4931-3C8A-9B22-A74730D498EF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BinObjMgt">
+      <UniqueIdentifier>{65D191EC-1B4D-3CC1-BFEA-AC3E4D541017}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Precompiled">
+      <UniqueIdentifier>{9798687B-1064-3C74-84F3-7C7EA6AC7B09}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{89761968-2B46-3580-8630-22C285107311}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

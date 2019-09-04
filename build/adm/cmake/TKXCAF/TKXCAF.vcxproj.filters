@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\code\c\oce\adm\cmake\TKXCAF\Precompiled.cpp">
+      <Filter>Precompiled</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\XCAFApp\XCAFApp_Application.cxx">
+      <Filter>XCAFApp</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\XCAFDoc\XCAFDoc_DataMapIteratorOfDataMapOfShapeLabel_0.cxx">
+      <Filter>XCAFDoc</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\XCAFDoc\XCAFDoc_DataMapNodeOfDataMapOfShapeLabel_0.cxx">
+      <Filter>XCAFDoc</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\XCAFDoc\XCAFDoc_DataMapOfShapeLabel_0.cxx">
+      <Filter>XCAFDoc</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\XCAFDoc\XCAFDoc_GraphNodeSequence_0.cxx">
+      <Filter>XCAFDoc</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\XCAFDoc\XCAFDoc_SequenceNodeOfGraphNodeSequence_0.cxx">
+      <Filter>XCAFDoc</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\XCAFDoc\XCAFDoc.cxx">
+      <Filter>XCAFDoc</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\XCAFDoc\XCAFDoc_Area.cxx">
+      <Filter>XCAFDoc</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\XCAFDoc\XCAFDoc_Centroid.cxx">
+      <Filter>XCAFDoc</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\XCAFDoc\XCAFDoc_Color.cxx">
+      <Filter>XCAFDoc</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\XCAFDoc\XCAFDoc_ColorTool.cxx">
+      <Filter>XCAFDoc</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\XCAFDoc\XCAFDoc_Datum.cxx">
+      <Filter>XCAFDoc</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\XCAFDoc\XCAFDoc_DimTol.cxx">
+      <Filter>XCAFDoc</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\XCAFDoc\XCAFDoc_DimTolTool.cxx">
+      <Filter>XCAFDoc</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\XCAFDoc\XCAFDoc_DocumentTool.cxx">
+      <Filter>XCAFDoc</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\XCAFDoc\XCAFDoc_GraphNode.cxx">
+      <Filter>XCAFDoc</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\XCAFDoc\XCAFDoc_LayerTool.cxx">
+      <Filter>XCAFDoc</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\XCAFDoc\XCAFDoc_Location.cxx">
+      <Filter>XCAFDoc</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\XCAFDoc\XCAFDoc_Material.cxx">
+      <Filter>XCAFDoc</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\XCAFDoc\XCAFDoc_MaterialTool.cxx">
+      <Filter>XCAFDoc</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\XCAFDoc\XCAFDoc_ShapeMapTool.cxx">
+      <Filter>XCAFDoc</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\XCAFDoc\XCAFDoc_ShapeTool.cxx">
+      <Filter>XCAFDoc</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\XCAFDoc\XCAFDoc_Volume.cxx">
+      <Filter>XCAFDoc</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\XCAFPrs\XCAFPrs_DataMapIteratorOfDataMapOfShapeStyle_0.cxx">
+      <Filter>XCAFPrs</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\XCAFPrs\XCAFPrs_DataMapIteratorOfDataMapOfStyleShape_0.cxx">
+      <Filter>XCAFPrs</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\XCAFPrs\XCAFPrs_DataMapIteratorOfDataMapOfStyleTransient_0.cxx">
+      <Filter>XCAFPrs</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\XCAFPrs\XCAFPrs_DataMapNodeOfDataMapOfShapeStyle_0.cxx">
+      <Filter>XCAFPrs</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\XCAFPrs\XCAFPrs_DataMapNodeOfDataMapOfStyleShape_0.cxx">
+      <Filter>XCAFPrs</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\XCAFPrs\XCAFPrs_DataMapNodeOfDataMapOfStyleTransient_0.cxx">
+      <Filter>XCAFPrs</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\XCAFPrs\XCAFPrs_DataMapOfShapeStyle_0.cxx">
+      <Filter>XCAFPrs</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\XCAFPrs\XCAFPrs_DataMapOfStyleShape_0.cxx">
+      <Filter>XCAFPrs</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\XCAFPrs\XCAFPrs_DataMapOfStyleTransient_0.cxx">
+      <Filter>XCAFPrs</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\XCAFPrs\XCAFPrs.cxx">
+      <Filter>XCAFPrs</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\XCAFPrs\XCAFPrs_AISObject.cxx">
+      <Filter>XCAFPrs</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\XCAFPrs\XCAFPrs_Driver.cxx">
+      <Filter>XCAFPrs</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\XCAFPrs\XCAFPrs_Style.cxx">
+      <Filter>XCAFPrs</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="E:\code\c\oce\adm\cmake\TKXCAF\Precompiled.h">
+      <Filter>Precompiled</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\code\c\oce\adm\cmake\TKXCAF\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="E:\code\c\oce\build\Version.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Precompiled">
+      <UniqueIdentifier>{9798687B-1064-3C74-84F3-7C7EA6AC7B09}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{89761968-2B46-3580-8630-22C285107311}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="XCAFApp">
+      <UniqueIdentifier>{4C93472E-F394-32A7-AACB-D8F34782DB9E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="XCAFDoc">
+      <UniqueIdentifier>{BF951EA2-0D5C-343B-8E40-F9FF50DD5133}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="XCAFPrs">
+      <UniqueIdentifier>{445BD337-50AD-34B3-9277-7C5B52EFF46A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

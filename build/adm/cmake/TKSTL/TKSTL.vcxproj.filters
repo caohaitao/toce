@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\code\c\oce\adm\cmake\TKSTL\Precompiled.cpp">
+      <Filter>Precompiled</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StlMesh\StlMesh_SequenceNodeOfSequenceOfMeshDomain_0.cxx">
+      <Filter>StlMesh</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StlMesh\StlMesh_SequenceNodeOfSequenceOfMeshTriangle_0.cxx">
+      <Filter>StlMesh</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StlMesh\StlMesh_SequenceNodeOfSequenceOfMesh_0.cxx">
+      <Filter>StlMesh</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StlMesh\StlMesh_SequenceOfMeshDomain_0.cxx">
+      <Filter>StlMesh</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StlMesh\StlMesh_SequenceOfMeshTriangle_0.cxx">
+      <Filter>StlMesh</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StlMesh\StlMesh_SequenceOfMesh_0.cxx">
+      <Filter>StlMesh</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StlMesh\StlMesh.cxx">
+      <Filter>StlMesh</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StlMesh\StlMesh_Mesh.cxx">
+      <Filter>StlMesh</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StlMesh\StlMesh_MeshDomain.cxx">
+      <Filter>StlMesh</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StlMesh\StlMesh_MeshExplorer.cxx">
+      <Filter>StlMesh</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StlMesh\StlMesh_MeshTriangle.cxx">
+      <Filter>StlMesh</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StlAPI\StlAPI.cxx">
+      <Filter>StlAPI</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StlAPI\StlAPI_Reader.cxx">
+      <Filter>StlAPI</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StlAPI\StlAPI_Writer.cxx">
+      <Filter>StlAPI</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StlTransfer\StlTransfer.cxx">
+      <Filter>StlTransfer</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStl\RWStl.cxx">
+      <Filter>RWStl</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="E:\code\c\oce\adm\cmake\TKSTL\Precompiled.h">
+      <Filter>Precompiled</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\code\c\oce\adm\cmake\TKSTL\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="E:\code\c\oce\build\Version.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Precompiled">
+      <UniqueIdentifier>{9798687B-1064-3C74-84F3-7C7EA6AC7B09}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="RWStl">
+      <UniqueIdentifier>{52982CE8-CE94-3A69-A5B9-C1C84E2206DF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{89761968-2B46-3580-8630-22C285107311}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="StlAPI">
+      <UniqueIdentifier>{14A88B61-61AF-35EA-8F3B-11041AB9DCF5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="StlMesh">
+      <UniqueIdentifier>{570987DC-F612-35A1-BCE4-910934F728FC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="StlTransfer">
+      <UniqueIdentifier>{E1A83296-20BF-35FC-A5C1-53CC26373736}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,221 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\code\c\oce\adm\cmake\TKMeshVS\Precompiled.cpp">
+      <Filter>Precompiled</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\MeshVS\MeshVS_Array1OfSequenceOfInteger_0.cxx">
+      <Filter>MeshVS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\MeshVS\MeshVS_DataMapIteratorOfDataMapOfColorMapOfInteger_0.cxx">
+      <Filter>MeshVS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\MeshVS\MeshVS_DataMapIteratorOfDataMapOfHArray1OfSequenceOfInteger_0.cxx">
+      <Filter>MeshVS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\MeshVS\MeshVS_DataMapIteratorOfDataMapOfIntegerAsciiString_0.cxx">
+      <Filter>MeshVS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\MeshVS\MeshVS_DataMapIteratorOfDataMapOfIntegerBoolean_0.cxx">
+      <Filter>MeshVS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\MeshVS\MeshVS_DataMapIteratorOfDataMapOfIntegerColor_0.cxx">
+      <Filter>MeshVS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\MeshVS\MeshVS_DataMapIteratorOfDataMapOfIntegerMaterial_0.cxx">
+      <Filter>MeshVS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\MeshVS\MeshVS_DataMapIteratorOfDataMapOfIntegerMeshEntityOwner_0.cxx">
+      <Filter>MeshVS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\MeshVS\MeshVS_DataMapIteratorOfDataMapOfIntegerOwner_0.cxx">
+      <Filter>MeshVS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\MeshVS\MeshVS_DataMapIteratorOfDataMapOfIntegerTwoColors_0.cxx">
+      <Filter>MeshVS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\MeshVS\MeshVS_DataMapIteratorOfDataMapOfIntegerVector_0.cxx">
+      <Filter>MeshVS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\MeshVS\MeshVS_DataMapIteratorOfDataMapOfTwoColorsMapOfInteger_0.cxx">
+      <Filter>MeshVS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\MeshVS\MeshVS_DataMapNodeOfDataMapOfColorMapOfInteger_0.cxx">
+      <Filter>MeshVS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\MeshVS\MeshVS_DataMapNodeOfDataMapOfHArray1OfSequenceOfInteger_0.cxx">
+      <Filter>MeshVS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\MeshVS\MeshVS_DataMapNodeOfDataMapOfIntegerAsciiString_0.cxx">
+      <Filter>MeshVS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\MeshVS\MeshVS_DataMapNodeOfDataMapOfIntegerBoolean_0.cxx">
+      <Filter>MeshVS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\MeshVS\MeshVS_DataMapNodeOfDataMapOfIntegerColor_0.cxx">
+      <Filter>MeshVS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\MeshVS\MeshVS_DataMapNodeOfDataMapOfIntegerMaterial_0.cxx">
+      <Filter>MeshVS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\MeshVS\MeshVS_DataMapNodeOfDataMapOfIntegerMeshEntityOwner_0.cxx">
+      <Filter>MeshVS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\MeshVS\MeshVS_DataMapNodeOfDataMapOfIntegerOwner_0.cxx">
+      <Filter>MeshVS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\MeshVS\MeshVS_DataMapNodeOfDataMapOfIntegerTwoColors_0.cxx">
+      <Filter>MeshVS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\MeshVS\MeshVS_DataMapNodeOfDataMapOfIntegerVector_0.cxx">
+      <Filter>MeshVS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\MeshVS\MeshVS_DataMapNodeOfDataMapOfTwoColorsMapOfInteger_0.cxx">
+      <Filter>MeshVS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\MeshVS\MeshVS_DataMapOfColorMapOfInteger_0.cxx">
+      <Filter>MeshVS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\MeshVS\MeshVS_DataMapOfHArray1OfSequenceOfInteger_0.cxx">
+      <Filter>MeshVS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\MeshVS\MeshVS_DataMapOfIntegerAsciiString_0.cxx">
+      <Filter>MeshVS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\MeshVS\MeshVS_DataMapOfIntegerBoolean_0.cxx">
+      <Filter>MeshVS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\MeshVS\MeshVS_DataMapOfIntegerColor_0.cxx">
+      <Filter>MeshVS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\MeshVS\MeshVS_DataMapOfIntegerMaterial_0.cxx">
+      <Filter>MeshVS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\MeshVS\MeshVS_DataMapOfIntegerMeshEntityOwner_0.cxx">
+      <Filter>MeshVS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\MeshVS\MeshVS_DataMapOfIntegerOwner_0.cxx">
+      <Filter>MeshVS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\MeshVS\MeshVS_DataMapOfIntegerTwoColors_0.cxx">
+      <Filter>MeshVS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\MeshVS\MeshVS_DataMapOfIntegerVector_0.cxx">
+      <Filter>MeshVS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\MeshVS\MeshVS_DataMapOfTwoColorsMapOfInteger_0.cxx">
+      <Filter>MeshVS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\MeshVS\MeshVS_HArray1OfSequenceOfInteger_0.cxx">
+      <Filter>MeshVS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\MeshVS\MeshVS_MapIteratorOfMapOfTwoNodes_0.cxx">
+      <Filter>MeshVS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\MeshVS\MeshVS_MapOfTwoNodes_0.cxx">
+      <Filter>MeshVS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\MeshVS\MeshVS_SequenceNodeOfSequenceOfPrsBuilder_0.cxx">
+      <Filter>MeshVS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\MeshVS\MeshVS_SequenceOfPrsBuilder_0.cxx">
+      <Filter>MeshVS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\MeshVS\MeshVS_StdMapNodeOfMapOfTwoNodes_0.cxx">
+      <Filter>MeshVS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\MeshVS\MeshVS_TwoColorsHasher_0.cxx">
+      <Filter>MeshVS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\MeshVS\MeshVS_TwoNodesHasher_0.cxx">
+      <Filter>MeshVS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MeshVS\MeshVS_ColorHasher.cxx">
+      <Filter>MeshVS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MeshVS\MeshVS_DataSource.cxx">
+      <Filter>MeshVS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MeshVS\MeshVS_DataSource3D.cxx">
+      <Filter>MeshVS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MeshVS\MeshVS_DeformedDataSource.cxx">
+      <Filter>MeshVS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MeshVS\MeshVS_Drawer.cxx">
+      <Filter>MeshVS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MeshVS\MeshVS_DummySensitiveEntity.cxx">
+      <Filter>MeshVS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MeshVS\MeshVS_ElementalColorPrsBuilder.cxx">
+      <Filter>MeshVS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MeshVS\MeshVS_Mesh.cxx">
+      <Filter>MeshVS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MeshVS\MeshVS_MeshEntityOwner.cxx">
+      <Filter>MeshVS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MeshVS\MeshVS_MeshOwner.cxx">
+      <Filter>MeshVS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MeshVS\MeshVS_MeshPrsBuilder.cxx">
+      <Filter>MeshVS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MeshVS\MeshVS_NodalColorPrsBuilder.cxx">
+      <Filter>MeshVS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MeshVS\MeshVS_PrsBuilder.cxx">
+      <Filter>MeshVS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MeshVS\MeshVS_SensitiveFace.cxx">
+      <Filter>MeshVS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MeshVS\MeshVS_SensitiveMesh.cxx">
+      <Filter>MeshVS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MeshVS\MeshVS_SensitivePolyhedron.cxx">
+      <Filter>MeshVS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MeshVS\MeshVS_SensitiveSegment.cxx">
+      <Filter>MeshVS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MeshVS\MeshVS_TextPrsBuilder.cxx">
+      <Filter>MeshVS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MeshVS\MeshVS_Tool.cxx">
+      <Filter>MeshVS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MeshVS\MeshVS_TwoColors.cxx">
+      <Filter>MeshVS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MeshVS\MeshVS_VectorPrsBuilder.cxx">
+      <Filter>MeshVS</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="E:\code\c\oce\adm\cmake\TKMeshVS\Precompiled.h">
+      <Filter>Precompiled</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\code\c\oce\adm\cmake\TKMeshVS\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="E:\code\c\oce\build\Version.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="MeshVS">
+      <UniqueIdentifier>{A2537651-7C39-392B-92EE-74ED41B48EEC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Precompiled">
+      <UniqueIdentifier>{9798687B-1064-3C74-84F3-7C7EA6AC7B09}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{89761968-2B46-3580-8630-22C285107311}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

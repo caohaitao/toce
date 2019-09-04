@@ -1,0 +1,344 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\code\c\oce\adm\cmake\TKXCAFSchema\Precompiled.cpp">
+      <Filter>Precompiled</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MXCAFDoc\MXCAFDoc.cxx">
+      <Filter>MXCAFDoc</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MXCAFDoc\MXCAFDoc_AreaRetrievalDriver.cxx">
+      <Filter>MXCAFDoc</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MXCAFDoc\MXCAFDoc_AreaStorageDriver.cxx">
+      <Filter>MXCAFDoc</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MXCAFDoc\MXCAFDoc_CentroidRetrievalDriver.cxx">
+      <Filter>MXCAFDoc</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MXCAFDoc\MXCAFDoc_CentroidStorageDriver.cxx">
+      <Filter>MXCAFDoc</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MXCAFDoc\MXCAFDoc_ColorRetrievalDriver.cxx">
+      <Filter>MXCAFDoc</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MXCAFDoc\MXCAFDoc_ColorStorageDriver.cxx">
+      <Filter>MXCAFDoc</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MXCAFDoc\MXCAFDoc_ColorToolRetrievalDriver.cxx">
+      <Filter>MXCAFDoc</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MXCAFDoc\MXCAFDoc_ColorToolStorageDriver.cxx">
+      <Filter>MXCAFDoc</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MXCAFDoc\MXCAFDoc_DatumRetrievalDriver.cxx">
+      <Filter>MXCAFDoc</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MXCAFDoc\MXCAFDoc_DatumStorageDriver.cxx">
+      <Filter>MXCAFDoc</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MXCAFDoc\MXCAFDoc_DimTolRetrievalDriver.cxx">
+      <Filter>MXCAFDoc</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MXCAFDoc\MXCAFDoc_DimTolStorageDriver.cxx">
+      <Filter>MXCAFDoc</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MXCAFDoc\MXCAFDoc_DimTolToolRetrievalDriver.cxx">
+      <Filter>MXCAFDoc</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MXCAFDoc\MXCAFDoc_DimTolToolStorageDriver.cxx">
+      <Filter>MXCAFDoc</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MXCAFDoc\MXCAFDoc_DocumentToolRetrievalDriver.cxx">
+      <Filter>MXCAFDoc</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MXCAFDoc\MXCAFDoc_DocumentToolStorageDriver.cxx">
+      <Filter>MXCAFDoc</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MXCAFDoc\MXCAFDoc_GraphNodeRetrievalDriver.cxx">
+      <Filter>MXCAFDoc</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MXCAFDoc\MXCAFDoc_GraphNodeStorageDriver.cxx">
+      <Filter>MXCAFDoc</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MXCAFDoc\MXCAFDoc_LayerToolRetrievalDriver.cxx">
+      <Filter>MXCAFDoc</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MXCAFDoc\MXCAFDoc_LayerToolStorageDriver.cxx">
+      <Filter>MXCAFDoc</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MXCAFDoc\MXCAFDoc_LocationRetrievalDriver.cxx">
+      <Filter>MXCAFDoc</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MXCAFDoc\MXCAFDoc_LocationStorageDriver.cxx">
+      <Filter>MXCAFDoc</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MXCAFDoc\MXCAFDoc_MaterialRetrievalDriver.cxx">
+      <Filter>MXCAFDoc</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MXCAFDoc\MXCAFDoc_MaterialStorageDriver.cxx">
+      <Filter>MXCAFDoc</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MXCAFDoc\MXCAFDoc_MaterialToolRetrievalDriver.cxx">
+      <Filter>MXCAFDoc</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MXCAFDoc\MXCAFDoc_MaterialToolStorageDriver.cxx">
+      <Filter>MXCAFDoc</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MXCAFDoc\MXCAFDoc_ShapeToolRetrievalDriver.cxx">
+      <Filter>MXCAFDoc</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MXCAFDoc\MXCAFDoc_ShapeToolStorageDriver.cxx">
+      <Filter>MXCAFDoc</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MXCAFDoc\MXCAFDoc_VolumeRetrievalDriver.cxx">
+      <Filter>MXCAFDoc</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MXCAFDoc\MXCAFDoc_VolumeStorageDriver.cxx">
+      <Filter>MXCAFDoc</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PXCAFDoc\PXCAFDoc_GraphNodeSequence_0.cxx">
+      <Filter>PXCAFDoc</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PXCAFDoc\PXCAFDoc_SeqExplorerOfGraphNodeSequence_0.cxx">
+      <Filter>PXCAFDoc</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PXCAFDoc\PXCAFDoc_SeqNodeOfGraphNodeSequence_0.cxx">
+      <Filter>PXCAFDoc</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PXCAFDoc\PXCAFDoc_Area.cxx">
+      <Filter>PXCAFDoc</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PXCAFDoc\PXCAFDoc_Centroid.cxx">
+      <Filter>PXCAFDoc</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PXCAFDoc\PXCAFDoc_Color.cxx">
+      <Filter>PXCAFDoc</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PXCAFDoc\PXCAFDoc_ColorTool.cxx">
+      <Filter>PXCAFDoc</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PXCAFDoc\PXCAFDoc_Datum.cxx">
+      <Filter>PXCAFDoc</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PXCAFDoc\PXCAFDoc_DimTol.cxx">
+      <Filter>PXCAFDoc</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PXCAFDoc\PXCAFDoc_DimTolTool.cxx">
+      <Filter>PXCAFDoc</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PXCAFDoc\PXCAFDoc_DocumentTool.cxx">
+      <Filter>PXCAFDoc</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PXCAFDoc\PXCAFDoc_GraphNode.cxx">
+      <Filter>PXCAFDoc</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PXCAFDoc\PXCAFDoc_LayerTool.cxx">
+      <Filter>PXCAFDoc</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PXCAFDoc\PXCAFDoc_Location.cxx">
+      <Filter>PXCAFDoc</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PXCAFDoc\PXCAFDoc_Material.cxx">
+      <Filter>PXCAFDoc</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PXCAFDoc\PXCAFDoc_MaterialTool.cxx">
+      <Filter>PXCAFDoc</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PXCAFDoc\PXCAFDoc_ShapeTool.cxx">
+      <Filter>PXCAFDoc</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PXCAFDoc\PXCAFDoc_Volume.cxx">
+      <Filter>PXCAFDoc</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\XCAFDrivers\XCAFDrivers.cxx">
+      <Filter>XCAFDrivers</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\XCAFDrivers\XCAFDrivers_DocumentRetrievalDriver.cxx">
+      <Filter>XCAFDrivers</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\XCAFDrivers\XCAFDrivers_DocumentStorageDriver.cxx">
+      <Filter>XCAFDrivers</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\XCAFSchema\XCAFSchema.cxx">
+      <Filter>XCAFSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\XCAFSchema\XCAFSchema_DBC_VArrayOfCharacter.cxx">
+      <Filter>XCAFSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\XCAFSchema\XCAFSchema_DBC_VArrayOfExtCharacter.cxx">
+      <Filter>XCAFSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\XCAFSchema\XCAFSchema_PColStd_FieldOfHArray1OfReal.cxx">
+      <Filter>XCAFSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\XCAFSchema\XCAFSchema_PColStd_HArray1OfReal.cxx">
+      <Filter>XCAFSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\XCAFSchema\XCAFSchema_PCollection_HAsciiString.cxx">
+      <Filter>XCAFSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\XCAFSchema\XCAFSchema_PCollection_HExtendedString.cxx">
+      <Filter>XCAFSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\XCAFSchema\XCAFSchema_PDF_Attribute.cxx">
+      <Filter>XCAFSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\XCAFSchema\XCAFSchema_PMMgt_PManaged.cxx">
+      <Filter>XCAFSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\XCAFSchema\XCAFSchema_PTopLoc_Datum3D.cxx">
+      <Filter>XCAFSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\XCAFSchema\XCAFSchema_PTopLoc_ItemLocation.cxx">
+      <Filter>XCAFSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\XCAFSchema\XCAFSchema_PTopLoc_Location.cxx">
+      <Filter>XCAFSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\XCAFSchema\XCAFSchema_PXCAFDoc_Area.cxx">
+      <Filter>XCAFSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\XCAFSchema\XCAFSchema_PXCAFDoc_Centroid.cxx">
+      <Filter>XCAFSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\XCAFSchema\XCAFSchema_PXCAFDoc_Color.cxx">
+      <Filter>XCAFSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\XCAFSchema\XCAFSchema_PXCAFDoc_ColorTool.cxx">
+      <Filter>XCAFSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\XCAFSchema\XCAFSchema_PXCAFDoc_Datum.cxx">
+      <Filter>XCAFSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\XCAFSchema\XCAFSchema_PXCAFDoc_DimTol.cxx">
+      <Filter>XCAFSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\XCAFSchema\XCAFSchema_PXCAFDoc_DimTolTool.cxx">
+      <Filter>XCAFSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\XCAFSchema\XCAFSchema_PXCAFDoc_DocumentTool.cxx">
+      <Filter>XCAFSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\XCAFSchema\XCAFSchema_PXCAFDoc_GraphNode.cxx">
+      <Filter>XCAFSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\XCAFSchema\XCAFSchema_PXCAFDoc_GraphNodeSequence.cxx">
+      <Filter>XCAFSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\XCAFSchema\XCAFSchema_PXCAFDoc_LayerTool.cxx">
+      <Filter>XCAFSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\XCAFSchema\XCAFSchema_PXCAFDoc_Location.cxx">
+      <Filter>XCAFSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\XCAFSchema\XCAFSchema_PXCAFDoc_Material.cxx">
+      <Filter>XCAFSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\XCAFSchema\XCAFSchema_PXCAFDoc_MaterialTool.cxx">
+      <Filter>XCAFSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\XCAFSchema\XCAFSchema_PXCAFDoc_SeqNodeOfGraphNodeSequence.cxx">
+      <Filter>XCAFSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\XCAFSchema\XCAFSchema_PXCAFDoc_ShapeTool.cxx">
+      <Filter>XCAFSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\XCAFSchema\XCAFSchema_PXCAFDoc_Volume.cxx">
+      <Filter>XCAFSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\XCAFSchema\XCAFSchema_Quantity_Color.cxx">
+      <Filter>XCAFSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\XCAFSchema\XCAFSchema_Standard_GUID.cxx">
+      <Filter>XCAFSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\XCAFSchema\XCAFSchema_Standard_Persistent.cxx">
+      <Filter>XCAFSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\XCAFSchema\XCAFSchema_Standard_Storable.cxx">
+      <Filter>XCAFSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\XCAFSchema\XCAFSchema_gp_Ax1.cxx">
+      <Filter>XCAFSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\XCAFSchema\XCAFSchema_gp_Ax2.cxx">
+      <Filter>XCAFSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\XCAFSchema\XCAFSchema_gp_Ax2d.cxx">
+      <Filter>XCAFSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\XCAFSchema\XCAFSchema_gp_Ax3.cxx">
+      <Filter>XCAFSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\XCAFSchema\XCAFSchema_gp_Dir.cxx">
+      <Filter>XCAFSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\XCAFSchema\XCAFSchema_gp_Dir2d.cxx">
+      <Filter>XCAFSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\XCAFSchema\XCAFSchema_gp_Mat.cxx">
+      <Filter>XCAFSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\XCAFSchema\XCAFSchema_gp_Mat2d.cxx">
+      <Filter>XCAFSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\XCAFSchema\XCAFSchema_gp_Pnt.cxx">
+      <Filter>XCAFSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\XCAFSchema\XCAFSchema_gp_Pnt2d.cxx">
+      <Filter>XCAFSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\XCAFSchema\XCAFSchema_gp_Trsf.cxx">
+      <Filter>XCAFSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\XCAFSchema\XCAFSchema_gp_Trsf2d.cxx">
+      <Filter>XCAFSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\XCAFSchema\XCAFSchema_gp_Vec.cxx">
+      <Filter>XCAFSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\XCAFSchema\XCAFSchema_gp_Vec2d.cxx">
+      <Filter>XCAFSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\XCAFSchema\XCAFSchema_gp_XY.cxx">
+      <Filter>XCAFSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\XCAFSchema\XCAFSchema_gp_XYZ.cxx">
+      <Filter>XCAFSchema</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="E:\code\c\oce\adm\cmake\TKXCAFSchema\Precompiled.h">
+      <Filter>Precompiled</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\code\c\oce\adm\cmake\TKXCAFSchema\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="E:\code\c\oce\build\Version.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="MXCAFDoc">
+      <UniqueIdentifier>{21766B27-AEC2-3F46-92B9-1C75DFE9EC0B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PXCAFDoc">
+      <UniqueIdentifier>{06DF27CD-6194-39D5-AF45-509159C72429}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Precompiled">
+      <UniqueIdentifier>{9798687B-1064-3C74-84F3-7C7EA6AC7B09}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{89761968-2B46-3580-8630-22C285107311}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="XCAFDrivers">
+      <UniqueIdentifier>{06C89E14-3945-322C-AC9B-A927ACF6D172}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="XCAFSchema">
+      <UniqueIdentifier>{BA8F65E9-FAB2-38D4-8CA1-1513458C084D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

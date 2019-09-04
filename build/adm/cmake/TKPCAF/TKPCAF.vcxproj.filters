@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\code\c\oce\adm\cmake\TKPCAF\Precompiled.cpp">
+      <Filter>Precompiled</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PDataXtd\PDataXtd_Axis.cxx">
+      <Filter>PDataXtd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PDataXtd\PDataXtd_Constraint.cxx">
+      <Filter>PDataXtd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PDataXtd\PDataXtd_Geometry.cxx">
+      <Filter>PDataXtd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PDataXtd\PDataXtd_PatternStd.cxx">
+      <Filter>PDataXtd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PDataXtd\PDataXtd_Placement.cxx">
+      <Filter>PDataXtd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PDataXtd\PDataXtd_Plane.cxx">
+      <Filter>PDataXtd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PDataXtd\PDataXtd_Point.cxx">
+      <Filter>PDataXtd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PDataXtd\PDataXtd_Position.cxx">
+      <Filter>PDataXtd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PDataXtd\PDataXtd_Shape.cxx">
+      <Filter>PDataXtd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PNaming\PNaming_FieldOfHArray1OfNamedShape_0.cxx">
+      <Filter>PNaming</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PNaming\PNaming_HArray1OfNamedShape_0.cxx">
+      <Filter>PNaming</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PNaming\PNaming_VArrayNodeOfFieldOfHArray1OfNamedShape_0.cxx">
+      <Filter>PNaming</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PNaming\PNaming_VArrayTNodeOfFieldOfHArray1OfNamedShape_0.cxx">
+      <Filter>PNaming</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PNaming\PNaming_Name.cxx">
+      <Filter>PNaming</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PNaming\PNaming_Name_1.cxx">
+      <Filter>PNaming</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PNaming\PNaming_Name_2.cxx">
+      <Filter>PNaming</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PNaming\PNaming_NamedShape.cxx">
+      <Filter>PNaming</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PNaming\PNaming_Naming.cxx">
+      <Filter>PNaming</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PNaming\PNaming_Naming_1.cxx">
+      <Filter>PNaming</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PNaming\PNaming_Naming_2.cxx">
+      <Filter>PNaming</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PPrsStd\PPrsStd_AISPresentation.cxx">
+      <Filter>PPrsStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PPrsStd\PPrsStd_AISPresentation_1.cxx">
+      <Filter>PPrsStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MDataXtd\MDataXtd.cxx">
+      <Filter>MDataXtd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MDataXtd\MDataXtd_AxisRetrievalDriver.cxx">
+      <Filter>MDataXtd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MDataXtd\MDataXtd_AxisStorageDriver.cxx">
+      <Filter>MDataXtd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MDataXtd\MDataXtd_ConstraintRetrievalDriver.cxx">
+      <Filter>MDataXtd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MDataXtd\MDataXtd_ConstraintStorageDriver.cxx">
+      <Filter>MDataXtd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MDataXtd\MDataXtd_GeometryRetrievalDriver.cxx">
+      <Filter>MDataXtd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MDataXtd\MDataXtd_GeometryStorageDriver.cxx">
+      <Filter>MDataXtd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MDataXtd\MDataXtd_PatternStdRetrievalDriver.cxx">
+      <Filter>MDataXtd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MDataXtd\MDataXtd_PatternStdStorageDriver.cxx">
+      <Filter>MDataXtd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MDataXtd\MDataXtd_PlacementRetrievalDriver.cxx">
+      <Filter>MDataXtd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MDataXtd\MDataXtd_PlacementStorageDriver.cxx">
+      <Filter>MDataXtd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MDataXtd\MDataXtd_PlaneRetrievalDriver.cxx">
+      <Filter>MDataXtd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MDataXtd\MDataXtd_PlaneStorageDriver.cxx">
+      <Filter>MDataXtd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MDataXtd\MDataXtd_PointRetrievalDriver.cxx">
+      <Filter>MDataXtd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MDataXtd\MDataXtd_PointStorageDriver.cxx">
+      <Filter>MDataXtd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MDataXtd\MDataXtd_ShapeRetrievalDriver.cxx">
+      <Filter>MDataXtd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MDataXtd\MDataXtd_ShapeStorageDriver.cxx">
+      <Filter>MDataXtd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MPrsStd\MPrsStd.cxx">
+      <Filter>MPrsStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MPrsStd\MPrsStd_AISPresentationRetrievalDriver.cxx">
+      <Filter>MPrsStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MPrsStd\MPrsStd_AISPresentationRetrievalDriver_1.cxx">
+      <Filter>MPrsStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MPrsStd\MPrsStd_AISPresentationStorageDriver.cxx">
+      <Filter>MPrsStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MPrsStd\MPrsStd_PositionRetrievalDriver.cxx">
+      <Filter>MPrsStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MPrsStd\MPrsStd_PositionStorageDriver.cxx">
+      <Filter>MPrsStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MNaming\MNaming.cxx">
+      <Filter>MNaming</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MNaming\MNaming_NamedShapeRetrievalDriver.cxx">
+      <Filter>MNaming</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MNaming\MNaming_NamedShapeStorageDriver.cxx">
+      <Filter>MNaming</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MNaming\MNaming_NamingRetrievalDriver.cxx">
+      <Filter>MNaming</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MNaming\MNaming_NamingRetrievalDriver_1.cxx">
+      <Filter>MNaming</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MNaming\MNaming_NamingRetrievalDriver_2.cxx">
+      <Filter>MNaming</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MNaming\MNaming_NamingStorageDriver.cxx">
+      <Filter>MNaming</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="E:\code\c\oce\adm\cmake\TKPCAF\Precompiled.h">
+      <Filter>Precompiled</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\code\c\oce\adm\cmake\TKPCAF\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="E:\code\c\oce\build\Version.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="MDataXtd">
+      <UniqueIdentifier>{FD6E5608-C35A-31CE-B924-255728524372}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MNaming">
+      <UniqueIdentifier>{D0418D5F-0009-36CD-84EB-9562181ACA44}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MPrsStd">
+      <UniqueIdentifier>{F0D2ADE4-4055-37D5-A0B5-4246336EC8FB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PDataXtd">
+      <UniqueIdentifier>{F9DDBE77-5040-3013-BB5B-0E598F8FC2F5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PNaming">
+      <UniqueIdentifier>{7D350A9C-D9E8-38C6-AA31-E28BEE3B23A1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PPrsStd">
+      <UniqueIdentifier>{AD9E15C6-0062-34D6-ACBE-783AFE5E54E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Precompiled">
+      <UniqueIdentifier>{9798687B-1064-3C74-84F3-7C7EA6AC7B09}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{89761968-2B46-3580-8630-22C285107311}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

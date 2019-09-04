@@ -1,0 +1,269 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\code\c\oce\adm\cmake\PTKernel\Precompiled.cpp">
+      <Filter>Precompiled</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\DBC\DBC_VArrayNodeOfVArrayOfCharacter_0.cxx">
+      <Filter>DBC</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\DBC\DBC_VArrayNodeOfVArrayOfExtCharacter_0.cxx">
+      <Filter>DBC</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\DBC\DBC_VArrayNodeOfVArrayOfInteger_0.cxx">
+      <Filter>DBC</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\DBC\DBC_VArrayNodeOfVArrayOfReal_0.cxx">
+      <Filter>DBC</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\DBC\DBC_VArrayOfCharacter_0.cxx">
+      <Filter>DBC</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\DBC\DBC_VArrayOfExtCharacter_0.cxx">
+      <Filter>DBC</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\DBC\DBC_VArrayOfInteger_0.cxx">
+      <Filter>DBC</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\DBC\DBC_VArrayOfReal_0.cxx">
+      <Filter>DBC</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\DBC\DBC_VArrayTNodeOfVArrayOfCharacter_0.cxx">
+      <Filter>DBC</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\DBC\DBC_VArrayTNodeOfVArrayOfExtCharacter_0.cxx">
+      <Filter>DBC</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\DBC\DBC_VArrayTNodeOfVArrayOfInteger_0.cxx">
+      <Filter>DBC</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\DBC\DBC_VArrayTNodeOfVArrayOfReal_0.cxx">
+      <Filter>DBC</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\DBC\DBC_BaseArray.cxx">
+      <Filter>DBC</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\DBC\DBC_DBVArray.cxx">
+      <Filter>DBC</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PCollection\PCollection_HAsciiString.cxx">
+      <Filter>PCollection</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PCollection\PCollection_HExtendedString.cxx">
+      <Filter>PCollection</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColStd\PColStd_FieldOfHArray1OfExtendedString_0.cxx">
+      <Filter>PColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColStd\PColStd_FieldOfHArray1OfInteger_0.cxx">
+      <Filter>PColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColStd\PColStd_FieldOfHArray1OfPersistent_0.cxx">
+      <Filter>PColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColStd\PColStd_FieldOfHArray1OfReal_0.cxx">
+      <Filter>PColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColStd\PColStd_FieldOfHArray2OfInteger_0.cxx">
+      <Filter>PColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColStd\PColStd_FieldOfHArray2OfPersistent_0.cxx">
+      <Filter>PColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColStd\PColStd_FieldOfHArray2OfReal_0.cxx">
+      <Filter>PColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColStd\PColStd_HArray1OfExtendedString_0.cxx">
+      <Filter>PColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColStd\PColStd_HArray1OfInteger_0.cxx">
+      <Filter>PColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColStd\PColStd_HArray1OfPersistent_0.cxx">
+      <Filter>PColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColStd\PColStd_HArray1OfReal_0.cxx">
+      <Filter>PColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColStd\PColStd_HArray2OfInteger_0.cxx">
+      <Filter>PColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColStd\PColStd_HArray2OfPersistent_0.cxx">
+      <Filter>PColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColStd\PColStd_HArray2OfReal_0.cxx">
+      <Filter>PColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColStd\PColStd_VArrayNodeOfFieldOfHArray1OfExtendedString_0.cxx">
+      <Filter>PColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColStd\PColStd_VArrayNodeOfFieldOfHArray1OfInteger_0.cxx">
+      <Filter>PColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColStd\PColStd_VArrayNodeOfFieldOfHArray1OfPersistent_0.cxx">
+      <Filter>PColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColStd\PColStd_VArrayNodeOfFieldOfHArray1OfReal_0.cxx">
+      <Filter>PColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColStd\PColStd_VArrayNodeOfFieldOfHArray2OfInteger_0.cxx">
+      <Filter>PColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColStd\PColStd_VArrayNodeOfFieldOfHArray2OfPersistent_0.cxx">
+      <Filter>PColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColStd\PColStd_VArrayNodeOfFieldOfHArray2OfReal_0.cxx">
+      <Filter>PColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColStd\PColStd_VArrayTNodeOfFieldOfHArray1OfExtendedString_0.cxx">
+      <Filter>PColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColStd\PColStd_VArrayTNodeOfFieldOfHArray1OfInteger_0.cxx">
+      <Filter>PColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColStd\PColStd_VArrayTNodeOfFieldOfHArray1OfPersistent_0.cxx">
+      <Filter>PColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColStd\PColStd_VArrayTNodeOfFieldOfHArray1OfReal_0.cxx">
+      <Filter>PColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColStd\PColStd_VArrayTNodeOfFieldOfHArray2OfInteger_0.cxx">
+      <Filter>PColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColStd\PColStd_VArrayTNodeOfFieldOfHArray2OfPersistent_0.cxx">
+      <Filter>PColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PColStd\PColStd_VArrayTNodeOfFieldOfHArray2OfReal_0.cxx">
+      <Filter>PColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PMMgt\PMMgt_PManaged.cxx">
+      <Filter>PMMgt</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PShort\PShort_FieldOfHArray1OfShortReal_0.cxx">
+      <Filter>PShort</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PShort\PShort_FieldOfHArray2OfShortReal_0.cxx">
+      <Filter>PShort</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PShort\PShort_HArray1OfShortReal_0.cxx">
+      <Filter>PShort</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PShort\PShort_HArray2OfShortReal_0.cxx">
+      <Filter>PShort</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PShort\PShort_HSequenceOfShortReal_0.cxx">
+      <Filter>PShort</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PShort\PShort_SeqExplorerOfHSequenceOfShortReal_0.cxx">
+      <Filter>PShort</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PShort\PShort_SeqNodeOfHSequenceOfShortReal_0.cxx">
+      <Filter>PShort</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PShort\PShort_VArrayNodeOfFieldOfHArray1OfShortReal_0.cxx">
+      <Filter>PShort</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PShort\PShort_VArrayNodeOfFieldOfHArray2OfShortReal_0.cxx">
+      <Filter>PShort</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PShort\PShort_VArrayTNodeOfFieldOfHArray1OfShortReal_0.cxx">
+      <Filter>PShort</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PShort\PShort_VArrayTNodeOfFieldOfHArray2OfShortReal_0.cxx">
+      <Filter>PShort</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PStandard\PStandard_ArrayNode.cxx">
+      <Filter>PStandard</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PTColStd\PTColStd_DataMapIteratorOfPersistentTransientMap_0.cxx">
+      <Filter>PTColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PTColStd\PTColStd_DataMapIteratorOfTransientPersistentMap_0.cxx">
+      <Filter>PTColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PTColStd\PTColStd_DataMapNodeOfPersistentTransientMap_0.cxx">
+      <Filter>PTColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PTColStd\PTColStd_DataMapNodeOfTransientPersistentMap_0.cxx">
+      <Filter>PTColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PTColStd\PTColStd_DoubleMapIteratorOfDoubleMapOfTransientPersistent_0.cxx">
+      <Filter>PTColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PTColStd\PTColStd_DoubleMapNodeOfDoubleMapOfTransientPersistent_0.cxx">
+      <Filter>PTColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PTColStd\PTColStd_DoubleMapOfTransientPersistent_0.cxx">
+      <Filter>PTColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PTColStd\PTColStd_MapPersistentHasher_0.cxx">
+      <Filter>PTColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PTColStd\PTColStd_PersistentTransientMap_0.cxx">
+      <Filter>PTColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PTColStd\PTColStd_TransientPersistentMap_0.cxx">
+      <Filter>PTColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ObjMgt\ObjMgt_PSeqOfExtRef_0.cxx">
+      <Filter>ObjMgt</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ObjMgt\ObjMgt_SeqExplorerOfPSeqOfExtRef_0.cxx">
+      <Filter>ObjMgt</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ObjMgt\ObjMgt_SeqNodeOfPSeqOfExtRef_0.cxx">
+      <Filter>ObjMgt</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\ObjMgt\ObjMgt_ExternRef.cxx">
+      <Filter>ObjMgt</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\ObjMgt\ObjMgt_ExternShareable.cxx">
+      <Filter>ObjMgt</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="E:\code\c\oce\adm\cmake\PTKernel\Precompiled.h">
+      <Filter>Precompiled</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\code\c\oce\adm\cmake\PTKernel\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="E:\code\c\oce\build\Version.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="DBC">
+      <UniqueIdentifier>{91E81B92-E597-38FA-A2EE-5BC3F1CD214F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ObjMgt">
+      <UniqueIdentifier>{1F67E047-6410-3847-BE44-739872DDAF7E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PColStd">
+      <UniqueIdentifier>{8A84D6EE-1B3F-3A60-A1C2-D2CC99647BD1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PCollection">
+      <UniqueIdentifier>{5B59CA7B-47C3-3DE4-84AA-F423492EC75F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PMMgt">
+      <UniqueIdentifier>{AEC6DDBE-9F75-3125-819C-DE7D33F7EABA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PShort">
+      <UniqueIdentifier>{D50FCFFD-CB31-307D-8971-1B6DB1E6B461}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PStandard">
+      <UniqueIdentifier>{32508BC2-A204-339A-B951-73F029950D1C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PTColStd">
+      <UniqueIdentifier>{63065F2B-E1BA-3325-8002-DE46AB055303}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Precompiled">
+      <UniqueIdentifier>{9798687B-1064-3C74-84F3-7C7EA6AC7B09}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{89761968-2B46-3580-8630-22C285107311}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

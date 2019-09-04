@@ -1,0 +1,1052 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\code\c\oce\adm\cmake\TKXSBase\Precompiled.cpp">
+      <Filter>Precompiled</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Interface\Interface_Array1OfFileParameter_0.cxx">
+      <Filter>Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Interface\Interface_Array1OfHAsciiString_0.cxx">
+      <Filter>Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Interface\Interface_CheckFailure_0.cxx">
+      <Filter>Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Interface\Interface_DataMapIteratorOfDataMapOfTransientInteger_0.cxx">
+      <Filter>Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Interface\Interface_DataMapNodeOfDataMapOfTransientInteger_0.cxx">
+      <Filter>Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Interface\Interface_DataMapOfTransientInteger_0.cxx">
+      <Filter>Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Interface\Interface_GeneralLib_0.cxx">
+      <Filter>Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Interface\Interface_GlobalNodeOfGeneralLib_0.cxx">
+      <Filter>Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Interface\Interface_GlobalNodeOfReaderLib_0.cxx">
+      <Filter>Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Interface\Interface_HArray1OfHAsciiString_0.cxx">
+      <Filter>Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Interface\Interface_HSequenceOfCheck_0.cxx">
+      <Filter>Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Interface\Interface_IndexedMapNodeOfIndexedMapOfAsciiString_0.cxx">
+      <Filter>Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Interface\Interface_IndexedMapOfAsciiString_0.cxx">
+      <Filter>Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Interface\Interface_InterfaceError_0.cxx">
+      <Filter>Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Interface\Interface_InterfaceMismatch_0.cxx">
+      <Filter>Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Interface\Interface_NodeOfGeneralLib_0.cxx">
+      <Filter>Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Interface\Interface_NodeOfReaderLib_0.cxx">
+      <Filter>Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Interface\Interface_ReaderLib_0.cxx">
+      <Filter>Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Interface\Interface_SequenceNodeOfSequenceOfCheck_0.cxx">
+      <Filter>Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Interface\Interface_SequenceOfCheck_0.cxx">
+      <Filter>Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Interface\Interface_BitMap.cxx">
+      <Filter>Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Interface\Interface_Category.cxx">
+      <Filter>Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Interface\Interface_Check.cxx">
+      <Filter>Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Interface\Interface_CheckIterator.cxx">
+      <Filter>Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Interface\Interface_CheckTool.cxx">
+      <Filter>Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Interface\Interface_CopyControl.cxx">
+      <Filter>Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Interface\Interface_CopyMap.cxx">
+      <Filter>Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Interface\Interface_CopyTool.cxx">
+      <Filter>Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Interface\Interface_EntityCluster.cxx">
+      <Filter>Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Interface\Interface_EntityIterator.cxx">
+      <Filter>Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Interface\Interface_EntityList.cxx">
+      <Filter>Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Interface\Interface_FileParameter.cxx">
+      <Filter>Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Interface\Interface_FileReaderData.cxx">
+      <Filter>Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Interface\Interface_FileReaderTool.cxx">
+      <Filter>Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Interface\Interface_FloatWriter.cxx">
+      <Filter>Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Interface\Interface_GTool.cxx">
+      <Filter>Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Interface\Interface_GeneralModule.cxx">
+      <Filter>Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Interface\Interface_Graph.cxx">
+      <Filter>Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Interface\Interface_GraphContent.cxx">
+      <Filter>Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Interface\Interface_HGraph.cxx">
+      <Filter>Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Interface\Interface_IntList.cxx">
+      <Filter>Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Interface\Interface_IntVal.cxx">
+      <Filter>Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Interface\Interface_InterfaceModel.cxx">
+      <Filter>Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Interface\Interface_LineBuffer.cxx">
+      <Filter>Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Interface\Interface_MSG.cxx">
+      <Filter>Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Interface\Interface_MapAsciiStringHasher.cxx">
+      <Filter>Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Interface\Interface_ParamList.cxx">
+      <Filter>Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Interface\Interface_ParamSet.cxx">
+      <Filter>Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Interface\Interface_Protocol.cxx">
+      <Filter>Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Interface\Interface_ReaderModule.cxx">
+      <Filter>Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Interface\Interface_ReportEntity.cxx">
+      <Filter>Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Interface\Interface_STAT.cxx">
+      <Filter>Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Interface\Interface_ShareFlags.cxx">
+      <Filter>Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Interface\Interface_ShareTool.cxx">
+      <Filter>Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Interface\Interface_SignLabel.cxx">
+      <Filter>Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Interface\Interface_SignType.cxx">
+      <Filter>Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Interface\Interface_Static.cxx">
+      <Filter>Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Interface\Interface_StaticStandards.cxx">
+      <Filter>Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Interface\Interface_TypedValue.cxx">
+      <Filter>Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Interface\Interface_UndefinedContent.cxx">
+      <Filter>Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Transfer\Transfer_ActorOfProcessForFinder_0.cxx">
+      <Filter>Transfer</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Transfer\Transfer_ActorOfProcessForTransient_0.cxx">
+      <Filter>Transfer</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Transfer\Transfer_HSequenceOfBinder_0.cxx">
+      <Filter>Transfer</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Transfer\Transfer_HSequenceOfFinder_0.cxx">
+      <Filter>Transfer</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Transfer\Transfer_IndexedDataMapNodeOfTransferMapOfProcessForFinder_0.cxx">
+      <Filter>Transfer</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Transfer\Transfer_IndexedDataMapNodeOfTransferMapOfProcessForTransient_0.cxx">
+      <Filter>Transfer</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Transfer\Transfer_IteratorOfProcessForFinder_0.cxx">
+      <Filter>Transfer</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Transfer\Transfer_IteratorOfProcessForTransient_0.cxx">
+      <Filter>Transfer</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Transfer\Transfer_ProcessForFinder_0.cxx">
+      <Filter>Transfer</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Transfer\Transfer_ProcessForTransient_0.cxx">
+      <Filter>Transfer</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Transfer\Transfer_SequenceNodeOfSequenceOfBinder_0.cxx">
+      <Filter>Transfer</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Transfer\Transfer_SequenceNodeOfSequenceOfFinder_0.cxx">
+      <Filter>Transfer</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Transfer\Transfer_SequenceOfBinder_0.cxx">
+      <Filter>Transfer</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Transfer\Transfer_SequenceOfFinder_0.cxx">
+      <Filter>Transfer</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Transfer\Transfer_TransferDeadLoop_0.cxx">
+      <Filter>Transfer</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Transfer\Transfer_TransferFailure_0.cxx">
+      <Filter>Transfer</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Transfer\Transfer_TransferMapOfProcessForFinder_0.cxx">
+      <Filter>Transfer</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Transfer\Transfer_TransferMapOfProcessForTransient_0.cxx">
+      <Filter>Transfer</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Transfer\Transfer_TransientMapper_0.cxx">
+      <Filter>Transfer</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Transfer\Transfer_ActorDispatch.cxx">
+      <Filter>Transfer</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Transfer\Transfer_ActorOfFinderProcess.cxx">
+      <Filter>Transfer</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Transfer\Transfer_ActorOfTransientProcess.cxx">
+      <Filter>Transfer</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Transfer\Transfer_Binder.cxx">
+      <Filter>Transfer</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Transfer\Transfer_BinderOfTransientInteger.cxx">
+      <Filter>Transfer</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Transfer\Transfer_DataInfo.cxx">
+      <Filter>Transfer</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Transfer\Transfer_DispatchControl.cxx">
+      <Filter>Transfer</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Transfer\Transfer_FindHasher.cxx">
+      <Filter>Transfer</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Transfer\Transfer_Finder.cxx">
+      <Filter>Transfer</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Transfer\Transfer_FinderProcess.cxx">
+      <Filter>Transfer</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Transfer\Transfer_MapContainer.cxx">
+      <Filter>Transfer</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Transfer\Transfer_MultipleBinder.cxx">
+      <Filter>Transfer</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Transfer\Transfer_ResultFromModel.cxx">
+      <Filter>Transfer</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Transfer\Transfer_ResultFromTransient.cxx">
+      <Filter>Transfer</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Transfer\Transfer_SimpleBinderOfTransient.cxx">
+      <Filter>Transfer</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Transfer\Transfer_TransferDispatch.cxx">
+      <Filter>Transfer</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Transfer\Transfer_TransferInput.cxx">
+      <Filter>Transfer</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Transfer\Transfer_TransferIterator.cxx">
+      <Filter>Transfer</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Transfer\Transfer_TransferOutput.cxx">
+      <Filter>Transfer</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Transfer\Transfer_TransientListBinder.cxx">
+      <Filter>Transfer</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Transfer\Transfer_TransientProcess.cxx">
+      <Filter>Transfer</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Transfer\Transfer_VoidBinder.cxx">
+      <Filter>Transfer</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\IFGraph\IFGraph_AllConnected.cxx">
+      <Filter>IFGraph</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\IFGraph\IFGraph_AllShared.cxx">
+      <Filter>IFGraph</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\IFGraph\IFGraph_Articulations.cxx">
+      <Filter>IFGraph</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\IFGraph\IFGraph_Compare.cxx">
+      <Filter>IFGraph</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\IFGraph\IFGraph_ConnectedComponants.cxx">
+      <Filter>IFGraph</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\IFGraph\IFGraph_Cumulate.cxx">
+      <Filter>IFGraph</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\IFGraph\IFGraph_Cycles.cxx">
+      <Filter>IFGraph</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\IFGraph\IFGraph_ExternalSources.cxx">
+      <Filter>IFGraph</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\IFGraph\IFGraph_SCRoots.cxx">
+      <Filter>IFGraph</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\IFGraph\IFGraph_StrongComponants.cxx">
+      <Filter>IFGraph</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\IFGraph\IFGraph_SubPartsIterator.cxx">
+      <Filter>IFGraph</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\IFSelect\IFSelect_HSeqOfSelection_0.cxx">
+      <Filter>IFSelect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\IFSelect\IFSelect_SequenceNodeOfSequenceOfAppliedModifiers_0.cxx">
+      <Filter>IFSelect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\IFSelect\IFSelect_SequenceNodeOfSequenceOfGeneralModifier_0.cxx">
+      <Filter>IFSelect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\IFSelect\IFSelect_SequenceNodeOfSequenceOfInterfaceModel_0.cxx">
+      <Filter>IFSelect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\IFSelect\IFSelect_SequenceNodeOfTSeqOfDispatch_0.cxx">
+      <Filter>IFSelect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\IFSelect\IFSelect_SequenceNodeOfTSeqOfSelection_0.cxx">
+      <Filter>IFSelect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\IFSelect\IFSelect_SequenceOfAppliedModifiers_0.cxx">
+      <Filter>IFSelect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\IFSelect\IFSelect_SequenceOfGeneralModifier_0.cxx">
+      <Filter>IFSelect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\IFSelect\IFSelect_SequenceOfInterfaceModel_0.cxx">
+      <Filter>IFSelect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\IFSelect\IFSelect_TSeqOfDispatch_0.cxx">
+      <Filter>IFSelect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\IFSelect\IFSelect_TSeqOfSelection_0.cxx">
+      <Filter>IFSelect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\IFSelect\IFSelect.cxx">
+      <Filter>IFSelect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\IFSelect\IFSelect_Act.cxx">
+      <Filter>IFSelect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\IFSelect\IFSelect_Activator.cxx">
+      <Filter>IFSelect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\IFSelect\IFSelect_AppliedModifiers.cxx">
+      <Filter>IFSelect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\IFSelect\IFSelect_BasicDumper.cxx">
+      <Filter>IFSelect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\IFSelect\IFSelect_CheckCounter.cxx">
+      <Filter>IFSelect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\IFSelect\IFSelect_ContextModif.cxx">
+      <Filter>IFSelect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\IFSelect\IFSelect_ContextWrite.cxx">
+      <Filter>IFSelect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\IFSelect\IFSelect_DispGlobal.cxx">
+      <Filter>IFSelect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\IFSelect\IFSelect_DispPerCount.cxx">
+      <Filter>IFSelect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\IFSelect\IFSelect_DispPerFiles.cxx">
+      <Filter>IFSelect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\IFSelect\IFSelect_DispPerOne.cxx">
+      <Filter>IFSelect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\IFSelect\IFSelect_DispPerSignature.cxx">
+      <Filter>IFSelect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\IFSelect\IFSelect_Dispatch.cxx">
+      <Filter>IFSelect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\IFSelect\IFSelect_EditForm.cxx">
+      <Filter>IFSelect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\IFSelect\IFSelect_Editor.cxx">
+      <Filter>IFSelect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\IFSelect\IFSelect_Functions.cxx">
+      <Filter>IFSelect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\IFSelect\IFSelect_GeneralModifier.cxx">
+      <Filter>IFSelect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\IFSelect\IFSelect_GraphCounter.cxx">
+      <Filter>IFSelect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\IFSelect\IFSelect_IntParam.cxx">
+      <Filter>IFSelect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\IFSelect\IFSelect_ListEditor.cxx">
+      <Filter>IFSelect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\IFSelect\IFSelect_ModelCopier.cxx">
+      <Filter>IFSelect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\IFSelect\IFSelect_ModifEditForm.cxx">
+      <Filter>IFSelect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\IFSelect\IFSelect_ModifReorder.cxx">
+      <Filter>IFSelect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\IFSelect\IFSelect_Modifier.cxx">
+      <Filter>IFSelect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\IFSelect\IFSelect_PacketList.cxx">
+      <Filter>IFSelect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\IFSelect\IFSelect_ParamEditor.cxx">
+      <Filter>IFSelect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\IFSelect\IFSelect_SelectAnyList.cxx">
+      <Filter>IFSelect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\IFSelect\IFSelect_SelectAnyType.cxx">
+      <Filter>IFSelect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\IFSelect\IFSelect_SelectBase.cxx">
+      <Filter>IFSelect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\IFSelect\IFSelect_SelectCombine.cxx">
+      <Filter>IFSelect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\IFSelect\IFSelect_SelectControl.cxx">
+      <Filter>IFSelect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\IFSelect\IFSelect_SelectDeduct.cxx">
+      <Filter>IFSelect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\IFSelect\IFSelect_SelectDiff.cxx">
+      <Filter>IFSelect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\IFSelect\IFSelect_SelectEntityNumber.cxx">
+      <Filter>IFSelect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\IFSelect\IFSelect_SelectErrorEntities.cxx">
+      <Filter>IFSelect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\IFSelect\IFSelect_SelectExplore.cxx">
+      <Filter>IFSelect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\IFSelect\IFSelect_SelectExtract.cxx">
+      <Filter>IFSelect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\IFSelect\IFSelect_SelectFlag.cxx">
+      <Filter>IFSelect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\IFSelect\IFSelect_SelectInList.cxx">
+      <Filter>IFSelect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\IFSelect\IFSelect_SelectIncorrectEntities.cxx">
+      <Filter>IFSelect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\IFSelect\IFSelect_SelectIntersection.cxx">
+      <Filter>IFSelect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\IFSelect\IFSelect_SelectModelEntities.cxx">
+      <Filter>IFSelect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\IFSelect\IFSelect_SelectModelRoots.cxx">
+      <Filter>IFSelect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\IFSelect\IFSelect_SelectPointed.cxx">
+      <Filter>IFSelect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\IFSelect\IFSelect_SelectRange.cxx">
+      <Filter>IFSelect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\IFSelect\IFSelect_SelectRootComps.cxx">
+      <Filter>IFSelect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\IFSelect\IFSelect_SelectRoots.cxx">
+      <Filter>IFSelect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\IFSelect\IFSelect_SelectSent.cxx">
+      <Filter>IFSelect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\IFSelect\IFSelect_SelectShared.cxx">
+      <Filter>IFSelect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\IFSelect\IFSelect_SelectSharing.cxx">
+      <Filter>IFSelect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\IFSelect\IFSelect_SelectSignature.cxx">
+      <Filter>IFSelect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\IFSelect\IFSelect_SelectSignedShared.cxx">
+      <Filter>IFSelect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\IFSelect\IFSelect_SelectSignedSharing.cxx">
+      <Filter>IFSelect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\IFSelect\IFSelect_SelectSuite.cxx">
+      <Filter>IFSelect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\IFSelect\IFSelect_SelectType.cxx">
+      <Filter>IFSelect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\IFSelect\IFSelect_SelectUnion.cxx">
+      <Filter>IFSelect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\IFSelect\IFSelect_SelectUnknownEntities.cxx">
+      <Filter>IFSelect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\IFSelect\IFSelect_Selection.cxx">
+      <Filter>IFSelect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\IFSelect\IFSelect_SelectionIterator.cxx">
+      <Filter>IFSelect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\IFSelect\IFSelect_SessionDumper.cxx">
+      <Filter>IFSelect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\IFSelect\IFSelect_SessionFile.cxx">
+      <Filter>IFSelect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\IFSelect\IFSelect_SessionPilot.cxx">
+      <Filter>IFSelect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\IFSelect\IFSelect_ShareOut.cxx">
+      <Filter>IFSelect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\IFSelect\IFSelect_ShareOutResult.cxx">
+      <Filter>IFSelect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\IFSelect\IFSelect_SignAncestor.cxx">
+      <Filter>IFSelect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\IFSelect\IFSelect_SignCategory.cxx">
+      <Filter>IFSelect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\IFSelect\IFSelect_SignCounter.cxx">
+      <Filter>IFSelect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\IFSelect\IFSelect_SignMultiple.cxx">
+      <Filter>IFSelect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\IFSelect\IFSelect_SignType.cxx">
+      <Filter>IFSelect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\IFSelect\IFSelect_SignValidity.cxx">
+      <Filter>IFSelect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\IFSelect\IFSelect_Signature.cxx">
+      <Filter>IFSelect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\IFSelect\IFSelect_SignatureList.cxx">
+      <Filter>IFSelect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\IFSelect\IFSelect_TransformStandard.cxx">
+      <Filter>IFSelect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\IFSelect\IFSelect_Transformer.cxx">
+      <Filter>IFSelect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\IFSelect\IFSelect_WorkLibrary.cxx">
+      <Filter>IFSelect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\IFSelect\IFSelect_WorkSession.cxx">
+      <Filter>IFSelect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TransferBRep\TransferBRep_HSequenceOfTransferResultInfo_0.cxx">
+      <Filter>TransferBRep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TransferBRep\TransferBRep_OrientedShapeMapper_0.cxx">
+      <Filter>TransferBRep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TransferBRep\TransferBRep_SequenceNodeOfSequenceOfTransferResultInfo_0.cxx">
+      <Filter>TransferBRep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TransferBRep\TransferBRep_SequenceOfTransferResultInfo_0.cxx">
+      <Filter>TransferBRep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TransferBRep\TransferBRep_ShapeMapper_0.cxx">
+      <Filter>TransferBRep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TransferBRep\TransferBRep.cxx">
+      <Filter>TransferBRep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TransferBRep\TransferBRep_BinderOfShape.cxx">
+      <Filter>TransferBRep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TransferBRep\TransferBRep_Reader.cxx">
+      <Filter>TransferBRep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TransferBRep\TransferBRep_ShapeBinder.cxx">
+      <Filter>TransferBRep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TransferBRep\TransferBRep_ShapeInfo.cxx">
+      <Filter>TransferBRep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TransferBRep\TransferBRep_ShapeListBinder.cxx">
+      <Filter>TransferBRep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TransferBRep\TransferBRep_TransferResultInfo.cxx">
+      <Filter>TransferBRep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\XSControl\XSControl.cxx">
+      <Filter>XSControl</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\XSControl\XSControl_ConnectedShapes.cxx">
+      <Filter>XSControl</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\XSControl\XSControl_Controller.cxx">
+      <Filter>XSControl</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\XSControl\XSControl_FuncShape.cxx">
+      <Filter>XSControl</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\XSControl\XSControl_Functions.cxx">
+      <Filter>XSControl</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\XSControl\XSControl_Reader.cxx">
+      <Filter>XSControl</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\XSControl\XSControl_SelectForTransfer.cxx">
+      <Filter>XSControl</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\XSControl\XSControl_SignTransferStatus.cxx">
+      <Filter>XSControl</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\XSControl\XSControl_TransferReader.cxx">
+      <Filter>XSControl</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\XSControl\XSControl_TransferWriter.cxx">
+      <Filter>XSControl</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\XSControl\XSControl_Utils.cxx">
+      <Filter>XSControl</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\XSControl\XSControl_Vars.cxx">
+      <Filter>XSControl</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\XSControl\XSControl_WorkSession.cxx">
+      <Filter>XSControl</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\XSControl\XSControl_Writer.cxx">
+      <Filter>XSControl</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StepData\StepData_Array1OfField_0.cxx">
+      <Filter>StepData</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StepData\StepData_FileRecognizer_0.cxx">
+      <Filter>StepData</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StepData\StepData_GlobalNodeOfWriterLib_0.cxx">
+      <Filter>StepData</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StepData\StepData_HArray1OfField_0.cxx">
+      <Filter>StepData</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StepData\StepData_NodeOfWriterLib_0.cxx">
+      <Filter>StepData</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StepData\StepData_WriterLib_0.cxx">
+      <Filter>StepData</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepData\StepData.cxx">
+      <Filter>StepData</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepData\StepData_DefaultGeneral.cxx">
+      <Filter>StepData</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepData\StepData_DescrGeneral.cxx">
+      <Filter>StepData</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepData\StepData_DescrProtocol.cxx">
+      <Filter>StepData</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepData\StepData_DescrReadWrite.cxx">
+      <Filter>StepData</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepData\StepData_Described.cxx">
+      <Filter>StepData</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepData\StepData_ECDescr.cxx">
+      <Filter>StepData</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepData\StepData_EDescr.cxx">
+      <Filter>StepData</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepData\StepData_ESDescr.cxx">
+      <Filter>StepData</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepData\StepData_EnumTool.cxx">
+      <Filter>StepData</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepData\StepData_Field.cxx">
+      <Filter>StepData</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepData\StepData_FieldList.cxx">
+      <Filter>StepData</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepData\StepData_FieldList1.cxx">
+      <Filter>StepData</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepData\StepData_FieldListD.cxx">
+      <Filter>StepData</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepData\StepData_FieldListN.cxx">
+      <Filter>StepData</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepData\StepData_FileProtocol.cxx">
+      <Filter>StepData</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepData\StepData_FreeFormEntity.cxx">
+      <Filter>StepData</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepData\StepData_GeneralModule.cxx">
+      <Filter>StepData</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepData\StepData_HeaderTool.cxx">
+      <Filter>StepData</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepData\StepData_PDescr.cxx">
+      <Filter>StepData</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepData\StepData_Plex.cxx">
+      <Filter>StepData</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepData\StepData_Protocol.cxx">
+      <Filter>StepData</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepData\StepData_ReadWriteModule.cxx">
+      <Filter>StepData</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepData\StepData_SelectArrReal.cxx">
+      <Filter>StepData</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepData\StepData_SelectInt.cxx">
+      <Filter>StepData</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepData\StepData_SelectMember.cxx">
+      <Filter>StepData</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepData\StepData_SelectNamed.cxx">
+      <Filter>StepData</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepData\StepData_SelectReal.cxx">
+      <Filter>StepData</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepData\StepData_SelectType.cxx">
+      <Filter>StepData</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepData\StepData_Simple.cxx">
+      <Filter>StepData</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepData\StepData_StepDumper.cxx">
+      <Filter>StepData</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepData\StepData_StepModel.cxx">
+      <Filter>StepData</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepData\StepData_StepReaderData.cxx">
+      <Filter>StepData</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepData\StepData_StepReaderTool.cxx">
+      <Filter>StepData</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepData\StepData_StepWriter.cxx">
+      <Filter>StepData</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepData\StepData_UndefinedEntity.cxx">
+      <Filter>StepData</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StepFile\lex.step.c">
+      <Filter>StepFile</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StepFile\step.tab.c">
+      <Filter>StepFile</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepFile\StepFile_CallFailure.cxx">
+      <Filter>StepFile</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepFile\StepFile_Read.cxx">
+      <Filter>StepFile</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepFile\stepread.c">
+      <Filter>StepFile</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\HeaderSection\HeaderSection.cxx">
+      <Filter>HeaderSection</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\HeaderSection\HeaderSection_FileDescription.cxx">
+      <Filter>HeaderSection</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\HeaderSection\HeaderSection_FileName.cxx">
+      <Filter>HeaderSection</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\HeaderSection\HeaderSection_FileSchema.cxx">
+      <Filter>HeaderSection</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\HeaderSection\HeaderSection_HeaderRecognizer.cxx">
+      <Filter>HeaderSection</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\HeaderSection\HeaderSection_Protocol.cxx">
+      <Filter>HeaderSection</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWHeaderSection\RWHeaderSection.cxx">
+      <Filter>RWHeaderSection</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWHeaderSection\RWHeaderSection_GeneralModule.cxx">
+      <Filter>RWHeaderSection</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWHeaderSection\RWHeaderSection_RWFileDescription.cxx">
+      <Filter>RWHeaderSection</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWHeaderSection\RWHeaderSection_RWFileName.cxx">
+      <Filter>RWHeaderSection</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWHeaderSection\RWHeaderSection_RWFileSchema.cxx">
+      <Filter>RWHeaderSection</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWHeaderSection\RWHeaderSection_ReadWriteModule.cxx">
+      <Filter>RWHeaderSection</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\APIHeaderSection\APIHeaderSection_EditHeader.cxx">
+      <Filter>APIHeaderSection</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\APIHeaderSection\APIHeaderSection_MakeHeader.cxx">
+      <Filter>APIHeaderSection</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StepSelect\StepSelect_FileModifier_0.cxx">
+      <Filter>StepSelect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StepSelect\StepSelect_ModelModifier_0.cxx">
+      <Filter>StepSelect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepSelect\StepSelect_Activator.cxx">
+      <Filter>StepSelect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepSelect\StepSelect_FloatFormat.cxx">
+      <Filter>StepSelect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepSelect\StepSelect_StepType.cxx">
+      <Filter>StepSelect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepSelect\StepSelect_WorkLibrary.cxx">
+      <Filter>StepSelect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\UnitsMethods\UnitsMethods.cxx">
+      <Filter>UnitsMethods</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\XSAlgo\XSAlgo.cxx">
+      <Filter>XSAlgo</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\XSAlgo\XSAlgo_AlgoContainer.cxx">
+      <Filter>XSAlgo</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\XSAlgo\XSAlgo_ToolContainer.cxx">
+      <Filter>XSAlgo</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\MoniTool\MoniTool_DataMapIteratorOfDataMapOfShapeTransient_0.cxx">
+      <Filter>MoniTool</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\MoniTool\MoniTool_DataMapIteratorOfDataMapOfTimer_0.cxx">
+      <Filter>MoniTool</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\MoniTool\MoniTool_DataMapNodeOfDataMapOfShapeTransient_0.cxx">
+      <Filter>MoniTool</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\MoniTool\MoniTool_DataMapNodeOfDataMapOfTimer_0.cxx">
+      <Filter>MoniTool</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\MoniTool\MoniTool_DataMapOfShapeTransient_0.cxx">
+      <Filter>MoniTool</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\MoniTool\MoniTool_DataMapOfTimer_0.cxx">
+      <Filter>MoniTool</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\MoniTool\MoniTool_HSequenceOfElement_0.cxx">
+      <Filter>MoniTool</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\MoniTool\MoniTool_IndexedDataMapNodeOfIndexedDataMapOfShapeTransient_0.cxx">
+      <Filter>MoniTool</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\MoniTool\MoniTool_IndexedDataMapOfShapeTransient_0.cxx">
+      <Filter>MoniTool</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\MoniTool\MoniTool_SequenceNodeOfSequenceOfElement_0.cxx">
+      <Filter>MoniTool</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\MoniTool\MoniTool_SequenceOfElement_0.cxx">
+      <Filter>MoniTool</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MoniTool\MoniTool_AttrList.cxx">
+      <Filter>MoniTool</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MoniTool\MoniTool_CaseData.cxx">
+      <Filter>MoniTool</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MoniTool\MoniTool_DataInfo.cxx">
+      <Filter>MoniTool</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MoniTool\MoniTool_ElemHasher.cxx">
+      <Filter>MoniTool</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MoniTool\MoniTool_Element.cxx">
+      <Filter>MoniTool</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MoniTool\MoniTool_IntVal.cxx">
+      <Filter>MoniTool</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MoniTool\MoniTool_MTHasher.cxx">
+      <Filter>MoniTool</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MoniTool\MoniTool_OptValue.cxx">
+      <Filter>MoniTool</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MoniTool\MoniTool_Option.cxx">
+      <Filter>MoniTool</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MoniTool\MoniTool_Profile.cxx">
+      <Filter>MoniTool</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MoniTool\MoniTool_RealVal.cxx">
+      <Filter>MoniTool</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MoniTool\MoniTool_SignShape.cxx">
+      <Filter>MoniTool</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MoniTool\MoniTool_SignText.cxx">
+      <Filter>MoniTool</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MoniTool\MoniTool_Stat.cxx">
+      <Filter>MoniTool</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MoniTool\MoniTool_Timer.cxx">
+      <Filter>MoniTool</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MoniTool\MoniTool_TimerSentry.cxx">
+      <Filter>MoniTool</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MoniTool\MoniTool_TransientElem.cxx">
+      <Filter>MoniTool</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MoniTool\MoniTool_TypedValue.cxx">
+      <Filter>MoniTool</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="E:\code\c\oce\adm\cmake\TKXSBase\Precompiled.h">
+      <Filter>Precompiled</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\code\c\oce\adm\cmake\TKXSBase\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="E:\code\c\oce\build\Version.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="APIHeaderSection">
+      <UniqueIdentifier>{DE0D0D6E-0CE0-39AE-81F2-F5251FF0D837}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="HeaderSection">
+      <UniqueIdentifier>{83E74DF8-628B-3D25-85E1-C9CF44D26FD3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="IFGraph">
+      <UniqueIdentifier>{37A0E84C-3DCD-3DAD-8C48-6E0CE9495F96}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="IFSelect">
+      <UniqueIdentifier>{274520D1-A999-37A1-902D-A3B711F1FCD2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Interface">
+      <UniqueIdentifier>{878FDB00-69CA-3E19-B970-8739709F84EB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MoniTool">
+      <UniqueIdentifier>{CDC27741-9CC8-3482-943C-2904711C92A4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Precompiled">
+      <UniqueIdentifier>{9798687B-1064-3C74-84F3-7C7EA6AC7B09}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="RWHeaderSection">
+      <UniqueIdentifier>{FF437012-17B1-3CAE-9795-FA9D6BBB7F68}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{89761968-2B46-3580-8630-22C285107311}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="StepData">
+      <UniqueIdentifier>{BF0967F0-12ED-3DBD-A561-C2FB4862786D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="StepFile">
+      <UniqueIdentifier>{6F8F2598-CFCA-3F54-A0CA-79548C1E2024}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="StepSelect">
+      <UniqueIdentifier>{D5EFB739-E70A-34A5-A9AD-49D517512AD1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Transfer">
+      <UniqueIdentifier>{25EFF181-FE5F-37F3-BF94-5BA755A00464}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="TransferBRep">
+      <UniqueIdentifier>{0C3F1417-0326-306B-AAD6-FDF1258CC96B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UnitsMethods">
+      <UniqueIdentifier>{7123363D-96C4-39BE-A63D-45423ABABD99}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="XSAlgo">
+      <UniqueIdentifier>{EE304F36-3C2B-3ECA-868D-E1F1F66B17F1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="XSControl">
+      <UniqueIdentifier>{01D42021-443D-3728-AE9E-A1290D6D42CE}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,248 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\code\c\oce\adm\cmake\TKG2d\Precompiled.cpp">
+      <Filter>Precompiled</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Geom2d\Geom2d_UndefinedDerivative_0.cxx">
+      <Filter>Geom2d</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Geom2d\Geom2d_UndefinedValue_0.cxx">
+      <Filter>Geom2d</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Geom2d\Geom2d_AxisPlacement.cxx">
+      <Filter>Geom2d</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Geom2d\Geom2d_BSplineCurve.cxx">
+      <Filter>Geom2d</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Geom2d\Geom2d_BSplineCurve_1.cxx">
+      <Filter>Geom2d</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Geom2d\Geom2d_BezierCurve.cxx">
+      <Filter>Geom2d</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Geom2d\Geom2d_BoundedCurve.cxx">
+      <Filter>Geom2d</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Geom2d\Geom2d_CartesianPoint.cxx">
+      <Filter>Geom2d</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Geom2d\Geom2d_Circle.cxx">
+      <Filter>Geom2d</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Geom2d\Geom2d_Conic.cxx">
+      <Filter>Geom2d</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Geom2d\Geom2d_Curve.cxx">
+      <Filter>Geom2d</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Geom2d\Geom2d_Direction.cxx">
+      <Filter>Geom2d</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Geom2d\Geom2d_Ellipse.cxx">
+      <Filter>Geom2d</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Geom2d\Geom2d_Geometry.cxx">
+      <Filter>Geom2d</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Geom2d\Geom2d_Hyperbola.cxx">
+      <Filter>Geom2d</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Geom2d\Geom2d_Line.cxx">
+      <Filter>Geom2d</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Geom2d\Geom2d_OffsetCurve.cxx">
+      <Filter>Geom2d</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Geom2d\Geom2d_Parabola.cxx">
+      <Filter>Geom2d</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Geom2d\Geom2d_Point.cxx">
+      <Filter>Geom2d</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Geom2d\Geom2d_Transformation.cxx">
+      <Filter>Geom2d</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Geom2d\Geom2d_TrimmedCurve.cxx">
+      <Filter>Geom2d</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Geom2d\Geom2d_Vector.cxx">
+      <Filter>Geom2d</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Geom2d\Geom2d_VectorWithMagnitude.cxx">
+      <Filter>Geom2d</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\LProp\LProp_BadContinuity_0.cxx">
+      <Filter>LProp</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\LProp\LProp_NotDefined_0.cxx">
+      <Filter>LProp</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\LProp\LProp_SequenceNodeOfSequenceOfCIType_0.cxx">
+      <Filter>LProp</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\LProp\LProp_SequenceOfCIType_0.cxx">
+      <Filter>LProp</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\LProp\LProp_AnalyticCurInf.cxx">
+      <Filter>LProp</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\LProp\LProp_CurAndInf.cxx">
+      <Filter>LProp</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColGeom2d\TColGeom2d_Array1OfBSplineCurve_0.cxx">
+      <Filter>TColGeom2d</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColGeom2d\TColGeom2d_Array1OfBezierCurve_0.cxx">
+      <Filter>TColGeom2d</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColGeom2d\TColGeom2d_Array1OfCurve_0.cxx">
+      <Filter>TColGeom2d</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColGeom2d\TColGeom2d_HArray1OfBSplineCurve_0.cxx">
+      <Filter>TColGeom2d</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColGeom2d\TColGeom2d_HArray1OfBezierCurve_0.cxx">
+      <Filter>TColGeom2d</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColGeom2d\TColGeom2d_HArray1OfCurve_0.cxx">
+      <Filter>TColGeom2d</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColGeom2d\TColGeom2d_HSequenceOfBoundedCurve_0.cxx">
+      <Filter>TColGeom2d</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColGeom2d\TColGeom2d_HSequenceOfCurve_0.cxx">
+      <Filter>TColGeom2d</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColGeom2d\TColGeom2d_SequenceNodeOfSequenceOfBoundedCurve_0.cxx">
+      <Filter>TColGeom2d</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColGeom2d\TColGeom2d_SequenceNodeOfSequenceOfCurve_0.cxx">
+      <Filter>TColGeom2d</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColGeom2d\TColGeom2d_SequenceNodeOfSequenceOfGeometry_0.cxx">
+      <Filter>TColGeom2d</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColGeom2d\TColGeom2d_SequenceOfBoundedCurve_0.cxx">
+      <Filter>TColGeom2d</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColGeom2d\TColGeom2d_SequenceOfCurve_0.cxx">
+      <Filter>TColGeom2d</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColGeom2d\TColGeom2d_SequenceOfGeometry_0.cxx">
+      <Filter>TColGeom2d</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Adaptor2d\Adaptor2d_HLine2d_0.cxx">
+      <Filter>Adaptor2d</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Adaptor2d\Adaptor2d_Curve2d.cxx">
+      <Filter>Adaptor2d</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Adaptor2d\Adaptor2d_HCurve2d.cxx">
+      <Filter>Adaptor2d</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Adaptor2d\Adaptor2d_Line2d.cxx">
+      <Filter>Adaptor2d</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Geom2dLProp\Geom2dLProp_CLProps2d_0.cxx">
+      <Filter>Geom2dLProp</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Geom2dLProp\Geom2dLProp_CurAndInf2d.cxx">
+      <Filter>Geom2dLProp</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Geom2dLProp\Geom2dLProp_Curve2dTool.cxx">
+      <Filter>Geom2dLProp</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Geom2dLProp\Geom2dLProp_FuncCurExt.cxx">
+      <Filter>Geom2dLProp</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Geom2dLProp\Geom2dLProp_FuncCurNul.cxx">
+      <Filter>Geom2dLProp</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Geom2dLProp\Geom2dLProp_NumericCurInf2d.cxx">
+      <Filter>Geom2dLProp</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Geom2dAdaptor\Geom2dAdaptor_GHCurve_0.cxx">
+      <Filter>Geom2dAdaptor</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Geom2dAdaptor\Geom2dAdaptor.cxx">
+      <Filter>Geom2dAdaptor</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Geom2dAdaptor\Geom2dAdaptor_Curve.cxx">
+      <Filter>Geom2dAdaptor</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Geom2dAdaptor\Geom2dAdaptor_HCurve.cxx">
+      <Filter>Geom2dAdaptor</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\GProp\GProp_UndefinedAxis_0.cxx">
+      <Filter>GProp</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\GProp\GProp.cxx">
+      <Filter>GProp</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\GProp\GProp_CelGProps.cxx">
+      <Filter>GProp</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\GProp\GProp_GProps.cxx">
+      <Filter>GProp</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\GProp\GProp_PEquation.cxx">
+      <Filter>GProp</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\GProp\GProp_PGProps.cxx">
+      <Filter>GProp</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\GProp\GProp_PrincipalProps.cxx">
+      <Filter>GProp</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\GProp\GProp_SelGProps.cxx">
+      <Filter>GProp</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\GProp\GProp_VelGProps.cxx">
+      <Filter>GProp</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="E:\code\c\oce\adm\cmake\TKG2d\Precompiled.h">
+      <Filter>Precompiled</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\code\c\oce\adm\cmake\TKG2d\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="E:\code\c\oce\build\Version.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Adaptor2d">
+      <UniqueIdentifier>{6E6B2700-256F-3488-B092-0253AD2AB1EC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GProp">
+      <UniqueIdentifier>{E3CC1C72-5E13-33EB-850F-06448B2640B9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Geom2d">
+      <UniqueIdentifier>{2A5668A8-1CE5-31AD-A09F-D1855FDEBF34}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Geom2dAdaptor">
+      <UniqueIdentifier>{998AD3EA-CB9D-3E14-92DE-6CF598B8253E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Geom2dLProp">
+      <UniqueIdentifier>{C3B30C34-F302-3D26-B528-9202CCA884DB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="LProp">
+      <UniqueIdentifier>{A574C266-FD1D-3CDB-958B-469F62444BE3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Precompiled">
+      <UniqueIdentifier>{9798687B-1064-3C74-84F3-7C7EA6AC7B09}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{89761968-2B46-3580-8630-22C285107311}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="TColGeom2d">
+      <UniqueIdentifier>{4A30ACB6-1077-3A34-9A06-6ED66E8483C9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

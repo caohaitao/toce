@@ -1,0 +1,1241 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\code\c\oce\adm\cmake\TKernel\Precompiled.cpp">
+      <Filter>Precompiled</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\FSD\FSD_BinaryFile.cxx">
+      <Filter>FSD</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\FSD\FSD_CmpFile.cxx">
+      <Filter>FSD</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\FSD\FSD_File.cxx">
+      <Filter>FSD</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MMgt\MMgt_TShared.cxx">
+      <Filter>MMgt</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\OSD\OSD_Exception_0.cxx">
+      <Filter>OSD</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\OSD\OSD_Exception_ACCESS_VIOLATION_0.cxx">
+      <Filter>OSD</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\OSD\OSD_Exception_ARRAY_BOUNDS_EXCEEDED_0.cxx">
+      <Filter>OSD</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\OSD\OSD_Exception_CTRL_BREAK_0.cxx">
+      <Filter>OSD</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\OSD\OSD_Exception_FLT_DENORMAL_OPERAND_0.cxx">
+      <Filter>OSD</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\OSD\OSD_Exception_FLT_DIVIDE_BY_ZERO_0.cxx">
+      <Filter>OSD</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\OSD\OSD_Exception_FLT_INEXACT_RESULT_0.cxx">
+      <Filter>OSD</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\OSD\OSD_Exception_FLT_INVALID_OPERATION_0.cxx">
+      <Filter>OSD</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\OSD\OSD_Exception_FLT_OVERFLOW_0.cxx">
+      <Filter>OSD</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\OSD\OSD_Exception_FLT_STACK_CHECK_0.cxx">
+      <Filter>OSD</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\OSD\OSD_Exception_FLT_UNDERFLOW_0.cxx">
+      <Filter>OSD</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\OSD\OSD_Exception_ILLEGAL_INSTRUCTION_0.cxx">
+      <Filter>OSD</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\OSD\OSD_Exception_INT_DIVIDE_BY_ZERO_0.cxx">
+      <Filter>OSD</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\OSD\OSD_Exception_INT_OVERFLOW_0.cxx">
+      <Filter>OSD</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\OSD\OSD_Exception_INVALID_DISPOSITION_0.cxx">
+      <Filter>OSD</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\OSD\OSD_Exception_IN_PAGE_ERROR_0.cxx">
+      <Filter>OSD</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\OSD\OSD_Exception_NONCONTINUABLE_EXCEPTION_0.cxx">
+      <Filter>OSD</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\OSD\OSD_Exception_PRIV_INSTRUCTION_0.cxx">
+      <Filter>OSD</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\OSD\OSD_Exception_STACK_OVERFLOW_0.cxx">
+      <Filter>OSD</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\OSD\OSD_Exception_STATUS_NO_MEMORY_0.cxx">
+      <Filter>OSD</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\OSD\OSD_OSDError_0.cxx">
+      <Filter>OSD</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\OSD\OSD_SIGBUS_0.cxx">
+      <Filter>OSD</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\OSD\OSD_SIGHUP_0.cxx">
+      <Filter>OSD</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\OSD\OSD_SIGILL_0.cxx">
+      <Filter>OSD</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\OSD\OSD_SIGINT_0.cxx">
+      <Filter>OSD</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\OSD\OSD_SIGKILL_0.cxx">
+      <Filter>OSD</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\OSD\OSD_SIGQUIT_0.cxx">
+      <Filter>OSD</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\OSD\OSD_SIGSEGV_0.cxx">
+      <Filter>OSD</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\OSD\OSD_SIGSYS_0.cxx">
+      <Filter>OSD</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\OSD\OSD_Signal_0.cxx">
+      <Filter>OSD</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\OSD\OSD.cxx">
+      <Filter>OSD</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\OSD\OSD_Chronometer.cxx">
+      <Filter>OSD</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\OSD\OSD_Directory.cxx">
+      <Filter>OSD</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\OSD\OSD_DirectoryIterator.cxx">
+      <Filter>OSD</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\OSD\OSD_Disk.cxx">
+      <Filter>OSD</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\OSD\OSD_Environment.cxx">
+      <Filter>OSD</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\OSD\OSD_EnvironmentIterator.cxx">
+      <Filter>OSD</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\OSD\OSD_Error.cxx">
+      <Filter>OSD</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\OSD\OSD_File.cxx">
+      <Filter>OSD</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\OSD\OSD_FileIterator.cxx">
+      <Filter>OSD</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\OSD\OSD_FileNode.cxx">
+      <Filter>OSD</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\OSD\OSD_Host.cxx">
+      <Filter>OSD</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\OSD\OSD_MAllocHook.cxx">
+      <Filter>OSD</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\OSD\OSD_MemInfo.cxx">
+      <Filter>OSD</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\OSD\OSD_OpenFile.cxx">
+      <Filter>OSD</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\OSD\OSD_Parallel.cxx">
+      <Filter>OSD</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\OSD\OSD_Path.cxx">
+      <Filter>OSD</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\OSD\OSD_PerfMeter.cxx">
+      <Filter>OSD</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\OSD\OSD_Printer.cxx">
+      <Filter>OSD</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\OSD\OSD_Process.cxx">
+      <Filter>OSD</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\OSD\OSD_Protection.cxx">
+      <Filter>OSD</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\OSD\OSD_SharedLibrary.cxx">
+      <Filter>OSD</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\OSD\OSD_Thread.cxx">
+      <Filter>OSD</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\OSD\OSD_Timer.cxx">
+      <Filter>OSD</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\OSD\OSD_WNT.cxx">
+      <Filter>OSD</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\OSD\OSD_signal.cxx">
+      <Filter>OSD</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\OSD\OSD_signal_WNT.cxx">
+      <Filter>OSD</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Plugin\Plugin_DataMapIteratorOfMapOfFunctions_0.cxx">
+      <Filter>Plugin</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Plugin\Plugin_DataMapNodeOfMapOfFunctions_0.cxx">
+      <Filter>Plugin</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Plugin\Plugin_Failure_0.cxx">
+      <Filter>Plugin</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Plugin\Plugin_MapOfFunctions_0.cxx">
+      <Filter>Plugin</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Plugin\Plugin.cxx">
+      <Filter>Plugin</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Quantity\Quantity_Array1OfCoefficient_0.cxx">
+      <Filter>Quantity</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Quantity\Quantity_Array1OfColor_0.cxx">
+      <Filter>Quantity</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Quantity\Quantity_Array2OfColor_0.cxx">
+      <Filter>Quantity</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Quantity\Quantity_ColorDefinitionError_0.cxx">
+      <Filter>Quantity</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Quantity\Quantity_DateDefinitionError_0.cxx">
+      <Filter>Quantity</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Quantity\Quantity_HArray1OfColor_0.cxx">
+      <Filter>Quantity</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Quantity\Quantity_PeriodDefinitionError_0.cxx">
+      <Filter>Quantity</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Quantity\Quantity_Color.cxx">
+      <Filter>Quantity</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Quantity\Quantity_Convert.cxx">
+      <Filter>Quantity</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Quantity\Quantity_Date.cxx">
+      <Filter>Quantity</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Quantity\Quantity_Period.cxx">
+      <Filter>Quantity</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Resource\Resource_DataMapIteratorOfDataMapOfAsciiStringAsciiString_0.cxx">
+      <Filter>Resource</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Resource\Resource_DataMapIteratorOfDataMapOfAsciiStringExtendedString_0.cxx">
+      <Filter>Resource</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Resource\Resource_DataMapNodeOfDataMapOfAsciiStringAsciiString_0.cxx">
+      <Filter>Resource</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Resource\Resource_DataMapNodeOfDataMapOfAsciiStringExtendedString_0.cxx">
+      <Filter>Resource</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Resource\Resource_DataMapOfAsciiStringAsciiString_0.cxx">
+      <Filter>Resource</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Resource\Resource_DataMapOfAsciiStringExtendedString_0.cxx">
+      <Filter>Resource</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Resource\Resource_NoSuchResource_0.cxx">
+      <Filter>Resource</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Resource\Resource_QuickSortOfArray1_0.cxx">
+      <Filter>Resource</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Resource\Resource_ConvertUnicode.c">
+      <Filter>Resource</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Resource\Resource_LexicalCompare.cxx">
+      <Filter>Resource</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Resource\Resource_Manager.cxx">
+      <Filter>Resource</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Resource\Resource_Unicode.cxx">
+      <Filter>Resource</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\SortTools\SortTools_HeapSortOfInteger_0.cxx">
+      <Filter>SortTools</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\SortTools\SortTools_HeapSortOfReal_0.cxx">
+      <Filter>SortTools</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\SortTools\SortTools_QuickSortOfInteger_0.cxx">
+      <Filter>SortTools</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\SortTools\SortTools_QuickSortOfReal_0.cxx">
+      <Filter>SortTools</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\SortTools\SortTools_ShellSortOfInteger_0.cxx">
+      <Filter>SortTools</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\SortTools\SortTools_ShellSortOfReal_0.cxx">
+      <Filter>SortTools</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\SortTools\SortTools_StraightInsertionSortOfInteger_0.cxx">
+      <Filter>SortTools</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\SortTools\SortTools_StraightInsertionSortOfReal_0.cxx">
+      <Filter>SortTools</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Standard\Standard_AbortiveTransaction_0.cxx">
+      <Filter>Standard</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Standard\Standard_ConstructionError_0.cxx">
+      <Filter>Standard</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Standard\Standard_DimensionError_0.cxx">
+      <Filter>Standard</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Standard\Standard_DimensionMismatch_0.cxx">
+      <Filter>Standard</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Standard\Standard_DivideByZero_0.cxx">
+      <Filter>Standard</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Standard\Standard_DomainError_0.cxx">
+      <Filter>Standard</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Standard\Standard_ImmutableObject_0.cxx">
+      <Filter>Standard</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Standard\Standard_LicenseError_0.cxx">
+      <Filter>Standard</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Standard\Standard_LicenseNotFound_0.cxx">
+      <Filter>Standard</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Standard\Standard_MultiplyDefined_0.cxx">
+      <Filter>Standard</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Standard\Standard_NegativeValue_0.cxx">
+      <Filter>Standard</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Standard\Standard_NoMoreObject_0.cxx">
+      <Filter>Standard</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Standard\Standard_NoSuchObject_0.cxx">
+      <Filter>Standard</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Standard\Standard_NotImplemented_0.cxx">
+      <Filter>Standard</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Standard\Standard_NullObject_0.cxx">
+      <Filter>Standard</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Standard\Standard_NullValue_0.cxx">
+      <Filter>Standard</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Standard\Standard_NumericError_0.cxx">
+      <Filter>Standard</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Standard\Standard_OutOfMemory_0.cxx">
+      <Filter>Standard</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Standard\Standard_OutOfRange_0.cxx">
+      <Filter>Standard</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Standard\Standard_Overflow_0.cxx">
+      <Filter>Standard</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Standard\Standard_ProgramError_0.cxx">
+      <Filter>Standard</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Standard\Standard_RangeError_0.cxx">
+      <Filter>Standard</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Standard\Standard_TooManyUsers_0.cxx">
+      <Filter>Standard</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Standard\Standard_TypeMismatch_0.cxx">
+      <Filter>Standard</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Standard\Standard_Underflow_0.cxx">
+      <Filter>Standard</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Standard\Handle_Standard_Persistent.cxx">
+      <Filter>Standard</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Standard\Handle_Standard_Transient.cxx">
+      <Filter>Standard</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Standard\Standard.cxx">
+      <Filter>Standard</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Standard\Standard_AncestorIterator.cxx">
+      <Filter>Standard</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Standard\Standard_CLocaleSentry.cxx">
+      <Filter>Standard</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Standard\Standard_CString.cxx">
+      <Filter>Standard</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Standard\Standard_ErrorHandler.cxx">
+      <Filter>Standard</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Standard\Standard_ErrorHandlerCallback.cxx">
+      <Filter>Standard</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Standard\Standard_ExtString.cxx">
+      <Filter>Standard</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Standard\Standard_Failure.cxx">
+      <Filter>Standard</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Standard\Standard_GUID.cxx">
+      <Filter>Standard</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Standard\Standard_HashCode.cxx">
+      <Filter>Standard</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Standard\Standard_MMgrOpt.cxx">
+      <Filter>Standard</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Standard\Standard_MMgrRaw.cxx">
+      <Filter>Standard</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Standard\Standard_MMgrRoot.cxx">
+      <Filter>Standard</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Standard\Standard_MMgrTBBalloc.cxx">
+      <Filter>Standard</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Standard\Standard_Mutex.cxx">
+      <Filter>Standard</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Standard\Standard_Persistent.cxx">
+      <Filter>Standard</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Standard\Standard_Real.cxx">
+      <Filter>Standard</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Standard\Standard_SStream.cxx">
+      <Filter>Standard</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Standard\Standard_ShortReal.cxx">
+      <Filter>Standard</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Standard\Standard_Storable.cxx">
+      <Filter>Standard</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Standard\Standard_Transient.cxx">
+      <Filter>Standard</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Standard\Standard_Type.cxx">
+      <Filter>Standard</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Standard\Standard_UUID.cxx">
+      <Filter>Standard</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Standard\Standard_math.cxx">
+      <Filter>Standard</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StdFail\StdFail_InfiniteSolutions_0.cxx">
+      <Filter>StdFail</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StdFail\StdFail_NotDone_0.cxx">
+      <Filter>StdFail</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StdFail\StdFail_UndefinedDerivative_0.cxx">
+      <Filter>StdFail</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StdFail\StdFail_UndefinedValue_0.cxx">
+      <Filter>StdFail</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StdFail\StdFail_Undefined_0.cxx">
+      <Filter>StdFail</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Storage\Storage_ArrayOfCallBack_0.cxx">
+      <Filter>Storage</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Storage\Storage_ArrayOfSchema_0.cxx">
+      <Filter>Storage</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Storage\Storage_DataMapIteratorOfMapOfCallBack_0.cxx">
+      <Filter>Storage</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Storage\Storage_DataMapIteratorOfMapOfPers_0.cxx">
+      <Filter>Storage</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Storage\Storage_DataMapNodeOfMapOfCallBack_0.cxx">
+      <Filter>Storage</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Storage\Storage_DataMapNodeOfMapOfPers_0.cxx">
+      <Filter>Storage</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Storage\Storage_HArrayOfCallBack_0.cxx">
+      <Filter>Storage</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Storage\Storage_HArrayOfSchema_0.cxx">
+      <Filter>Storage</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Storage\Storage_HPArray_0.cxx">
+      <Filter>Storage</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Storage\Storage_HSeqOfRoot_0.cxx">
+      <Filter>Storage</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Storage\Storage_IndexedDataMapNodeOfPType_0.cxx">
+      <Filter>Storage</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Storage\Storage_MapOfCallBack_0.cxx">
+      <Filter>Storage</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Storage\Storage_MapOfPers_0.cxx">
+      <Filter>Storage</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Storage\Storage_PArray_0.cxx">
+      <Filter>Storage</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Storage\Storage_PType_0.cxx">
+      <Filter>Storage</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Storage\Storage_SeqOfRoot_0.cxx">
+      <Filter>Storage</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Storage\Storage_SequenceNodeOfSeqOfRoot_0.cxx">
+      <Filter>Storage</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Storage\Storage_StreamExtCharParityError_0.cxx">
+      <Filter>Storage</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Storage\Storage_StreamFormatError_0.cxx">
+      <Filter>Storage</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Storage\Storage_StreamModeError_0.cxx">
+      <Filter>Storage</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Storage\Storage_StreamReadError_0.cxx">
+      <Filter>Storage</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Storage\Storage_StreamTypeMismatchError_0.cxx">
+      <Filter>Storage</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Storage\Storage_StreamUnknownTypeError_0.cxx">
+      <Filter>Storage</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Storage\Storage_StreamWriteError_0.cxx">
+      <Filter>Storage</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Storage\Storage.cxx">
+      <Filter>Storage</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Storage\Storage_BaseDriver.cxx">
+      <Filter>Storage</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Storage\Storage_CallBack.cxx">
+      <Filter>Storage</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Storage\Storage_Data.cxx">
+      <Filter>Storage</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Storage\Storage_DefaultCallBack.cxx">
+      <Filter>Storage</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Storage\Storage_HeaderData.cxx">
+      <Filter>Storage</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Storage\Storage_InternalData.cxx">
+      <Filter>Storage</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Storage\Storage_Root.cxx">
+      <Filter>Storage</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Storage\Storage_RootData.cxx">
+      <Filter>Storage</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Storage\Storage_Schema.cxx">
+      <Filter>Storage</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Storage\Storage_TypeData.cxx">
+      <Filter>Storage</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Storage\Storage_TypedCallBack.cxx">
+      <Filter>Storage</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Storage\Storage_stCONSTclCOM.cxx">
+      <Filter>Storage</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColStd\TColStd_Array1OfAsciiString_0.cxx">
+      <Filter>TColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColStd\TColStd_Array1OfBoolean_0.cxx">
+      <Filter>TColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColStd\TColStd_Array1OfByte_0.cxx">
+      <Filter>TColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColStd\TColStd_Array1OfCharacter_0.cxx">
+      <Filter>TColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColStd\TColStd_Array1OfExtendedString_0.cxx">
+      <Filter>TColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColStd\TColStd_Array1OfInteger_0.cxx">
+      <Filter>TColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColStd\TColStd_Array1OfListOfInteger_0.cxx">
+      <Filter>TColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColStd\TColStd_Array1OfReal_0.cxx">
+      <Filter>TColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColStd\TColStd_Array1OfTransient_0.cxx">
+      <Filter>TColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColStd\TColStd_Array2OfBoolean_0.cxx">
+      <Filter>TColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColStd\TColStd_Array2OfCharacter_0.cxx">
+      <Filter>TColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColStd\TColStd_Array2OfInteger_0.cxx">
+      <Filter>TColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColStd\TColStd_Array2OfReal_0.cxx">
+      <Filter>TColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColStd\TColStd_Array2OfTransient_0.cxx">
+      <Filter>TColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColStd\TColStd_DataMapIteratorOfDataMapOfAsciiStringInteger_0.cxx">
+      <Filter>TColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColStd\TColStd_DataMapIteratorOfDataMapOfIntegerInteger_0.cxx">
+      <Filter>TColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColStd\TColStd_DataMapIteratorOfDataMapOfIntegerListOfInteger_0.cxx">
+      <Filter>TColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColStd\TColStd_DataMapIteratorOfDataMapOfIntegerReal_0.cxx">
+      <Filter>TColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColStd\TColStd_DataMapIteratorOfDataMapOfIntegerTransient_0.cxx">
+      <Filter>TColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColStd\TColStd_DataMapIteratorOfDataMapOfStringInteger_0.cxx">
+      <Filter>TColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColStd\TColStd_DataMapIteratorOfDataMapOfTransientTransient_0.cxx">
+      <Filter>TColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColStd\TColStd_DataMapNodeOfDataMapOfAsciiStringInteger_0.cxx">
+      <Filter>TColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColStd\TColStd_DataMapNodeOfDataMapOfIntegerInteger_0.cxx">
+      <Filter>TColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColStd\TColStd_DataMapNodeOfDataMapOfIntegerListOfInteger_0.cxx">
+      <Filter>TColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColStd\TColStd_DataMapNodeOfDataMapOfIntegerReal_0.cxx">
+      <Filter>TColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColStd\TColStd_DataMapNodeOfDataMapOfIntegerTransient_0.cxx">
+      <Filter>TColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColStd\TColStd_DataMapNodeOfDataMapOfStringInteger_0.cxx">
+      <Filter>TColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColStd\TColStd_DataMapNodeOfDataMapOfTransientTransient_0.cxx">
+      <Filter>TColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColStd\TColStd_DataMapOfAsciiStringInteger_0.cxx">
+      <Filter>TColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColStd\TColStd_DataMapOfIntegerInteger_0.cxx">
+      <Filter>TColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColStd\TColStd_DataMapOfIntegerListOfInteger_0.cxx">
+      <Filter>TColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColStd\TColStd_DataMapOfIntegerReal_0.cxx">
+      <Filter>TColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColStd\TColStd_DataMapOfIntegerTransient_0.cxx">
+      <Filter>TColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColStd\TColStd_DataMapOfStringInteger_0.cxx">
+      <Filter>TColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColStd\TColStd_DataMapOfTransientTransient_0.cxx">
+      <Filter>TColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColStd\TColStd_HArray1OfAsciiString_0.cxx">
+      <Filter>TColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColStd\TColStd_HArray1OfBoolean_0.cxx">
+      <Filter>TColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColStd\TColStd_HArray1OfByte_0.cxx">
+      <Filter>TColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColStd\TColStd_HArray1OfCharacter_0.cxx">
+      <Filter>TColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColStd\TColStd_HArray1OfExtendedString_0.cxx">
+      <Filter>TColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColStd\TColStd_HArray1OfInteger_0.cxx">
+      <Filter>TColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColStd\TColStd_HArray1OfListOfInteger_0.cxx">
+      <Filter>TColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColStd\TColStd_HArray1OfReal_0.cxx">
+      <Filter>TColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColStd\TColStd_HArray1OfTransient_0.cxx">
+      <Filter>TColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColStd\TColStd_HArray2OfBoolean_0.cxx">
+      <Filter>TColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColStd\TColStd_HArray2OfCharacter_0.cxx">
+      <Filter>TColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColStd\TColStd_HArray2OfInteger_0.cxx">
+      <Filter>TColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColStd\TColStd_HArray2OfReal_0.cxx">
+      <Filter>TColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColStd\TColStd_HArray2OfTransient_0.cxx">
+      <Filter>TColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColStd\TColStd_HSequenceOfAsciiString_0.cxx">
+      <Filter>TColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColStd\TColStd_HSequenceOfExtendedString_0.cxx">
+      <Filter>TColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColStd\TColStd_HSequenceOfHAsciiString_0.cxx">
+      <Filter>TColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColStd\TColStd_HSequenceOfHExtendedString_0.cxx">
+      <Filter>TColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColStd\TColStd_HSequenceOfInteger_0.cxx">
+      <Filter>TColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColStd\TColStd_HSequenceOfReal_0.cxx">
+      <Filter>TColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColStd\TColStd_HSequenceOfTransient_0.cxx">
+      <Filter>TColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColStd\TColStd_IndexedDataMapNodeOfIndexedDataMapOfTransientTransient_0.cxx">
+      <Filter>TColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColStd\TColStd_IndexedDataMapOfTransientTransient_0.cxx">
+      <Filter>TColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColStd\TColStd_IndexedMapNodeOfIndexedMapOfInteger_0.cxx">
+      <Filter>TColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColStd\TColStd_IndexedMapNodeOfIndexedMapOfReal_0.cxx">
+      <Filter>TColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColStd\TColStd_IndexedMapNodeOfIndexedMapOfTransient_0.cxx">
+      <Filter>TColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColStd\TColStd_IndexedMapOfInteger_0.cxx">
+      <Filter>TColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColStd\TColStd_IndexedMapOfReal_0.cxx">
+      <Filter>TColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColStd\TColStd_IndexedMapOfTransient_0.cxx">
+      <Filter>TColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColStd\TColStd_ListIteratorOfListOfAsciiString_0.cxx">
+      <Filter>TColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColStd\TColStd_ListIteratorOfListOfInteger_0.cxx">
+      <Filter>TColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColStd\TColStd_ListIteratorOfListOfReal_0.cxx">
+      <Filter>TColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColStd\TColStd_ListIteratorOfListOfTransient_0.cxx">
+      <Filter>TColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColStd\TColStd_ListNodeOfListOfAsciiString_0.cxx">
+      <Filter>TColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColStd\TColStd_ListNodeOfListOfInteger_0.cxx">
+      <Filter>TColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColStd\TColStd_ListNodeOfListOfReal_0.cxx">
+      <Filter>TColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColStd\TColStd_ListNodeOfListOfTransient_0.cxx">
+      <Filter>TColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColStd\TColStd_ListOfAsciiString_0.cxx">
+      <Filter>TColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColStd\TColStd_ListOfInteger_0.cxx">
+      <Filter>TColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColStd\TColStd_ListOfReal_0.cxx">
+      <Filter>TColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColStd\TColStd_ListOfTransient_0.cxx">
+      <Filter>TColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColStd\TColStd_MapIntegerHasher_0.cxx">
+      <Filter>TColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColStd\TColStd_MapIteratorOfMapOfAsciiString_0.cxx">
+      <Filter>TColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColStd\TColStd_MapIteratorOfMapOfInteger_0.cxx">
+      <Filter>TColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColStd\TColStd_MapIteratorOfMapOfReal_0.cxx">
+      <Filter>TColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColStd\TColStd_MapIteratorOfMapOfTransient_0.cxx">
+      <Filter>TColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColStd\TColStd_MapOfAsciiString_0.cxx">
+      <Filter>TColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColStd\TColStd_MapOfInteger_0.cxx">
+      <Filter>TColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColStd\TColStd_MapOfReal_0.cxx">
+      <Filter>TColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColStd\TColStd_MapOfTransient_0.cxx">
+      <Filter>TColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColStd\TColStd_MapRealHasher_0.cxx">
+      <Filter>TColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColStd\TColStd_MapTransientHasher_0.cxx">
+      <Filter>TColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColStd\TColStd_SequenceNodeOfSequenceOfAddress_0.cxx">
+      <Filter>TColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColStd\TColStd_SequenceNodeOfSequenceOfAsciiString_0.cxx">
+      <Filter>TColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColStd\TColStd_SequenceNodeOfSequenceOfBoolean_0.cxx">
+      <Filter>TColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColStd\TColStd_SequenceNodeOfSequenceOfExtendedString_0.cxx">
+      <Filter>TColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColStd\TColStd_SequenceNodeOfSequenceOfHAsciiString_0.cxx">
+      <Filter>TColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColStd\TColStd_SequenceNodeOfSequenceOfHExtendedString_0.cxx">
+      <Filter>TColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColStd\TColStd_SequenceNodeOfSequenceOfInteger_0.cxx">
+      <Filter>TColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColStd\TColStd_SequenceNodeOfSequenceOfReal_0.cxx">
+      <Filter>TColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColStd\TColStd_SequenceNodeOfSequenceOfTransient_0.cxx">
+      <Filter>TColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColStd\TColStd_SequenceOfAddress_0.cxx">
+      <Filter>TColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColStd\TColStd_SequenceOfAsciiString_0.cxx">
+      <Filter>TColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColStd\TColStd_SequenceOfBoolean_0.cxx">
+      <Filter>TColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColStd\TColStd_SequenceOfExtendedString_0.cxx">
+      <Filter>TColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColStd\TColStd_SequenceOfHAsciiString_0.cxx">
+      <Filter>TColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColStd\TColStd_SequenceOfHExtendedString_0.cxx">
+      <Filter>TColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColStd\TColStd_SequenceOfInteger_0.cxx">
+      <Filter>TColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColStd\TColStd_SequenceOfReal_0.cxx">
+      <Filter>TColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColStd\TColStd_SequenceOfTransient_0.cxx">
+      <Filter>TColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColStd\TColStd_StdMapNodeOfMapOfAsciiString_0.cxx">
+      <Filter>TColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColStd\TColStd_StdMapNodeOfMapOfInteger_0.cxx">
+      <Filter>TColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColStd\TColStd_StdMapNodeOfMapOfReal_0.cxx">
+      <Filter>TColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColStd\TColStd_StdMapNodeOfMapOfTransient_0.cxx">
+      <Filter>TColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TColStd\TColStd_HPackedMapOfInteger.cxx">
+      <Filter>TColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TColStd\TColStd_MapIteratorOfPackedMapOfInteger.cxx">
+      <Filter>TColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TColStd\TColStd_PackedMapOfInteger.cxx">
+      <Filter>TColStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TCollection\TCollection_PrivCompareOfInteger_0.cxx">
+      <Filter>TCollection</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TCollection\TCollection_PrivCompareOfReal_0.cxx">
+      <Filter>TCollection</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TCollection\TCollection.cxx">
+      <Filter>TCollection</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TCollection\TCollection_AsciiString.cxx">
+      <Filter>TCollection</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TCollection\TCollection_BaseSequence.cxx">
+      <Filter>TCollection</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TCollection\TCollection_BasicMap.cxx">
+      <Filter>TCollection</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TCollection\TCollection_BasicMapIterator.cxx">
+      <Filter>TCollection</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TCollection\TCollection_CompareOfInteger.cxx">
+      <Filter>TCollection</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TCollection\TCollection_CompareOfReal.cxx">
+      <Filter>TCollection</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TCollection\TCollection_ExtendedString.cxx">
+      <Filter>TCollection</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TCollection\TCollection_HAsciiString.cxx">
+      <Filter>TCollection</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TCollection\TCollection_HExtendedString.cxx">
+      <Filter>TCollection</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TCollection\TCollection_MapNode.cxx">
+      <Filter>TCollection</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TCollection\TCollection_SeqNode.cxx">
+      <Filter>TCollection</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TShort\TShort_Array1OfShortReal_0.cxx">
+      <Filter>TShort</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TShort\TShort_Array2OfShortReal_0.cxx">
+      <Filter>TShort</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TShort\TShort_HArray1OfShortReal_0.cxx">
+      <Filter>TShort</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TShort\TShort_HArray2OfShortReal_0.cxx">
+      <Filter>TShort</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TShort\TShort_HSequenceOfShortReal_0.cxx">
+      <Filter>TShort</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TShort\TShort_SequenceNodeOfSequenceOfShortReal_0.cxx">
+      <Filter>TShort</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TShort\TShort_SequenceOfShortReal_0.cxx">
+      <Filter>TShort</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Units\Units_NoSuchType_0.cxx">
+      <Filter>Units</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Units\Units_NoSuchUnit_0.cxx">
+      <Filter>Units</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Units\Units_QtsSequence_0.cxx">
+      <Filter>Units</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Units\Units_QuantitiesSequence_0.cxx">
+      <Filter>Units</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Units\Units_SequenceNodeOfQtsSequence_0.cxx">
+      <Filter>Units</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Units\Units_SequenceNodeOfTksSequence_0.cxx">
+      <Filter>Units</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Units\Units_SequenceNodeOfUtsSequence_0.cxx">
+      <Filter>Units</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Units\Units_TksSequence_0.cxx">
+      <Filter>Units</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Units\Units_TokensSequence_0.cxx">
+      <Filter>Units</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Units\Units_UnitsSequence_0.cxx">
+      <Filter>Units</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Units\Units_UtsSequence_0.cxx">
+      <Filter>Units</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Units\Units.cxx">
+      <Filter>Units</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Units\Units_Dimensions.cxx">
+      <Filter>Units</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Units\Units_Explorer.cxx">
+      <Filter>Units</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Units\Units_Lexicon.cxx">
+      <Filter>Units</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Units\Units_MathSentence.cxx">
+      <Filter>Units</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Units\Units_Measurement.cxx">
+      <Filter>Units</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Units\Units_Quantity.cxx">
+      <Filter>Units</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Units\Units_Sentence.cxx">
+      <Filter>Units</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Units\Units_ShiftedToken.cxx">
+      <Filter>Units</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Units\Units_ShiftedUnit.cxx">
+      <Filter>Units</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Units\Units_Token.cxx">
+      <Filter>Units</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Units\Units_Unit.cxx">
+      <Filter>Units</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Units\Units_UnitSentence.cxx">
+      <Filter>Units</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Units\Units_UnitsDictionary.cxx">
+      <Filter>Units</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Units\Units_UnitsLexicon.cxx">
+      <Filter>Units</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Units\Units_UnitsSystem.cxx">
+      <Filter>Units</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\UnitsAPI\UnitsAPI.cxx">
+      <Filter>UnitsAPI</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Dico\Dico_DictionaryOfInteger_0.cxx">
+      <Filter>Dico</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Dico\Dico_DictionaryOfTransient_0.cxx">
+      <Filter>Dico</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Dico\Dico_IteratorOfDictionaryOfInteger_0.cxx">
+      <Filter>Dico</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Dico\Dico_IteratorOfDictionaryOfTransient_0.cxx">
+      <Filter>Dico</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Dico\Dico_StackItemOfDictionaryOfInteger_0.cxx">
+      <Filter>Dico</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Dico\Dico_StackItemOfDictionaryOfTransient_0.cxx">
+      <Filter>Dico</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\NCollection\NCollection_AccAllocator.cxx">
+      <Filter>NCollection</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\NCollection\NCollection_AlignedAllocator.cxx">
+      <Filter>NCollection</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\NCollection\NCollection_BaseAllocator.cxx">
+      <Filter>NCollection</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\NCollection\NCollection_BaseList.cxx">
+      <Filter>NCollection</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\NCollection\NCollection_BaseMap.cxx">
+      <Filter>NCollection</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\NCollection\NCollection_BaseSequence.cxx">
+      <Filter>NCollection</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\NCollection\NCollection_BaseVector.cxx">
+      <Filter>NCollection</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\NCollection\NCollection_Handle.cxx">
+      <Filter>NCollection</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\NCollection\NCollection_HeapAllocator.cxx">
+      <Filter>NCollection</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\NCollection\NCollection_IncAllocator.cxx">
+      <Filter>NCollection</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\NCollection\NCollection_SparseArrayBase.cxx">
+      <Filter>NCollection</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\NCollection\NCollection_WinHeapAllocator.cxx">
+      <Filter>NCollection</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Message\Message_ListIteratorOfListOfMsg_0.cxx">
+      <Filter>Message</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Message\Message_ListNodeOfListOfMsg_0.cxx">
+      <Filter>Message</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Message\Message_ListOfMsg_0.cxx">
+      <Filter>Message</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Message\Message_SequenceNodeOfSequenceOfPrinters_0.cxx">
+      <Filter>Message</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Message\Message_SequenceNodeOfSequenceOfProgressScale_0.cxx">
+      <Filter>Message</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Message\Message_SequenceOfPrinters_0.cxx">
+      <Filter>Message</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Message\Message_SequenceOfProgressScale_0.cxx">
+      <Filter>Message</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Message\Message.cxx">
+      <Filter>Message</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Message\Message_Algorithm.cxx">
+      <Filter>Message</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Message\Message_Messenger.cxx">
+      <Filter>Message</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Message\Message_Msg.cxx">
+      <Filter>Message</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Message\Message_MsgFile.cxx">
+      <Filter>Message</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Message\Message_Printer.cxx">
+      <Filter>Message</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Message\Message_PrinterOStream.cxx">
+      <Filter>Message</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Message\Message_ProgressIndicator.cxx">
+      <Filter>Message</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Message\Message_ProgressScale.cxx">
+      <Filter>Message</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Message\Message_ProgressSentry.cxx">
+      <Filter>Message</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="E:\code\c\oce\adm\cmake\TKernel\Precompiled.h">
+      <Filter>Precompiled</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\code\c\oce\adm\cmake\TKernel\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="E:\code\c\oce\build\Version.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Dico">
+      <UniqueIdentifier>{B12E4E20-827D-3EA2-8F4D-A0CA16CBF931}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="FSD">
+      <UniqueIdentifier>{D32C2AE4-3DA7-34B1-A725-FC47956BC6A1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MMgt">
+      <UniqueIdentifier>{CC7FD771-0A22-317A-9FDB-F2606E8B668C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Message">
+      <UniqueIdentifier>{5D40AD87-BB87-3367-B205-064CFC6FE05D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="NCollection">
+      <UniqueIdentifier>{D2B83C50-A9B8-314A-AFD0-9539D5B509C2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="OSD">
+      <UniqueIdentifier>{3ABAD4FD-C93E-39FB-AA81-636B88C06EEA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugin">
+      <UniqueIdentifier>{7D62B817-F001-3160-8D6C-B9D12A3D0DAB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Precompiled">
+      <UniqueIdentifier>{9798687B-1064-3C74-84F3-7C7EA6AC7B09}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Quantity">
+      <UniqueIdentifier>{A42A1450-24E0-3168-9538-CEA20AB2F71E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource">
+      <UniqueIdentifier>{8C2D5075-4705-3D62-8BCB-94C722A154CB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SortTools">
+      <UniqueIdentifier>{1C8D289C-DB14-3C8A-86A3-9F24CE6E29B5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{89761968-2B46-3580-8630-22C285107311}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Standard">
+      <UniqueIdentifier>{BD9DBDEF-C367-32F5-9ED1-CF41FD1FEF22}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="StdFail">
+      <UniqueIdentifier>{2B4E04D0-7CB2-3C90-8F48-DA4772968092}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Storage">
+      <UniqueIdentifier>{CDFEA5AA-854B-3D37-8296-A0384D4DC335}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="TColStd">
+      <UniqueIdentifier>{BE0D965C-7CFD-39E2-AC7E-FF12DA8ED00F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="TCollection">
+      <UniqueIdentifier>{94774DF6-0D65-3CCD-ACC7-E18685B6F9D3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="TShort">
+      <UniqueIdentifier>{C83B0AED-EB57-3426-9743-7DC879D133AC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Units">
+      <UniqueIdentifier>{62FC6465-596E-336A-8DAB-2475C6E5E64A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UnitsAPI">
+      <UniqueIdentifier>{4704C486-851F-39B3-A0E1-FE29CB031490}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

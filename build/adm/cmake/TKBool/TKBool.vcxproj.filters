@@ -1,0 +1,1235 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\code\c\oce\adm\cmake\TKBool\Precompiled.cpp">
+      <Filter>Precompiled</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TopOpeBRep\TopOpeBRep_Array1OfLineInter_0.cxx">
+      <Filter>TopOpeBRep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TopOpeBRep\TopOpeBRep_Array1OfVPointInter_0.cxx">
+      <Filter>TopOpeBRep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TopOpeBRep\TopOpeBRep_DataMapIteratorOfDataMapOfTopolTool_0.cxx">
+      <Filter>TopOpeBRep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TopOpeBRep\TopOpeBRep_DataMapNodeOfDataMapOfTopolTool_0.cxx">
+      <Filter>TopOpeBRep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TopOpeBRep\TopOpeBRep_DataMapOfTopolTool_0.cxx">
+      <Filter>TopOpeBRep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TopOpeBRep\TopOpeBRep_HArray1OfLineInter_0.cxx">
+      <Filter>TopOpeBRep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TopOpeBRep\TopOpeBRep_HArray1OfVPointInter_0.cxx">
+      <Filter>TopOpeBRep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TopOpeBRep\TopOpeBRep_ListIteratorOfListOfBipoint_0.cxx">
+      <Filter>TopOpeBRep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TopOpeBRep\TopOpeBRep_ListNodeOfListOfBipoint_0.cxx">
+      <Filter>TopOpeBRep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TopOpeBRep\TopOpeBRep_ListOfBipoint_0.cxx">
+      <Filter>TopOpeBRep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TopOpeBRep\TopOpeBRep_SequenceNodeOfSequenceOfPoint2d_0.cxx">
+      <Filter>TopOpeBRep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TopOpeBRep\TopOpeBRep_SequenceOfPoint2d_0.cxx">
+      <Filter>TopOpeBRep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRep\TopOpeBRep.cxx">
+      <Filter>TopOpeBRep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRep\TopOpeBRep_Bipoint.cxx">
+      <Filter>TopOpeBRep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRep\TopOpeBRep_DRAW.cxx">
+      <Filter>TopOpeBRep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRep\TopOpeBRep_DSFiller.cxx">
+      <Filter>TopOpeBRep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRep\TopOpeBRep_EdgesFiller.cxx">
+      <Filter>TopOpeBRep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRep\TopOpeBRep_EdgesIntersector.cxx">
+      <Filter>TopOpeBRep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRep\TopOpeBRep_EdgesIntersector_1.cxx">
+      <Filter>TopOpeBRep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRep\TopOpeBRep_FFDumper.cxx">
+      <Filter>TopOpeBRep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRep\TopOpeBRep_FFTransitionTool.cxx">
+      <Filter>TopOpeBRep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRep\TopOpeBRep_FaceEdgeFiller.cxx">
+      <Filter>TopOpeBRep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRep\TopOpeBRep_FaceEdgeFiller_DEB.cxx">
+      <Filter>TopOpeBRep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRep\TopOpeBRep_FaceEdgeIntersector.cxx">
+      <Filter>TopOpeBRep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRep\TopOpeBRep_FacesFiller.cxx">
+      <Filter>TopOpeBRep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRep\TopOpeBRep_FacesFiller_1.cxx">
+      <Filter>TopOpeBRep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRep\TopOpeBRep_FacesFiller_VPonR.cxx">
+      <Filter>TopOpeBRep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRep\TopOpeBRep_FacesIntersector.cxx">
+      <Filter>TopOpeBRep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRep\TopOpeBRep_GeomTool.cxx">
+      <Filter>TopOpeBRep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRep\TopOpeBRep_Hctxee2d.cxx">
+      <Filter>TopOpeBRep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRep\TopOpeBRep_Hctxff2d.cxx">
+      <Filter>TopOpeBRep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRep\TopOpeBRep_LineInter.cxx">
+      <Filter>TopOpeBRep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRep\TopOpeBRep_Point2d.cxx">
+      <Filter>TopOpeBRep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRep\TopOpeBRep_PointClassifier.cxx">
+      <Filter>TopOpeBRep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRep\TopOpeBRep_PointGeomTool.cxx">
+      <Filter>TopOpeBRep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRep\TopOpeBRep_ProcessGR.cxx">
+      <Filter>TopOpeBRep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRep\TopOpeBRep_ProcessSectionEdges.cxx">
+      <Filter>TopOpeBRep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRep\TopOpeBRep_ShapeIntersector.cxx">
+      <Filter>TopOpeBRep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRep\TopOpeBRep_ShapeIntersector2d.cxx">
+      <Filter>TopOpeBRep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRep\TopOpeBRep_ShapeScanner.cxx">
+      <Filter>TopOpeBRep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRep\TopOpeBRep_VPointInter.cxx">
+      <Filter>TopOpeBRep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRep\TopOpeBRep_VPointInterClassifier.cxx">
+      <Filter>TopOpeBRep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRep\TopOpeBRep_VPointInterIterator.cxx">
+      <Filter>TopOpeBRep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRep\TopOpeBRep_WPointInter.cxx">
+      <Filter>TopOpeBRep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRep\TopOpeBRep_WPointInterIterator.cxx">
+      <Filter>TopOpeBRep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRep\TopOpeBRep_kpart.cxx">
+      <Filter>TopOpeBRep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRep\TopOpeBRep_mergePDS.cxx">
+      <Filter>TopOpeBRep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRep\TopOpeBRep_sort.cxx">
+      <Filter>TopOpeBRep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRep\TopOpeBRep_trace.cxx">
+      <Filter>TopOpeBRep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRep\TopOpeBRep_traceALWL.cxx">
+      <Filter>TopOpeBRep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRep\TopOpeBRep_traceBOOPNINT.cxx">
+      <Filter>TopOpeBRep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRep\TopOpeBRep_traceSIFF.cxx">
+      <Filter>TopOpeBRep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRep\TopOpeBRep_vpr.cxx">
+      <Filter>TopOpeBRep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRep\TopOpeBRep_vprclo.cxx">
+      <Filter>TopOpeBRep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRep\TopOpeBRep_vprdeg.cxx">
+      <Filter>TopOpeBRep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TopOpeBRepDS\TopOpeBRepDS_Array1OfDataMapOfIntegerListOfInterference_0.cxx">
+      <Filter>TopOpeBRepDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TopOpeBRepDS\TopOpeBRepDS_DataMapIteratorOfDataMapOfCheckStatus_0.cxx">
+      <Filter>TopOpeBRepDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TopOpeBRepDS\TopOpeBRepDS_DataMapIteratorOfDataMapOfIntegerListOfInterference_0.cxx">
+      <Filter>TopOpeBRepDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TopOpeBRepDS\TopOpeBRepDS_DataMapIteratorOfDataMapOfInterferenceListOfInterference_0.cxx">
+      <Filter>TopOpeBRepDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TopOpeBRepDS\TopOpeBRepDS_DataMapIteratorOfDataMapOfInterferenceShape_0.cxx">
+      <Filter>TopOpeBRepDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TopOpeBRepDS\TopOpeBRepDS_DataMapIteratorOfDataMapOfShapeListOfShapeOn1State_0.cxx">
+      <Filter>TopOpeBRepDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TopOpeBRepDS\TopOpeBRepDS_DataMapIteratorOfDataMapOfShapeState_0.cxx">
+      <Filter>TopOpeBRepDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TopOpeBRepDS\TopOpeBRepDS_DataMapIteratorOfMapOfCurve_0.cxx">
+      <Filter>TopOpeBRepDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TopOpeBRepDS\TopOpeBRepDS_DataMapIteratorOfMapOfIntegerShapeData_0.cxx">
+      <Filter>TopOpeBRepDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TopOpeBRepDS\TopOpeBRepDS_DataMapIteratorOfMapOfPoint_0.cxx">
+      <Filter>TopOpeBRepDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TopOpeBRepDS\TopOpeBRepDS_DataMapIteratorOfMapOfSurface_0.cxx">
+      <Filter>TopOpeBRepDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TopOpeBRepDS\TopOpeBRepDS_DataMapIteratorOfShapeSurface_0.cxx">
+      <Filter>TopOpeBRepDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TopOpeBRepDS\TopOpeBRepDS_DataMapNodeOfDataMapOfCheckStatus_0.cxx">
+      <Filter>TopOpeBRepDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TopOpeBRepDS\TopOpeBRepDS_DataMapNodeOfDataMapOfIntegerListOfInterference_0.cxx">
+      <Filter>TopOpeBRepDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TopOpeBRepDS\TopOpeBRepDS_DataMapNodeOfDataMapOfInterferenceListOfInterference_0.cxx">
+      <Filter>TopOpeBRepDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TopOpeBRepDS\TopOpeBRepDS_DataMapNodeOfDataMapOfInterferenceShape_0.cxx">
+      <Filter>TopOpeBRepDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TopOpeBRepDS\TopOpeBRepDS_DataMapNodeOfDataMapOfShapeListOfShapeOn1State_0.cxx">
+      <Filter>TopOpeBRepDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TopOpeBRepDS\TopOpeBRepDS_DataMapNodeOfDataMapOfShapeState_0.cxx">
+      <Filter>TopOpeBRepDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TopOpeBRepDS\TopOpeBRepDS_DataMapNodeOfMapOfCurve_0.cxx">
+      <Filter>TopOpeBRepDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TopOpeBRepDS\TopOpeBRepDS_DataMapNodeOfMapOfIntegerShapeData_0.cxx">
+      <Filter>TopOpeBRepDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TopOpeBRepDS\TopOpeBRepDS_DataMapNodeOfMapOfPoint_0.cxx">
+      <Filter>TopOpeBRepDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TopOpeBRepDS\TopOpeBRepDS_DataMapNodeOfMapOfSurface_0.cxx">
+      <Filter>TopOpeBRepDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TopOpeBRepDS\TopOpeBRepDS_DataMapNodeOfShapeSurface_0.cxx">
+      <Filter>TopOpeBRepDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TopOpeBRepDS\TopOpeBRepDS_DataMapOfCheckStatus_0.cxx">
+      <Filter>TopOpeBRepDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TopOpeBRepDS\TopOpeBRepDS_DataMapOfIntegerListOfInterference_0.cxx">
+      <Filter>TopOpeBRepDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TopOpeBRepDS\TopOpeBRepDS_DataMapOfInterferenceListOfInterference_0.cxx">
+      <Filter>TopOpeBRepDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TopOpeBRepDS\TopOpeBRepDS_DataMapOfInterferenceShape_0.cxx">
+      <Filter>TopOpeBRepDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TopOpeBRepDS\TopOpeBRepDS_DataMapOfShapeListOfShapeOn1State_0.cxx">
+      <Filter>TopOpeBRepDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TopOpeBRepDS\TopOpeBRepDS_DataMapOfShapeState_0.cxx">
+      <Filter>TopOpeBRepDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TopOpeBRepDS\TopOpeBRepDS_DoubleMapIteratorOfDoubleMapOfIntegerShape_0.cxx">
+      <Filter>TopOpeBRepDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TopOpeBRepDS\TopOpeBRepDS_DoubleMapNodeOfDoubleMapOfIntegerShape_0.cxx">
+      <Filter>TopOpeBRepDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TopOpeBRepDS\TopOpeBRepDS_DoubleMapOfIntegerShape_0.cxx">
+      <Filter>TopOpeBRepDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TopOpeBRepDS\TopOpeBRepDS_HArray1OfDataMapOfIntegerListOfInterference_0.cxx">
+      <Filter>TopOpeBRepDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TopOpeBRepDS\TopOpeBRepDS_IndexedDataMapNodeOfIndexedDataMapOfShapeWithState_0.cxx">
+      <Filter>TopOpeBRepDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TopOpeBRepDS\TopOpeBRepDS_IndexedDataMapNodeOfIndexedDataMapOfVertexPoint_0.cxx">
+      <Filter>TopOpeBRepDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TopOpeBRepDS\TopOpeBRepDS_IndexedDataMapNodeOfMapOfShapeData_0.cxx">
+      <Filter>TopOpeBRepDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TopOpeBRepDS\TopOpeBRepDS_IndexedDataMapOfShapeWithState_0.cxx">
+      <Filter>TopOpeBRepDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TopOpeBRepDS\TopOpeBRepDS_IndexedDataMapOfVertexPoint_0.cxx">
+      <Filter>TopOpeBRepDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TopOpeBRepDS\TopOpeBRepDS_ListIteratorOfListOfInterference_0.cxx">
+      <Filter>TopOpeBRepDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TopOpeBRepDS\TopOpeBRepDS_ListNodeOfListOfInterference_0.cxx">
+      <Filter>TopOpeBRepDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TopOpeBRepDS\TopOpeBRepDS_ListOfInterference_0.cxx">
+      <Filter>TopOpeBRepDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TopOpeBRepDS\TopOpeBRepDS_MapOfCurve_0.cxx">
+      <Filter>TopOpeBRepDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TopOpeBRepDS\TopOpeBRepDS_MapOfIntegerShapeData_0.cxx">
+      <Filter>TopOpeBRepDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TopOpeBRepDS\TopOpeBRepDS_MapOfPoint_0.cxx">
+      <Filter>TopOpeBRepDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TopOpeBRepDS\TopOpeBRepDS_MapOfShapeData_0.cxx">
+      <Filter>TopOpeBRepDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TopOpeBRepDS\TopOpeBRepDS_MapOfSurface_0.cxx">
+      <Filter>TopOpeBRepDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TopOpeBRepDS\TopOpeBRepDS_ShapeSurface_0.cxx">
+      <Filter>TopOpeBRepDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepDS\TopOpeBRepDS.cxx">
+      <Filter>TopOpeBRepDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepDS\TopOpeBRepDS_Association.cxx">
+      <Filter>TopOpeBRepDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepDS\TopOpeBRepDS_BuildTool.cxx">
+      <Filter>TopOpeBRepDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepDS\TopOpeBRepDS_Check.cxx">
+      <Filter>TopOpeBRepDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepDS\TopOpeBRepDS_Curve.cxx">
+      <Filter>TopOpeBRepDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepDS\TopOpeBRepDS_CurveData.cxx">
+      <Filter>TopOpeBRepDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepDS\TopOpeBRepDS_CurveExplorer.cxx">
+      <Filter>TopOpeBRepDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepDS\TopOpeBRepDS_CurveIterator.cxx">
+      <Filter>TopOpeBRepDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepDS\TopOpeBRepDS_CurvePointInterference.cxx">
+      <Filter>TopOpeBRepDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepDS\TopOpeBRepDS_DRAW.cxx">
+      <Filter>TopOpeBRepDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepDS\TopOpeBRepDS_DSS.cxx">
+      <Filter>TopOpeBRepDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepDS\TopOpeBRepDS_DataStructure.cxx">
+      <Filter>TopOpeBRepDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepDS\TopOpeBRepDS_Dumper.cxx">
+      <Filter>TopOpeBRepDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepDS\TopOpeBRepDS_EIR.cxx">
+      <Filter>TopOpeBRepDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepDS\TopOpeBRepDS_EXPORT.cxx">
+      <Filter>TopOpeBRepDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepDS\TopOpeBRepDS_Edge3dInterferenceTool.cxx">
+      <Filter>TopOpeBRepDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepDS\TopOpeBRepDS_EdgeInterferenceTool.cxx">
+      <Filter>TopOpeBRepDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepDS\TopOpeBRepDS_EdgeVertexInterference.cxx">
+      <Filter>TopOpeBRepDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepDS\TopOpeBRepDS_Explorer.cxx">
+      <Filter>TopOpeBRepDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepDS\TopOpeBRepDS_FIR.cxx">
+      <Filter>TopOpeBRepDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepDS\TopOpeBRepDS_FaceEdgeInterference.cxx">
+      <Filter>TopOpeBRepDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepDS\TopOpeBRepDS_FaceInterferenceTool.cxx">
+      <Filter>TopOpeBRepDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepDS\TopOpeBRepDS_Filter.cxx">
+      <Filter>TopOpeBRepDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepDS\TopOpeBRepDS_FilterCurveInterferences.cxx">
+      <Filter>TopOpeBRepDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepDS\TopOpeBRepDS_FilterEdgeInterferences.cxx">
+      <Filter>TopOpeBRepDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepDS\TopOpeBRepDS_FilterFaceInterferences.cxx">
+      <Filter>TopOpeBRepDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepDS\TopOpeBRepDS_GapFiller.cxx">
+      <Filter>TopOpeBRepDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepDS\TopOpeBRepDS_GapTool.cxx">
+      <Filter>TopOpeBRepDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepDS\TopOpeBRepDS_GeometryData.cxx">
+      <Filter>TopOpeBRepDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepDS\TopOpeBRepDS_HDataStructure.cxx">
+      <Filter>TopOpeBRepDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepDS\TopOpeBRepDS_Interference.cxx">
+      <Filter>TopOpeBRepDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepDS\TopOpeBRepDS_InterferenceIterator.cxx">
+      <Filter>TopOpeBRepDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepDS\TopOpeBRepDS_InterferenceTool.cxx">
+      <Filter>TopOpeBRepDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepDS\TopOpeBRepDS_ListOfShapeOn1State.cxx">
+      <Filter>TopOpeBRepDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepDS\TopOpeBRepDS_Marker.cxx">
+      <Filter>TopOpeBRepDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepDS\TopOpeBRepDS_Point.cxx">
+      <Filter>TopOpeBRepDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepDS\TopOpeBRepDS_PointData.cxx">
+      <Filter>TopOpeBRepDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepDS\TopOpeBRepDS_PointExplorer.cxx">
+      <Filter>TopOpeBRepDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepDS\TopOpeBRepDS_PointIterator.cxx">
+      <Filter>TopOpeBRepDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepDS\TopOpeBRepDS_ProcessEdgeInterferences.cxx">
+      <Filter>TopOpeBRepDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepDS\TopOpeBRepDS_ProcessFaceInterferences.cxx">
+      <Filter>TopOpeBRepDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepDS\TopOpeBRepDS_ProcessInterferencesTool.cxx">
+      <Filter>TopOpeBRepDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepDS\TopOpeBRepDS_Reducer.cxx">
+      <Filter>TopOpeBRepDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepDS\TopOpeBRepDS_ShapeData.cxx">
+      <Filter>TopOpeBRepDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepDS\TopOpeBRepDS_ShapeShapeInterference.cxx">
+      <Filter>TopOpeBRepDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepDS\TopOpeBRepDS_ShapeWithState.cxx">
+      <Filter>TopOpeBRepDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepDS\TopOpeBRepDS_SolidSurfaceInterference.cxx">
+      <Filter>TopOpeBRepDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepDS\TopOpeBRepDS_Surface.cxx">
+      <Filter>TopOpeBRepDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepDS\TopOpeBRepDS_SurfaceCurveInterference.cxx">
+      <Filter>TopOpeBRepDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepDS\TopOpeBRepDS_SurfaceData.cxx">
+      <Filter>TopOpeBRepDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepDS\TopOpeBRepDS_SurfaceExplorer.cxx">
+      <Filter>TopOpeBRepDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepDS\TopOpeBRepDS_SurfaceIterator.cxx">
+      <Filter>TopOpeBRepDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepDS\TopOpeBRepDS_TKI.cxx">
+      <Filter>TopOpeBRepDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepDS\TopOpeBRepDS_TOOL.cxx">
+      <Filter>TopOpeBRepDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepDS\TopOpeBRepDS_Transition.cxx">
+      <Filter>TopOpeBRepDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepDS\TopOpeBRepDS_connex.cxx">
+      <Filter>TopOpeBRepDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepDS\TopOpeBRepDS_funk.cxx">
+      <Filter>TopOpeBRepDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepDS\TopOpeBRepDS_reDEB.cxx">
+      <Filter>TopOpeBRepDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepDS\TopOpeBRepDS_redu.cxx">
+      <Filter>TopOpeBRepDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepDS\TopOpeBRepDS_repvg.cxx">
+      <Filter>TopOpeBRepDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepDS\TopOpeBRepDS_samdom.cxx">
+      <Filter>TopOpeBRepDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepDS\TopOpeBRepDS_trace.cxx">
+      <Filter>TopOpeBRepDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepDS\TopOpeBRepDS_traceDSX.cxx">
+      <Filter>TopOpeBRepDS</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TopOpeBRepBuild\TopOpeBRepBuild_DataMapIteratorOfDataMapOfShapeListOfShapeListOfShape_0.cxx">
+      <Filter>TopOpeBRepBuild</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TopOpeBRepBuild\TopOpeBRepBuild_DataMapNodeOfDataMapOfShapeListOfShapeListOfShape_0.cxx">
+      <Filter>TopOpeBRepBuild</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TopOpeBRepBuild\TopOpeBRepBuild_DataMapOfShapeListOfShapeListOfShape_0.cxx">
+      <Filter>TopOpeBRepBuild</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TopOpeBRepBuild\TopOpeBRepBuild_IndexedDataMapNodeOfIndexedDataMapOfShapeVertexInfo_0.cxx">
+      <Filter>TopOpeBRepBuild</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TopOpeBRepBuild\TopOpeBRepBuild_IndexedDataMapOfShapeVertexInfo_0.cxx">
+      <Filter>TopOpeBRepBuild</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TopOpeBRepBuild\TopOpeBRepBuild_ListIteratorOfListOfListOfLoop_0.cxx">
+      <Filter>TopOpeBRepBuild</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TopOpeBRepBuild\TopOpeBRepBuild_ListIteratorOfListOfLoop_0.cxx">
+      <Filter>TopOpeBRepBuild</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TopOpeBRepBuild\TopOpeBRepBuild_ListIteratorOfListOfPave_0.cxx">
+      <Filter>TopOpeBRepBuild</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TopOpeBRepBuild\TopOpeBRepBuild_ListIteratorOfListOfShapeListOfShape_0.cxx">
+      <Filter>TopOpeBRepBuild</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TopOpeBRepBuild\TopOpeBRepBuild_ListNodeOfListOfListOfLoop_0.cxx">
+      <Filter>TopOpeBRepBuild</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TopOpeBRepBuild\TopOpeBRepBuild_ListNodeOfListOfLoop_0.cxx">
+      <Filter>TopOpeBRepBuild</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TopOpeBRepBuild\TopOpeBRepBuild_ListNodeOfListOfPave_0.cxx">
+      <Filter>TopOpeBRepBuild</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TopOpeBRepBuild\TopOpeBRepBuild_ListNodeOfListOfShapeListOfShape_0.cxx">
+      <Filter>TopOpeBRepBuild</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TopOpeBRepBuild\TopOpeBRepBuild_ListOfListOfLoop_0.cxx">
+      <Filter>TopOpeBRepBuild</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TopOpeBRepBuild\TopOpeBRepBuild_ListOfLoop_0.cxx">
+      <Filter>TopOpeBRepBuild</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TopOpeBRepBuild\TopOpeBRepBuild_ListOfPave_0.cxx">
+      <Filter>TopOpeBRepBuild</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TopOpeBRepBuild\TopOpeBRepBuild_ListOfShapeListOfShape_0.cxx">
+      <Filter>TopOpeBRepBuild</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepBuild\TopOpeBRepBuild.cxx">
+      <Filter>TopOpeBRepBuild</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepBuild\TopOpeBRepBuild_Area1dBuilder.cxx">
+      <Filter>TopOpeBRepBuild</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepBuild\TopOpeBRepBuild_Area2dBuilder.cxx">
+      <Filter>TopOpeBRepBuild</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepBuild\TopOpeBRepBuild_Area3dBuilder.cxx">
+      <Filter>TopOpeBRepBuild</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepBuild\TopOpeBRepBuild_AreaBuilder.cxx">
+      <Filter>TopOpeBRepBuild</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepBuild\TopOpeBRepBuild_BlockBuilder.cxx">
+      <Filter>TopOpeBRepBuild</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepBuild\TopOpeBRepBuild_BlockIterator.cxx">
+      <Filter>TopOpeBRepBuild</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepBuild\TopOpeBRepBuild_BuildEdges.cxx">
+      <Filter>TopOpeBRepBuild</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepBuild\TopOpeBRepBuild_BuildFaces.cxx">
+      <Filter>TopOpeBRepBuild</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepBuild\TopOpeBRepBuild_BuildVertices.cxx">
+      <Filter>TopOpeBRepBuild</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepBuild\TopOpeBRepBuild_Builder.cxx">
+      <Filter>TopOpeBRepBuild</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepBuild\TopOpeBRepBuild_Builder1.cxx">
+      <Filter>TopOpeBRepBuild</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepBuild\TopOpeBRepBuild_Builder1_1.cxx">
+      <Filter>TopOpeBRepBuild</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepBuild\TopOpeBRepBuild_Builder1_2.cxx">
+      <Filter>TopOpeBRepBuild</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepBuild\TopOpeBRepBuild_BuilderON.cxx">
+      <Filter>TopOpeBRepBuild</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepBuild\TopOpeBRepBuild_BuilderON2d.cxx">
+      <Filter>TopOpeBRepBuild</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepBuild\TopOpeBRepBuild_CompositeClassifier.cxx">
+      <Filter>TopOpeBRepBuild</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepBuild\TopOpeBRepBuild_CorrectFace2d.cxx">
+      <Filter>TopOpeBRepBuild</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepBuild\TopOpeBRepBuild_EdgeBuilder.cxx">
+      <Filter>TopOpeBRepBuild</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepBuild\TopOpeBRepBuild_End.cxx">
+      <Filter>TopOpeBRepBuild</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepBuild\TopOpeBRepBuild_FREGU.cxx">
+      <Filter>TopOpeBRepBuild</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepBuild\TopOpeBRepBuild_FaceAreaBuilder.cxx">
+      <Filter>TopOpeBRepBuild</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepBuild\TopOpeBRepBuild_FaceBuilder.cxx">
+      <Filter>TopOpeBRepBuild</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepBuild\TopOpeBRepBuild_FuseFace.cxx">
+      <Filter>TopOpeBRepBuild</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepBuild\TopOpeBRepBuild_GIter.cxx">
+      <Filter>TopOpeBRepBuild</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepBuild\TopOpeBRepBuild_GTool.cxx">
+      <Filter>TopOpeBRepBuild</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepBuild\TopOpeBRepBuild_GTopo.cxx">
+      <Filter>TopOpeBRepBuild</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepBuild\TopOpeBRepBuild_Grid.cxx">
+      <Filter>TopOpeBRepBuild</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepBuild\TopOpeBRepBuild_GridEE.cxx">
+      <Filter>TopOpeBRepBuild</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepBuild\TopOpeBRepBuild_GridFF.cxx">
+      <Filter>TopOpeBRepBuild</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepBuild\TopOpeBRepBuild_GridSS.cxx">
+      <Filter>TopOpeBRepBuild</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepBuild\TopOpeBRepBuild_Griddump.cxx">
+      <Filter>TopOpeBRepBuild</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepBuild\TopOpeBRepBuild_HBuilder.cxx">
+      <Filter>TopOpeBRepBuild</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepBuild\TopOpeBRepBuild_KPart.cxx">
+      <Filter>TopOpeBRepBuild</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepBuild\TopOpeBRepBuild_Loop.cxx">
+      <Filter>TopOpeBRepBuild</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepBuild\TopOpeBRepBuild_LoopClassifier.cxx">
+      <Filter>TopOpeBRepBuild</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepBuild\TopOpeBRepBuild_LoopSet.cxx">
+      <Filter>TopOpeBRepBuild</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepBuild\TopOpeBRepBuild_Merge.cxx">
+      <Filter>TopOpeBRepBuild</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepBuild\TopOpeBRepBuild_Pave.cxx">
+      <Filter>TopOpeBRepBuild</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepBuild\TopOpeBRepBuild_PaveClassifier.cxx">
+      <Filter>TopOpeBRepBuild</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepBuild\TopOpeBRepBuild_PaveSet.cxx">
+      <Filter>TopOpeBRepBuild</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepBuild\TopOpeBRepBuild_SREGU.cxx">
+      <Filter>TopOpeBRepBuild</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepBuild\TopOpeBRepBuild_Section.cxx">
+      <Filter>TopOpeBRepBuild</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepBuild\TopOpeBRepBuild_ShapeListOfShape.cxx">
+      <Filter>TopOpeBRepBuild</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepBuild\TopOpeBRepBuild_ShapeSet.cxx">
+      <Filter>TopOpeBRepBuild</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepBuild\TopOpeBRepBuild_ShellFaceClassifier.cxx">
+      <Filter>TopOpeBRepBuild</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepBuild\TopOpeBRepBuild_ShellFaceSet.cxx">
+      <Filter>TopOpeBRepBuild</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepBuild\TopOpeBRepBuild_ShellToSolid.cxx">
+      <Filter>TopOpeBRepBuild</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepBuild\TopOpeBRepBuild_SolidAreaBuilder.cxx">
+      <Filter>TopOpeBRepBuild</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepBuild\TopOpeBRepBuild_SolidBuilder.cxx">
+      <Filter>TopOpeBRepBuild</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepBuild\TopOpeBRepBuild_Tools.cxx">
+      <Filter>TopOpeBRepBuild</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepBuild\TopOpeBRepBuild_Tools2d.cxx">
+      <Filter>TopOpeBRepBuild</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepBuild\TopOpeBRepBuild_Tools_1.cxx">
+      <Filter>TopOpeBRepBuild</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepBuild\TopOpeBRepBuild_VertexInfo.cxx">
+      <Filter>TopOpeBRepBuild</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepBuild\TopOpeBRepBuild_WireEdgeClassifier.cxx">
+      <Filter>TopOpeBRepBuild</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepBuild\TopOpeBRepBuild_WireEdgeSet.cxx">
+      <Filter>TopOpeBRepBuild</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepBuild\TopOpeBRepBuild_WireToFace.cxx">
+      <Filter>TopOpeBRepBuild</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepBuild\TopOpeBRepBuild_fctwes.cxx">
+      <Filter>TopOpeBRepBuild</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepBuild\TopOpeBRepBuild_ffsfs.cxx">
+      <Filter>TopOpeBRepBuild</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepBuild\TopOpeBRepBuild_ffwesk.cxx">
+      <Filter>TopOpeBRepBuild</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepBuild\TopOpeBRepBuild_keep.cxx">
+      <Filter>TopOpeBRepBuild</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepBuild\TopOpeBRepBuild_kpkole.cxx">
+      <Filter>TopOpeBRepBuild</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepBuild\TopOpeBRepBuild_makeedges.cxx">
+      <Filter>TopOpeBRepBuild</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepBuild\TopOpeBRepBuild_makefaces.cxx">
+      <Filter>TopOpeBRepBuild</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepBuild\TopOpeBRepBuild_makesolids.cxx">
+      <Filter>TopOpeBRepBuild</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepBuild\TopOpeBRepBuild_on.cxx">
+      <Filter>TopOpeBRepBuild</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepBuild\TopOpeBRepBuild_trace.cxx">
+      <Filter>TopOpeBRepBuild</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TopOpeBRepTool\TopOpeBRepTool_DataMapIteratorOfDataMapOfOrientedShapeC2DF_0.cxx">
+      <Filter>TopOpeBRepTool</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TopOpeBRepTool\TopOpeBRepTool_DataMapIteratorOfDataMapOfShapeListOfC2DF_0.cxx">
+      <Filter>TopOpeBRepTool</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TopOpeBRepTool\TopOpeBRepTool_DataMapIteratorOfDataMapOfShapeface_0.cxx">
+      <Filter>TopOpeBRepTool</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TopOpeBRepTool\TopOpeBRepTool_DataMapNodeOfDataMapOfOrientedShapeC2DF_0.cxx">
+      <Filter>TopOpeBRepTool</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TopOpeBRepTool\TopOpeBRepTool_DataMapNodeOfDataMapOfShapeListOfC2DF_0.cxx">
+      <Filter>TopOpeBRepTool</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TopOpeBRepTool\TopOpeBRepTool_DataMapNodeOfDataMapOfShapeface_0.cxx">
+      <Filter>TopOpeBRepTool</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TopOpeBRepTool\TopOpeBRepTool_DataMapOfOrientedShapeC2DF_0.cxx">
+      <Filter>TopOpeBRepTool</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TopOpeBRepTool\TopOpeBRepTool_DataMapOfShapeListOfC2DF_0.cxx">
+      <Filter>TopOpeBRepTool</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TopOpeBRepTool\TopOpeBRepTool_DataMapOfShapeface_0.cxx">
+      <Filter>TopOpeBRepTool</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TopOpeBRepTool\TopOpeBRepTool_IndexedDataMapNodeOfIndexedDataMapOfShapeBox2d_0.cxx">
+      <Filter>TopOpeBRepTool</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TopOpeBRepTool\TopOpeBRepTool_IndexedDataMapNodeOfIndexedDataMapOfShapeBox_0.cxx">
+      <Filter>TopOpeBRepTool</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TopOpeBRepTool\TopOpeBRepTool_IndexedDataMapNodeOfIndexedDataMapOfShapeconnexity_0.cxx">
+      <Filter>TopOpeBRepTool</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TopOpeBRepTool\TopOpeBRepTool_IndexedDataMapNodeOfIndexedDataMapOfSolidClassifier_0.cxx">
+      <Filter>TopOpeBRepTool</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TopOpeBRepTool\TopOpeBRepTool_IndexedDataMapOfShapeBox2d_0.cxx">
+      <Filter>TopOpeBRepTool</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TopOpeBRepTool\TopOpeBRepTool_IndexedDataMapOfShapeBox_0.cxx">
+      <Filter>TopOpeBRepTool</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TopOpeBRepTool\TopOpeBRepTool_IndexedDataMapOfShapeconnexity_0.cxx">
+      <Filter>TopOpeBRepTool</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TopOpeBRepTool\TopOpeBRepTool_IndexedDataMapOfSolidClassifier_0.cxx">
+      <Filter>TopOpeBRepTool</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TopOpeBRepTool\TopOpeBRepTool_ListIteratorOfListOfC2DF_0.cxx">
+      <Filter>TopOpeBRepTool</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TopOpeBRepTool\TopOpeBRepTool_ListNodeOfListOfC2DF_0.cxx">
+      <Filter>TopOpeBRepTool</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TopOpeBRepTool\TopOpeBRepTool_ListOfC2DF_0.cxx">
+      <Filter>TopOpeBRepTool</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepTool\TopOpeBRepTool.cxx">
+      <Filter>TopOpeBRepTool</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepTool\TopOpeBRepTool_2d.cxx">
+      <Filter>TopOpeBRepTool</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepTool\TopOpeBRepTool_AncestorsTool.cxx">
+      <Filter>TopOpeBRepTool</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepTool\TopOpeBRepTool_BoxSort.cxx">
+      <Filter>TopOpeBRepTool</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepTool\TopOpeBRepTool_C2DF.cxx">
+      <Filter>TopOpeBRepTool</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepTool\TopOpeBRepTool_CLASSI.cxx">
+      <Filter>TopOpeBRepTool</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepTool\TopOpeBRepTool_CORRISO.cxx">
+      <Filter>TopOpeBRepTool</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepTool\TopOpeBRepTool_CurveTool.cxx">
+      <Filter>TopOpeBRepTool</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepTool\TopOpeBRepTool_DRAW.cxx">
+      <Filter>TopOpeBRepTool</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepTool\TopOpeBRepTool_FuseEdges.cxx">
+      <Filter>TopOpeBRepTool</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepTool\TopOpeBRepTool_GEOMETRY.cxx">
+      <Filter>TopOpeBRepTool</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepTool\TopOpeBRepTool_GeomTool.cxx">
+      <Filter>TopOpeBRepTool</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepTool\TopOpeBRepTool_HBoxTool.cxx">
+      <Filter>TopOpeBRepTool</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepTool\TopOpeBRepTool_PROJECT.cxx">
+      <Filter>TopOpeBRepTool</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepTool\TopOpeBRepTool_PURGE.cxx">
+      <Filter>TopOpeBRepTool</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepTool\TopOpeBRepTool_PurgeInternalEdges.cxx">
+      <Filter>TopOpeBRepTool</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepTool\TopOpeBRepTool_REGUS.cxx">
+      <Filter>TopOpeBRepTool</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepTool\TopOpeBRepTool_REGUW.cxx">
+      <Filter>TopOpeBRepTool</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepTool\TopOpeBRepTool_RegularizeS.cxx">
+      <Filter>TopOpeBRepTool</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepTool\TopOpeBRepTool_RegularizeW.cxx">
+      <Filter>TopOpeBRepTool</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepTool\TopOpeBRepTool_SC.cxx">
+      <Filter>TopOpeBRepTool</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepTool\TopOpeBRepTool_STATE.cxx">
+      <Filter>TopOpeBRepTool</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepTool\TopOpeBRepTool_ShapeClassifier.cxx">
+      <Filter>TopOpeBRepTool</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepTool\TopOpeBRepTool_ShapeExplorer.cxx">
+      <Filter>TopOpeBRepTool</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepTool\TopOpeBRepTool_ShapeTool.cxx">
+      <Filter>TopOpeBRepTool</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepTool\TopOpeBRepTool_SolidClassifier.cxx">
+      <Filter>TopOpeBRepTool</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepTool\TopOpeBRepTool_TOOL.cxx">
+      <Filter>TopOpeBRepTool</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepTool\TopOpeBRepTool_TOPOLOGY.cxx">
+      <Filter>TopOpeBRepTool</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepTool\TopOpeBRepTool_box.cxx">
+      <Filter>TopOpeBRepTool</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepTool\TopOpeBRepTool_closing.cxx">
+      <Filter>TopOpeBRepTool</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepTool\TopOpeBRepTool_connexity.cxx">
+      <Filter>TopOpeBRepTool</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepTool\TopOpeBRepTool_face.cxx">
+      <Filter>TopOpeBRepTool</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepTool\TopOpeBRepTool_faulty.cxx">
+      <Filter>TopOpeBRepTool</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepTool\TopOpeBRepTool_makeTransition.cxx">
+      <Filter>TopOpeBRepTool</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepTool\TopOpeBRepTool_matter.cxx">
+      <Filter>TopOpeBRepTool</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepTool\TopOpeBRepTool_mkTondgE.cxx">
+      <Filter>TopOpeBRepTool</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepTool\TopOpeBRepTool_tol.cxx">
+      <Filter>TopOpeBRepTool</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepTool\TopOpeBRepTool_trace.cxx">
+      <Filter>TopOpeBRepTool</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TopOpeBRepTool\TopOpeBRepTool_traceSTATE.cxx">
+      <Filter>TopOpeBRepTool</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\BRepAlgo\BRepAlgo_DataMapIteratorOfDataMapOfShapeBoolean_0.cxx">
+      <Filter>BRepAlgo</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\BRepAlgo\BRepAlgo_DataMapIteratorOfDataMapOfShapeInterference_0.cxx">
+      <Filter>BRepAlgo</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\BRepAlgo\BRepAlgo_DataMapNodeOfDataMapOfShapeBoolean_0.cxx">
+      <Filter>BRepAlgo</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\BRepAlgo\BRepAlgo_DataMapNodeOfDataMapOfShapeInterference_0.cxx">
+      <Filter>BRepAlgo</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\BRepAlgo\BRepAlgo_DataMapOfShapeBoolean_0.cxx">
+      <Filter>BRepAlgo</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\BRepAlgo\BRepAlgo_DataMapOfShapeInterference_0.cxx">
+      <Filter>BRepAlgo</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\BRepAlgo\BRepAlgo_SequenceNodeOfSequenceOfSequenceOfInteger_0.cxx">
+      <Filter>BRepAlgo</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\BRepAlgo\BRepAlgo_SequenceOfSequenceOfInteger_0.cxx">
+      <Filter>BRepAlgo</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BRepAlgo\BRepAlgo.cxx">
+      <Filter>BRepAlgo</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BRepAlgo\BRepAlgo_1.cxx">
+      <Filter>BRepAlgo</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BRepAlgo\BRepAlgo_AsDes.cxx">
+      <Filter>BRepAlgo</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BRepAlgo\BRepAlgo_BooleanOperation.cxx">
+      <Filter>BRepAlgo</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BRepAlgo\BRepAlgo_BooleanOperations.cxx">
+      <Filter>BRepAlgo</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BRepAlgo\BRepAlgo_Common.cxx">
+      <Filter>BRepAlgo</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BRepAlgo\BRepAlgo_Cut.cxx">
+      <Filter>BRepAlgo</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BRepAlgo\BRepAlgo_DSAccess.cxx">
+      <Filter>BRepAlgo</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BRepAlgo\BRepAlgo_EdgeConnector.cxx">
+      <Filter>BRepAlgo</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BRepAlgo\BRepAlgo_FaceRestrictor.cxx">
+      <Filter>BRepAlgo</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BRepAlgo\BRepAlgo_Fuse.cxx">
+      <Filter>BRepAlgo</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BRepAlgo\BRepAlgo_Image.cxx">
+      <Filter>BRepAlgo</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BRepAlgo\BRepAlgo_Loop.cxx">
+      <Filter>BRepAlgo</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BRepAlgo\BRepAlgo_NormalProjection.cxx">
+      <Filter>BRepAlgo</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BRepAlgo\BRepAlgo_Section.cxx">
+      <Filter>BRepAlgo</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BRepAlgo\BRepAlgo_Tool.cxx">
+      <Filter>BRepAlgo</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\BRepFill\BRepFill_ComputeCLine_0.cxx">
+      <Filter>BRepFill</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\BRepFill\BRepFill_DataMapIteratorOfDataMapOfNodeDataMapOfShapeShape_0.cxx">
+      <Filter>BRepFill</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\BRepFill\BRepFill_DataMapIteratorOfDataMapOfNodeShape_0.cxx">
+      <Filter>BRepFill</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\BRepFill\BRepFill_DataMapIteratorOfDataMapOfOrientedShapeListOfShape_0.cxx">
+      <Filter>BRepFill</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\BRepFill\BRepFill_DataMapIteratorOfDataMapOfShapeDataMapOfShapeListOfShape_0.cxx">
+      <Filter>BRepFill</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\BRepFill\BRepFill_DataMapIteratorOfDataMapOfShapeHArray2OfShape_0.cxx">
+      <Filter>BRepFill</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\BRepFill\BRepFill_DataMapIteratorOfDataMapOfShapeSequenceOfPnt_0.cxx">
+      <Filter>BRepFill</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\BRepFill\BRepFill_DataMapIteratorOfDataMapOfShapeSequenceOfReal_0.cxx">
+      <Filter>BRepFill</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\BRepFill\BRepFill_DataMapNodeOfDataMapOfNodeDataMapOfShapeShape_0.cxx">
+      <Filter>BRepFill</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\BRepFill\BRepFill_DataMapNodeOfDataMapOfNodeShape_0.cxx">
+      <Filter>BRepFill</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\BRepFill\BRepFill_DataMapNodeOfDataMapOfOrientedShapeListOfShape_0.cxx">
+      <Filter>BRepFill</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\BRepFill\BRepFill_DataMapNodeOfDataMapOfShapeDataMapOfShapeListOfShape_0.cxx">
+      <Filter>BRepFill</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\BRepFill\BRepFill_DataMapNodeOfDataMapOfShapeHArray2OfShape_0.cxx">
+      <Filter>BRepFill</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\BRepFill\BRepFill_DataMapNodeOfDataMapOfShapeSequenceOfPnt_0.cxx">
+      <Filter>BRepFill</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\BRepFill\BRepFill_DataMapNodeOfDataMapOfShapeSequenceOfReal_0.cxx">
+      <Filter>BRepFill</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\BRepFill\BRepFill_DataMapOfNodeDataMapOfShapeShape_0.cxx">
+      <Filter>BRepFill</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\BRepFill\BRepFill_DataMapOfNodeShape_0.cxx">
+      <Filter>BRepFill</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\BRepFill\BRepFill_DataMapOfOrientedShapeListOfShape_0.cxx">
+      <Filter>BRepFill</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\BRepFill\BRepFill_DataMapOfShapeDataMapOfShapeListOfShape_0.cxx">
+      <Filter>BRepFill</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\BRepFill\BRepFill_DataMapOfShapeHArray2OfShape_0.cxx">
+      <Filter>BRepFill</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\BRepFill\BRepFill_DataMapOfShapeSequenceOfPnt_0.cxx">
+      <Filter>BRepFill</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\BRepFill\BRepFill_DataMapOfShapeSequenceOfReal_0.cxx">
+      <Filter>BRepFill</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\BRepFill\BRepFill_IndexedDataMapNodeOfIndexedDataMapOfOrientedShapeListOfShape_0.cxx">
+      <Filter>BRepFill</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\BRepFill\BRepFill_IndexedDataMapOfOrientedShapeListOfShape_0.cxx">
+      <Filter>BRepFill</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\BRepFill\BRepFill_ListIteratorOfListOfOffsetWire_0.cxx">
+      <Filter>BRepFill</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\BRepFill\BRepFill_ListNodeOfListOfOffsetWire_0.cxx">
+      <Filter>BRepFill</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\BRepFill\BRepFill_ListOfOffsetWire_0.cxx">
+      <Filter>BRepFill</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\BRepFill\BRepFill_SequenceNodeOfSequenceOfEdgeFaceAndOrder_0.cxx">
+      <Filter>BRepFill</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\BRepFill\BRepFill_SequenceNodeOfSequenceOfFaceAndOrder_0.cxx">
+      <Filter>BRepFill</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\BRepFill\BRepFill_SequenceNodeOfSequenceOfSection_0.cxx">
+      <Filter>BRepFill</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\BRepFill\BRepFill_SequenceOfEdgeFaceAndOrder_0.cxx">
+      <Filter>BRepFill</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\BRepFill\BRepFill_SequenceOfFaceAndOrder_0.cxx">
+      <Filter>BRepFill</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\BRepFill\BRepFill_SequenceOfSection_0.cxx">
+      <Filter>BRepFill</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BRepFill\BRepFill.cxx">
+      <Filter>BRepFill</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BRepFill\BRepFill_ACRLaw.cxx">
+      <Filter>BRepFill</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BRepFill\BRepFill_ApproxSeewing.cxx">
+      <Filter>BRepFill</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BRepFill\BRepFill_CompatibleWires.cxx">
+      <Filter>BRepFill</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BRepFill\BRepFill_CurveConstraint.cxx">
+      <Filter>BRepFill</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BRepFill\BRepFill_Draft.cxx">
+      <Filter>BRepFill</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BRepFill\BRepFill_DraftLaw.cxx">
+      <Filter>BRepFill</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BRepFill\BRepFill_Edge3DLaw.cxx">
+      <Filter>BRepFill</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BRepFill\BRepFill_EdgeFaceAndOrder.cxx">
+      <Filter>BRepFill</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BRepFill\BRepFill_EdgeOnSurfLaw.cxx">
+      <Filter>BRepFill</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BRepFill\BRepFill_Evolved.cxx">
+      <Filter>BRepFill</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BRepFill\BRepFill_FaceAndOrder.cxx">
+      <Filter>BRepFill</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BRepFill\BRepFill_Filling.cxx">
+      <Filter>BRepFill</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BRepFill\BRepFill_Generator.cxx">
+      <Filter>BRepFill</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BRepFill\BRepFill_LocationLaw.cxx">
+      <Filter>BRepFill</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BRepFill\BRepFill_MultiLine.cxx">
+      <Filter>BRepFill</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BRepFill\BRepFill_NSections.cxx">
+      <Filter>BRepFill</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BRepFill\BRepFill_OffsetAncestors.cxx">
+      <Filter>BRepFill</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BRepFill\BRepFill_OffsetWire.cxx">
+      <Filter>BRepFill</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BRepFill\BRepFill_Pipe.cxx">
+      <Filter>BRepFill</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BRepFill\BRepFill_PipeShell.cxx">
+      <Filter>BRepFill</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BRepFill\BRepFill_Section.cxx">
+      <Filter>BRepFill</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BRepFill\BRepFill_SectionLaw.cxx">
+      <Filter>BRepFill</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BRepFill\BRepFill_SectionPlacement.cxx">
+      <Filter>BRepFill</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BRepFill\BRepFill_ShapeLaw.cxx">
+      <Filter>BRepFill</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BRepFill\BRepFill_Sweep.cxx">
+      <Filter>BRepFill</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BRepFill\BRepFill_TrimEdgeTool.cxx">
+      <Filter>BRepFill</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BRepFill\BRepFill_TrimShellCorner.cxx">
+      <Filter>BRepFill</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BRepFill\BRepFill_TrimSurfaceTool.cxx">
+      <Filter>BRepFill</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BRepProj\BRepProj_Projection.cxx">
+      <Filter>BRepProj</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="E:\code\c\oce\adm\cmake\TKBool\Precompiled.h">
+      <Filter>Precompiled</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\code\c\oce\adm\cmake\TKBool\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="E:\code\c\oce\build\Version.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="BRepAlgo">
+      <UniqueIdentifier>{49C3C82E-D97B-3954-92D7-E45D01B1AE7B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BRepFill">
+      <UniqueIdentifier>{E2C11D80-8E27-3816-BB9D-577A541B5269}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BRepProj">
+      <UniqueIdentifier>{5E9C9242-3555-3F60-9260-E9B69363BCCA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Precompiled">
+      <UniqueIdentifier>{9798687B-1064-3C74-84F3-7C7EA6AC7B09}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{89761968-2B46-3580-8630-22C285107311}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="TopOpeBRep">
+      <UniqueIdentifier>{E99CCA37-F6B4-3AAE-AA6B-B441D1E8440E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="TopOpeBRepBuild">
+      <UniqueIdentifier>{73980F44-AB18-39BA-AEA3-EAE665DC99B9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="TopOpeBRepDS">
+      <UniqueIdentifier>{72735347-F53D-3ED9-BEE9-BF2B83C9DBB0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="TopOpeBRepTool">
+      <UniqueIdentifier>{F5D55F4B-44DB-3360-AA00-CC35EBCE1282}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

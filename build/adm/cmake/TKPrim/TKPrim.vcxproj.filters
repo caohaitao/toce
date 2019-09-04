@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\code\c\oce\adm\cmake\TKPrim\Precompiled.cpp">
+      <Filter>Precompiled</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BRepPrim\BRepPrim_Builder.cxx">
+      <Filter>BRepPrim</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BRepPrim\BRepPrim_Cone.cxx">
+      <Filter>BRepPrim</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BRepPrim\BRepPrim_Cylinder.cxx">
+      <Filter>BRepPrim</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BRepPrim\BRepPrim_FaceBuilder.cxx">
+      <Filter>BRepPrim</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BRepPrim\BRepPrim_GWedge.cxx">
+      <Filter>BRepPrim</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BRepPrim\BRepPrim_OneAxis.cxx">
+      <Filter>BRepPrim</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BRepPrim\BRepPrim_Revolution.cxx">
+      <Filter>BRepPrim</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BRepPrim\BRepPrim_Sphere.cxx">
+      <Filter>BRepPrim</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BRepPrim\BRepPrim_Torus.cxx">
+      <Filter>BRepPrim</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BRepPrim\BRepPrim_Wedge.cxx">
+      <Filter>BRepPrim</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BRepSweep\BRepSweep_Builder.cxx">
+      <Filter>BRepSweep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BRepSweep\BRepSweep_Iterator.cxx">
+      <Filter>BRepSweep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BRepSweep\BRepSweep_NumLinearRegularSweep.cxx">
+      <Filter>BRepSweep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BRepSweep\BRepSweep_Prism.cxx">
+      <Filter>BRepSweep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BRepSweep\BRepSweep_Revol.cxx">
+      <Filter>BRepSweep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BRepSweep\BRepSweep_Rotation.cxx">
+      <Filter>BRepSweep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BRepSweep\BRepSweep_Tool.cxx">
+      <Filter>BRepSweep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BRepSweep\BRepSweep_Translation.cxx">
+      <Filter>BRepSweep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BRepSweep\BRepSweep_Trsf.cxx">
+      <Filter>BRepSweep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Sweep\Sweep_NumShape.cxx">
+      <Filter>Sweep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Sweep\Sweep_NumShapeIterator.cxx">
+      <Filter>Sweep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Sweep\Sweep_NumShapeTool.cxx">
+      <Filter>Sweep</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BRepPrimAPI\BRepPrimAPI_MakeBox.cxx">
+      <Filter>BRepPrimAPI</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BRepPrimAPI\BRepPrimAPI_MakeCone.cxx">
+      <Filter>BRepPrimAPI</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BRepPrimAPI\BRepPrimAPI_MakeCylinder.cxx">
+      <Filter>BRepPrimAPI</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BRepPrimAPI\BRepPrimAPI_MakeHalfSpace.cxx">
+      <Filter>BRepPrimAPI</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BRepPrimAPI\BRepPrimAPI_MakeOneAxis.cxx">
+      <Filter>BRepPrimAPI</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BRepPrimAPI\BRepPrimAPI_MakePrism.cxx">
+      <Filter>BRepPrimAPI</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BRepPrimAPI\BRepPrimAPI_MakeRevol.cxx">
+      <Filter>BRepPrimAPI</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BRepPrimAPI\BRepPrimAPI_MakeRevolution.cxx">
+      <Filter>BRepPrimAPI</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BRepPrimAPI\BRepPrimAPI_MakeSphere.cxx">
+      <Filter>BRepPrimAPI</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BRepPrimAPI\BRepPrimAPI_MakeSweep.cxx">
+      <Filter>BRepPrimAPI</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BRepPrimAPI\BRepPrimAPI_MakeTorus.cxx">
+      <Filter>BRepPrimAPI</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\BRepPrimAPI\BRepPrimAPI_MakeWedge.cxx">
+      <Filter>BRepPrimAPI</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="E:\code\c\oce\adm\cmake\TKPrim\Precompiled.h">
+      <Filter>Precompiled</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\code\c\oce\adm\cmake\TKPrim\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="E:\code\c\oce\build\Version.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="BRepPrim">
+      <UniqueIdentifier>{7705FD6D-0773-33C6-B497-A19343E2B4B2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BRepPrimAPI">
+      <UniqueIdentifier>{79CDEAFD-7A02-3EA9-8039-AD89B74CE1E5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BRepSweep">
+      <UniqueIdentifier>{F5E15D72-02E0-326E-A5EB-5DB535EB9A20}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Precompiled">
+      <UniqueIdentifier>{9798687B-1064-3C74-84F3-7C7EA6AC7B09}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{89761968-2B46-3580-8630-22C285107311}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Sweep">
+      <UniqueIdentifier>{AF413958-4D35-3B23-A533-F0885A38AFC2}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,533 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\code\c\oce\adm\cmake\TKPLCAF\Precompiled.cpp">
+      <Filter>Precompiled</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PDF\PDF_FieldOfHAttributeArray1_0.cxx">
+      <Filter>PDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PDF\PDF_HAttributeArray1_0.cxx">
+      <Filter>PDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PDF\PDF_VArrayNodeOfFieldOfHAttributeArray1_0.cxx">
+      <Filter>PDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PDF\PDF_VArrayTNodeOfFieldOfHAttributeArray1_0.cxx">
+      <Filter>PDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PDF\PDF_Attribute.cxx">
+      <Filter>PDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PDF\PDF_Data.cxx">
+      <Filter>PDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PDF\PDF_Reference.cxx">
+      <Filter>PDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PDF\PDF_TagSource.cxx">
+      <Filter>PDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PDataStd\PDataStd_FieldOfHArray1OfByte_0.cxx">
+      <Filter>PDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PDataStd\PDataStd_FieldOfHArray1OfHArray1OfInteger_0.cxx">
+      <Filter>PDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PDataStd\PDataStd_FieldOfHArray1OfHArray1OfReal_0.cxx">
+      <Filter>PDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PDataStd\PDataStd_FieldOfHArray1OfHAsciiString_0.cxx">
+      <Filter>PDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PDataStd\PDataStd_HArray1OfByte_0.cxx">
+      <Filter>PDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PDataStd\PDataStd_HArray1OfHArray1OfInteger_0.cxx">
+      <Filter>PDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PDataStd\PDataStd_HArray1OfHArray1OfReal_0.cxx">
+      <Filter>PDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PDataStd\PDataStd_HArray1OfHAsciiString_0.cxx">
+      <Filter>PDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PDataStd\PDataStd_VArrayNodeOfFieldOfHArray1OfByte_0.cxx">
+      <Filter>PDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PDataStd\PDataStd_VArrayNodeOfFieldOfHArray1OfHArray1OfInteger_0.cxx">
+      <Filter>PDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PDataStd\PDataStd_VArrayNodeOfFieldOfHArray1OfHArray1OfReal_0.cxx">
+      <Filter>PDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PDataStd\PDataStd_VArrayNodeOfFieldOfHArray1OfHAsciiString_0.cxx">
+      <Filter>PDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PDataStd\PDataStd_VArrayTNodeOfFieldOfHArray1OfByte_0.cxx">
+      <Filter>PDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PDataStd\PDataStd_VArrayTNodeOfFieldOfHArray1OfHArray1OfInteger_0.cxx">
+      <Filter>PDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PDataStd\PDataStd_VArrayTNodeOfFieldOfHArray1OfHArray1OfReal_0.cxx">
+      <Filter>PDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\PDataStd\PDataStd_VArrayTNodeOfFieldOfHArray1OfHAsciiString_0.cxx">
+      <Filter>PDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PDataStd\PDataStd_AsciiString.cxx">
+      <Filter>PDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PDataStd\PDataStd_BooleanArray.cxx">
+      <Filter>PDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PDataStd\PDataStd_BooleanList.cxx">
+      <Filter>PDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PDataStd\PDataStd_ByteArray.cxx">
+      <Filter>PDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PDataStd\PDataStd_ByteArray_1.cxx">
+      <Filter>PDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PDataStd\PDataStd_Comment.cxx">
+      <Filter>PDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PDataStd\PDataStd_Directory.cxx">
+      <Filter>PDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PDataStd\PDataStd_Expression.cxx">
+      <Filter>PDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PDataStd\PDataStd_ExtStringArray.cxx">
+      <Filter>PDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PDataStd\PDataStd_ExtStringArray_1.cxx">
+      <Filter>PDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PDataStd\PDataStd_ExtStringList.cxx">
+      <Filter>PDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PDataStd\PDataStd_IntPackedMap.cxx">
+      <Filter>PDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PDataStd\PDataStd_IntPackedMap_1.cxx">
+      <Filter>PDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PDataStd\PDataStd_Integer.cxx">
+      <Filter>PDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PDataStd\PDataStd_IntegerArray.cxx">
+      <Filter>PDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PDataStd\PDataStd_IntegerArray_1.cxx">
+      <Filter>PDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PDataStd\PDataStd_IntegerList.cxx">
+      <Filter>PDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PDataStd\PDataStd_Name.cxx">
+      <Filter>PDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PDataStd\PDataStd_NamedData.cxx">
+      <Filter>PDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PDataStd\PDataStd_NoteBook.cxx">
+      <Filter>PDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PDataStd\PDataStd_Real.cxx">
+      <Filter>PDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PDataStd\PDataStd_RealArray.cxx">
+      <Filter>PDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PDataStd\PDataStd_RealArray_1.cxx">
+      <Filter>PDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PDataStd\PDataStd_RealList.cxx">
+      <Filter>PDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PDataStd\PDataStd_ReferenceArray.cxx">
+      <Filter>PDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PDataStd\PDataStd_ReferenceList.cxx">
+      <Filter>PDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PDataStd\PDataStd_Relation.cxx">
+      <Filter>PDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PDataStd\PDataStd_Tick.cxx">
+      <Filter>PDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PDataStd\PDataStd_TreeNode.cxx">
+      <Filter>PDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PDataStd\PDataStd_UAttribute.cxx">
+      <Filter>PDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PDataStd\PDataStd_Variable.cxx">
+      <Filter>PDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PFunction\PFunction_Function.cxx">
+      <Filter>PFunction</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PDocStd\PDocStd_Document.cxx">
+      <Filter>PDocStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PDocStd\PDocStd_XLink.cxx">
+      <Filter>PDocStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\MDF\MDF_ARDriverHSequence_0.cxx">
+      <Filter>MDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\MDF\MDF_ARDriverSequence_0.cxx">
+      <Filter>MDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\MDF\MDF_ARDriverTable_0.cxx">
+      <Filter>MDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\MDF\MDF_ASDriverHSequence_0.cxx">
+      <Filter>MDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\MDF\MDF_ASDriverSequence_0.cxx">
+      <Filter>MDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\MDF\MDF_ASDriverTable_0.cxx">
+      <Filter>MDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\MDF\MDF_DataMapIteratorOfTypeARDriverMap_0.cxx">
+      <Filter>MDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\MDF\MDF_DataMapIteratorOfTypeASDriverMap_0.cxx">
+      <Filter>MDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\MDF\MDF_DataMapIteratorOfTypeDriverListMapOfARDriverTable_0.cxx">
+      <Filter>MDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\MDF\MDF_DataMapIteratorOfTypeDriverListMapOfASDriverTable_0.cxx">
+      <Filter>MDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\MDF\MDF_DataMapNodeOfTypeARDriverMap_0.cxx">
+      <Filter>MDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\MDF\MDF_DataMapNodeOfTypeASDriverMap_0.cxx">
+      <Filter>MDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\MDF\MDF_DataMapNodeOfTypeDriverListMapOfARDriverTable_0.cxx">
+      <Filter>MDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\MDF\MDF_DataMapNodeOfTypeDriverListMapOfASDriverTable_0.cxx">
+      <Filter>MDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\MDF\MDF_DriverListOfARDriverTable_0.cxx">
+      <Filter>MDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\MDF\MDF_DriverListOfASDriverTable_0.cxx">
+      <Filter>MDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\MDF\MDF_ListIteratorOfDriverListOfARDriverTable_0.cxx">
+      <Filter>MDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\MDF\MDF_ListIteratorOfDriverListOfASDriverTable_0.cxx">
+      <Filter>MDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\MDF\MDF_ListNodeOfDriverListOfARDriverTable_0.cxx">
+      <Filter>MDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\MDF\MDF_ListNodeOfDriverListOfASDriverTable_0.cxx">
+      <Filter>MDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\MDF\MDF_RRelocationTable_0.cxx">
+      <Filter>MDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\MDF\MDF_SRelocationTable_0.cxx">
+      <Filter>MDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\MDF\MDF_SequenceNodeOfARDriverSequence_0.cxx">
+      <Filter>MDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\MDF\MDF_SequenceNodeOfASDriverSequence_0.cxx">
+      <Filter>MDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\MDF\MDF_TypeARDriverMap_0.cxx">
+      <Filter>MDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\MDF\MDF_TypeASDriverMap_0.cxx">
+      <Filter>MDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\MDF\MDF_TypeDriverListMapOfARDriverTable_0.cxx">
+      <Filter>MDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\MDF\MDF_TypeDriverListMapOfASDriverTable_0.cxx">
+      <Filter>MDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MDF\MDF.cxx">
+      <Filter>MDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MDF\MDF_ARDriver.cxx">
+      <Filter>MDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MDF\MDF_ASDriver.cxx">
+      <Filter>MDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MDF\MDF_ReferenceRetrievalDriver.cxx">
+      <Filter>MDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MDF\MDF_ReferenceStorageDriver.cxx">
+      <Filter>MDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MDF\MDF_TagSourceRetrievalDriver.cxx">
+      <Filter>MDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MDF\MDF_TagSourceStorageDriver.cxx">
+      <Filter>MDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MDF\MDF_Tool.cxx">
+      <Filter>MDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MDataStd\MDataStd.cxx">
+      <Filter>MDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MDataStd\MDataStd_AsciiStringRetrievalDriver.cxx">
+      <Filter>MDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MDataStd\MDataStd_AsciiStringStorageDriver.cxx">
+      <Filter>MDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MDataStd\MDataStd_BooleanArrayRetrievalDriver.cxx">
+      <Filter>MDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MDataStd\MDataStd_BooleanArrayStorageDriver.cxx">
+      <Filter>MDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MDataStd\MDataStd_BooleanListRetrievalDriver.cxx">
+      <Filter>MDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MDataStd\MDataStd_BooleanListStorageDriver.cxx">
+      <Filter>MDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MDataStd\MDataStd_ByteArrayRetrievalDriver.cxx">
+      <Filter>MDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MDataStd\MDataStd_ByteArrayRetrievalDriver_1.cxx">
+      <Filter>MDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MDataStd\MDataStd_ByteArrayStorageDriver.cxx">
+      <Filter>MDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MDataStd\MDataStd_CommentRetrievalDriver.cxx">
+      <Filter>MDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MDataStd\MDataStd_CommentStorageDriver.cxx">
+      <Filter>MDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MDataStd\MDataStd_DirectoryRetrievalDriver.cxx">
+      <Filter>MDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MDataStd\MDataStd_DirectoryStorageDriver.cxx">
+      <Filter>MDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MDataStd\MDataStd_ExpressionRetrievalDriver.cxx">
+      <Filter>MDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MDataStd\MDataStd_ExpressionStorageDriver.cxx">
+      <Filter>MDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MDataStd\MDataStd_ExtStringArrayRetrievalDriver.cxx">
+      <Filter>MDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MDataStd\MDataStd_ExtStringArrayRetrievalDriver_1.cxx">
+      <Filter>MDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MDataStd\MDataStd_ExtStringArrayStorageDriver.cxx">
+      <Filter>MDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MDataStd\MDataStd_ExtStringListRetrievalDriver.cxx">
+      <Filter>MDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MDataStd\MDataStd_ExtStringListStorageDriver.cxx">
+      <Filter>MDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MDataStd\MDataStd_IntPackedMapRetrievalDriver.cxx">
+      <Filter>MDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MDataStd\MDataStd_IntPackedMapRetrievalDriver_1.cxx">
+      <Filter>MDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MDataStd\MDataStd_IntPackedMapStorageDriver.cxx">
+      <Filter>MDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MDataStd\MDataStd_IntegerArrayRetrievalDriver.cxx">
+      <Filter>MDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MDataStd\MDataStd_IntegerArrayRetrievalDriver_1.cxx">
+      <Filter>MDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MDataStd\MDataStd_IntegerArrayStorageDriver.cxx">
+      <Filter>MDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MDataStd\MDataStd_IntegerListRetrievalDriver.cxx">
+      <Filter>MDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MDataStd\MDataStd_IntegerListStorageDriver.cxx">
+      <Filter>MDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MDataStd\MDataStd_IntegerRetrievalDriver.cxx">
+      <Filter>MDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MDataStd\MDataStd_IntegerStorageDriver.cxx">
+      <Filter>MDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MDataStd\MDataStd_NameRetrievalDriver.cxx">
+      <Filter>MDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MDataStd\MDataStd_NameStorageDriver.cxx">
+      <Filter>MDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MDataStd\MDataStd_NamedDataRetrievalDriver.cxx">
+      <Filter>MDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MDataStd\MDataStd_NamedDataStorageDriver.cxx">
+      <Filter>MDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MDataStd\MDataStd_NoteBookRetrievalDriver.cxx">
+      <Filter>MDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MDataStd\MDataStd_NoteBookStorageDriver.cxx">
+      <Filter>MDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MDataStd\MDataStd_RealArrayRetrievalDriver.cxx">
+      <Filter>MDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MDataStd\MDataStd_RealArrayRetrievalDriver_1.cxx">
+      <Filter>MDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MDataStd\MDataStd_RealArrayStorageDriver.cxx">
+      <Filter>MDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MDataStd\MDataStd_RealListRetrievalDriver.cxx">
+      <Filter>MDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MDataStd\MDataStd_RealListStorageDriver.cxx">
+      <Filter>MDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MDataStd\MDataStd_RealRetrievalDriver.cxx">
+      <Filter>MDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MDataStd\MDataStd_RealStorageDriver.cxx">
+      <Filter>MDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MDataStd\MDataStd_ReferenceArrayRetrievalDriver.cxx">
+      <Filter>MDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MDataStd\MDataStd_ReferenceArrayStorageDriver.cxx">
+      <Filter>MDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MDataStd\MDataStd_ReferenceListRetrievalDriver.cxx">
+      <Filter>MDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MDataStd\MDataStd_ReferenceListStorageDriver.cxx">
+      <Filter>MDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MDataStd\MDataStd_RelationRetrievalDriver.cxx">
+      <Filter>MDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MDataStd\MDataStd_RelationStorageDriver.cxx">
+      <Filter>MDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MDataStd\MDataStd_TickRetrievalDriver.cxx">
+      <Filter>MDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MDataStd\MDataStd_TickStorageDriver.cxx">
+      <Filter>MDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MDataStd\MDataStd_TreeNodeRetrievalDriver.cxx">
+      <Filter>MDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MDataStd\MDataStd_TreeNodeStorageDriver.cxx">
+      <Filter>MDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MDataStd\MDataStd_UAttributeRetrievalDriver.cxx">
+      <Filter>MDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MDataStd\MDataStd_UAttributeStorageDriver.cxx">
+      <Filter>MDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MDataStd\MDataStd_VariableRetrievalDriver.cxx">
+      <Filter>MDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MDataStd\MDataStd_VariableStorageDriver.cxx">
+      <Filter>MDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MFunction\MFunction.cxx">
+      <Filter>MFunction</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MFunction\MFunction_FunctionRetrievalDriver.cxx">
+      <Filter>MFunction</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MFunction\MFunction_FunctionStorageDriver.cxx">
+      <Filter>MFunction</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MDocStd\MDocStd.cxx">
+      <Filter>MDocStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MDocStd\MDocStd_DocumentRetrievalDriver.cxx">
+      <Filter>MDocStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MDocStd\MDocStd_DocumentStorageDriver.cxx">
+      <Filter>MDocStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MDocStd\MDocStd_XLinkRetrievalDriver.cxx">
+      <Filter>MDocStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\MDocStd\MDocStd_XLinkStorageDriver.cxx">
+      <Filter>MDocStd</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="E:\code\c\oce\adm\cmake\TKPLCAF\Precompiled.h">
+      <Filter>Precompiled</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\code\c\oce\adm\cmake\TKPLCAF\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="E:\code\c\oce\build\Version.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="MDF">
+      <UniqueIdentifier>{073DC554-2D60-3D5C-A1B8-285E9A924855}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MDataStd">
+      <UniqueIdentifier>{5FFC42E2-8538-313A-A090-E114A9DF7011}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MDocStd">
+      <UniqueIdentifier>{2003D4C3-EC64-33D2-966F-912BC2CC344F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MFunction">
+      <UniqueIdentifier>{45617079-0394-3F41-95A9-438961CD0DC8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PDF">
+      <UniqueIdentifier>{76AB5F69-4CCE-315D-840D-DC028B0AD061}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PDataStd">
+      <UniqueIdentifier>{2ECACE51-6B05-37CF-B321-F4DFD1CCAE25}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PDocStd">
+      <UniqueIdentifier>{8A043760-46B8-303C-9B6E-31A9A345E4AC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PFunction">
+      <UniqueIdentifier>{D00E6508-616C-335E-8AD9-6A7FBDCA0228}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Precompiled">
+      <UniqueIdentifier>{9798687B-1064-3C74-84F3-7C7EA6AC7B09}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{89761968-2B46-3580-8630-22C285107311}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

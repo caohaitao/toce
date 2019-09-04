@@ -1,0 +1,458 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\code\c\oce\adm\cmake\TKShHealing\Precompiled.cpp">
+      <Filter>Precompiled</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\ShapeBuild\ShapeBuild.cxx">
+      <Filter>ShapeBuild</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\ShapeBuild\ShapeBuild_Edge.cxx">
+      <Filter>ShapeBuild</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\ShapeBuild\ShapeBuild_ReShape.cxx">
+      <Filter>ShapeBuild</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\ShapeBuild\ShapeBuild_Vertex.cxx">
+      <Filter>ShapeBuild</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeExtend\ShapeExtend_DataMapIteratorOfDataMapOfShapeListOfMsg_0.cxx">
+      <Filter>ShapeExtend</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeExtend\ShapeExtend_DataMapIteratorOfDataMapOfTransientListOfMsg_0.cxx">
+      <Filter>ShapeExtend</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeExtend\ShapeExtend_DataMapNodeOfDataMapOfShapeListOfMsg_0.cxx">
+      <Filter>ShapeExtend</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeExtend\ShapeExtend_DataMapNodeOfDataMapOfTransientListOfMsg_0.cxx">
+      <Filter>ShapeExtend</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeExtend\ShapeExtend_DataMapOfShapeListOfMsg_0.cxx">
+      <Filter>ShapeExtend</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeExtend\ShapeExtend_DataMapOfTransientListOfMsg_0.cxx">
+      <Filter>ShapeExtend</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\ShapeExtend\ShapeExtend.cxx">
+      <Filter>ShapeExtend</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\ShapeExtend\ShapeExtend_BasicMsgRegistrator.cxx">
+      <Filter>ShapeExtend</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\ShapeExtend\ShapeExtend_ComplexCurve.cxx">
+      <Filter>ShapeExtend</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\ShapeExtend\ShapeExtend_CompositeSurface.cxx">
+      <Filter>ShapeExtend</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\ShapeExtend\ShapeExtend_Explorer.cxx">
+      <Filter>ShapeExtend</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\ShapeExtend\ShapeExtend_MsgRegistrator.cxx">
+      <Filter>ShapeExtend</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\ShapeExtend\ShapeExtend_WireData.cxx">
+      <Filter>ShapeExtend</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\ShapeConstruct\ShapeConstruct.cxx">
+      <Filter>ShapeConstruct</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\ShapeConstruct\ShapeConstruct_CompBezierCurves2dToBSplineCurve2d.cxx">
+      <Filter>ShapeConstruct</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\ShapeConstruct\ShapeConstruct_CompBezierCurvesToBSplineCurve.cxx">
+      <Filter>ShapeConstruct</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\ShapeConstruct\ShapeConstruct_Curve.cxx">
+      <Filter>ShapeConstruct</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\ShapeConstruct\ShapeConstruct_MakeTriangulation.cxx">
+      <Filter>ShapeConstruct</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\ShapeConstruct\ShapeConstruct_ProjectCurveOnSurface.cxx">
+      <Filter>ShapeConstruct</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\ShapeCustom\ShapeCustom.cxx">
+      <Filter>ShapeCustom</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\ShapeCustom\ShapeCustom_BSplineRestriction.cxx">
+      <Filter>ShapeCustom</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\ShapeCustom\ShapeCustom_ConvertToBSpline.cxx">
+      <Filter>ShapeCustom</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\ShapeCustom\ShapeCustom_ConvertToRevolution.cxx">
+      <Filter>ShapeCustom</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\ShapeCustom\ShapeCustom_Curve.cxx">
+      <Filter>ShapeCustom</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\ShapeCustom\ShapeCustom_Curve2d.cxx">
+      <Filter>ShapeCustom</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\ShapeCustom\ShapeCustom_DirectModification.cxx">
+      <Filter>ShapeCustom</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\ShapeCustom\ShapeCustom_Modification.cxx">
+      <Filter>ShapeCustom</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\ShapeCustom\ShapeCustom_RestrictionParameters.cxx">
+      <Filter>ShapeCustom</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\ShapeCustom\ShapeCustom_Surface.cxx">
+      <Filter>ShapeCustom</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\ShapeCustom\ShapeCustom_SweptToElementary.cxx">
+      <Filter>ShapeCustom</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\ShapeCustom\ShapeCustom_TrsfModification.cxx">
+      <Filter>ShapeCustom</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeAnalysis\ShapeAnalysis_DataMapIteratorOfDataMapOfShapeListOfReal_0.cxx">
+      <Filter>ShapeAnalysis</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeAnalysis\ShapeAnalysis_DataMapNodeOfDataMapOfShapeListOfReal_0.cxx">
+      <Filter>ShapeAnalysis</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeAnalysis\ShapeAnalysis_DataMapOfShapeListOfReal_0.cxx">
+      <Filter>ShapeAnalysis</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeAnalysis\ShapeAnalysis_HSequenceOfFreeBounds_0.cxx">
+      <Filter>ShapeAnalysis</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeAnalysis\ShapeAnalysis_SequenceNodeOfSequenceOfFreeBounds_0.cxx">
+      <Filter>ShapeAnalysis</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeAnalysis\ShapeAnalysis_SequenceOfFreeBounds_0.cxx">
+      <Filter>ShapeAnalysis</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\ShapeAnalysis\ShapeAnalysis.cxx">
+      <Filter>ShapeAnalysis</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\ShapeAnalysis\ShapeAnalysis_BoxBndTree.cxx">
+      <Filter>ShapeAnalysis</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\ShapeAnalysis\ShapeAnalysis_CheckSmallFace.cxx">
+      <Filter>ShapeAnalysis</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\ShapeAnalysis\ShapeAnalysis_Curve.cxx">
+      <Filter>ShapeAnalysis</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\ShapeAnalysis\ShapeAnalysis_Edge.cxx">
+      <Filter>ShapeAnalysis</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\ShapeAnalysis\ShapeAnalysis_FreeBoundData.cxx">
+      <Filter>ShapeAnalysis</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\ShapeAnalysis\ShapeAnalysis_FreeBounds.cxx">
+      <Filter>ShapeAnalysis</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\ShapeAnalysis\ShapeAnalysis_FreeBoundsProperties.cxx">
+      <Filter>ShapeAnalysis</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\ShapeAnalysis\ShapeAnalysis_Geom.cxx">
+      <Filter>ShapeAnalysis</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\ShapeAnalysis\ShapeAnalysis_ShapeContents.cxx">
+      <Filter>ShapeAnalysis</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\ShapeAnalysis\ShapeAnalysis_ShapeTolerance.cxx">
+      <Filter>ShapeAnalysis</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\ShapeAnalysis\ShapeAnalysis_Shell.cxx">
+      <Filter>ShapeAnalysis</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\ShapeAnalysis\ShapeAnalysis_Surface.cxx">
+      <Filter>ShapeAnalysis</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\ShapeAnalysis\ShapeAnalysis_TransferParameters.cxx">
+      <Filter>ShapeAnalysis</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\ShapeAnalysis\ShapeAnalysis_TransferParametersProj.cxx">
+      <Filter>ShapeAnalysis</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\ShapeAnalysis\ShapeAnalysis_Wire.cxx">
+      <Filter>ShapeAnalysis</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\ShapeAnalysis\ShapeAnalysis_WireOrder.cxx">
+      <Filter>ShapeAnalysis</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\ShapeAnalysis\ShapeAnalysis_WireVertex.cxx">
+      <Filter>ShapeAnalysis</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeFix\ShapeFix_DataMapIteratorOfDataMapOfShapeBox2d_0.cxx">
+      <Filter>ShapeFix</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeFix\ShapeFix_DataMapNodeOfDataMapOfShapeBox2d_0.cxx">
+      <Filter>ShapeFix</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeFix\ShapeFix_DataMapOfShapeBox2d_0.cxx">
+      <Filter>ShapeFix</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeFix\ShapeFix_SequenceNodeOfSequenceOfWireSegment_0.cxx">
+      <Filter>ShapeFix</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeFix\ShapeFix_SequenceOfWireSegment_0.cxx">
+      <Filter>ShapeFix</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\ShapeFix\ShapeFix.cxx">
+      <Filter>ShapeFix</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\ShapeFix\ShapeFix_ComposeShell.cxx">
+      <Filter>ShapeFix</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\ShapeFix\ShapeFix_Edge.cxx">
+      <Filter>ShapeFix</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\ShapeFix\ShapeFix_EdgeConnect.cxx">
+      <Filter>ShapeFix</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\ShapeFix\ShapeFix_EdgeProjAux.cxx">
+      <Filter>ShapeFix</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\ShapeFix\ShapeFix_Face.cxx">
+      <Filter>ShapeFix</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\ShapeFix\ShapeFix_FaceConnect.cxx">
+      <Filter>ShapeFix</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\ShapeFix\ShapeFix_FixSmallFace.cxx">
+      <Filter>ShapeFix</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\ShapeFix\ShapeFix_FixSmallSolid.cxx">
+      <Filter>ShapeFix</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\ShapeFix\ShapeFix_FreeBounds.cxx">
+      <Filter>ShapeFix</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\ShapeFix\ShapeFix_IntersectionTool.cxx">
+      <Filter>ShapeFix</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\ShapeFix\ShapeFix_Root.cxx">
+      <Filter>ShapeFix</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\ShapeFix\ShapeFix_Shape.cxx">
+      <Filter>ShapeFix</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\ShapeFix\ShapeFix_ShapeTolerance.cxx">
+      <Filter>ShapeFix</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\ShapeFix\ShapeFix_Shell.cxx">
+      <Filter>ShapeFix</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\ShapeFix\ShapeFix_Solid.cxx">
+      <Filter>ShapeFix</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\ShapeFix\ShapeFix_SplitCommonVertex.cxx">
+      <Filter>ShapeFix</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\ShapeFix\ShapeFix_SplitTool.cxx">
+      <Filter>ShapeFix</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\ShapeFix\ShapeFix_Wire.cxx">
+      <Filter>ShapeFix</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\ShapeFix\ShapeFix_WireSegment.cxx">
+      <Filter>ShapeFix</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\ShapeFix\ShapeFix_WireVertex.cxx">
+      <Filter>ShapeFix</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\ShapeFix\ShapeFix_Wire_1.cxx">
+      <Filter>ShapeFix</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\ShapeFix\ShapeFix_Wireframe.cxx">
+      <Filter>ShapeFix</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\ShapeUpgrade\ShapeUpgrade.cxx">
+      <Filter>ShapeUpgrade</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\ShapeUpgrade\ShapeUpgrade_ClosedEdgeDivide.cxx">
+      <Filter>ShapeUpgrade</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\ShapeUpgrade\ShapeUpgrade_ClosedFaceDivide.cxx">
+      <Filter>ShapeUpgrade</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\ShapeUpgrade\ShapeUpgrade_ConvertCurve2dToBezier.cxx">
+      <Filter>ShapeUpgrade</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\ShapeUpgrade\ShapeUpgrade_ConvertCurve3dToBezier.cxx">
+      <Filter>ShapeUpgrade</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\ShapeUpgrade\ShapeUpgrade_ConvertSurfaceToBezierBasis.cxx">
+      <Filter>ShapeUpgrade</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\ShapeUpgrade\ShapeUpgrade_EdgeDivide.cxx">
+      <Filter>ShapeUpgrade</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\ShapeUpgrade\ShapeUpgrade_FaceDivide.cxx">
+      <Filter>ShapeUpgrade</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\ShapeUpgrade\ShapeUpgrade_FaceDivideArea.cxx">
+      <Filter>ShapeUpgrade</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\ShapeUpgrade\ShapeUpgrade_FixSmallBezierCurves.cxx">
+      <Filter>ShapeUpgrade</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\ShapeUpgrade\ShapeUpgrade_FixSmallCurves.cxx">
+      <Filter>ShapeUpgrade</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\ShapeUpgrade\ShapeUpgrade_RemoveInternalWires.cxx">
+      <Filter>ShapeUpgrade</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\ShapeUpgrade\ShapeUpgrade_RemoveLocations.cxx">
+      <Filter>ShapeUpgrade</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\ShapeUpgrade\ShapeUpgrade_ShapeConvertToBezier.cxx">
+      <Filter>ShapeUpgrade</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\ShapeUpgrade\ShapeUpgrade_ShapeDivide.cxx">
+      <Filter>ShapeUpgrade</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\ShapeUpgrade\ShapeUpgrade_ShapeDivideAngle.cxx">
+      <Filter>ShapeUpgrade</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\ShapeUpgrade\ShapeUpgrade_ShapeDivideArea.cxx">
+      <Filter>ShapeUpgrade</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\ShapeUpgrade\ShapeUpgrade_ShapeDivideClosed.cxx">
+      <Filter>ShapeUpgrade</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\ShapeUpgrade\ShapeUpgrade_ShapeDivideClosedEdges.cxx">
+      <Filter>ShapeUpgrade</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\ShapeUpgrade\ShapeUpgrade_ShapeDivideContinuity.cxx">
+      <Filter>ShapeUpgrade</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\ShapeUpgrade\ShapeUpgrade_ShellSewing.cxx">
+      <Filter>ShapeUpgrade</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\ShapeUpgrade\ShapeUpgrade_SplitCurve.cxx">
+      <Filter>ShapeUpgrade</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\ShapeUpgrade\ShapeUpgrade_SplitCurve2d.cxx">
+      <Filter>ShapeUpgrade</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\ShapeUpgrade\ShapeUpgrade_SplitCurve2dContinuity.cxx">
+      <Filter>ShapeUpgrade</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\ShapeUpgrade\ShapeUpgrade_SplitCurve3d.cxx">
+      <Filter>ShapeUpgrade</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\ShapeUpgrade\ShapeUpgrade_SplitCurve3dContinuity.cxx">
+      <Filter>ShapeUpgrade</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\ShapeUpgrade\ShapeUpgrade_SplitSurface.cxx">
+      <Filter>ShapeUpgrade</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\ShapeUpgrade\ShapeUpgrade_SplitSurfaceAngle.cxx">
+      <Filter>ShapeUpgrade</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\ShapeUpgrade\ShapeUpgrade_SplitSurfaceArea.cxx">
+      <Filter>ShapeUpgrade</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\ShapeUpgrade\ShapeUpgrade_SplitSurfaceContinuity.cxx">
+      <Filter>ShapeUpgrade</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\ShapeUpgrade\ShapeUpgrade_Tool.cxx">
+      <Filter>ShapeUpgrade</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\ShapeUpgrade\ShapeUpgrade_UnifySameDomain.cxx">
+      <Filter>ShapeUpgrade</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\ShapeUpgrade\ShapeUpgrade_WireDivide.cxx">
+      <Filter>ShapeUpgrade</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\ShapeAlgo\ShapeAlgo.cxx">
+      <Filter>ShapeAlgo</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\ShapeAlgo\ShapeAlgo_AlgoContainer.cxx">
+      <Filter>ShapeAlgo</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\ShapeAlgo\ShapeAlgo_ToolContainer.cxx">
+      <Filter>ShapeAlgo</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeProcess\ShapeProcess_DictionaryOfOperator_0.cxx">
+      <Filter>ShapeProcess</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeProcess\ShapeProcess_IteratorOfDictionaryOfOperator_0.cxx">
+      <Filter>ShapeProcess</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeProcess\ShapeProcess_StackItemOfDictionaryOfOperator_0.cxx">
+      <Filter>ShapeProcess</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\ShapeProcess\ShapeProcess.cxx">
+      <Filter>ShapeProcess</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\ShapeProcess\ShapeProcess_Context.cxx">
+      <Filter>ShapeProcess</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\ShapeProcess\ShapeProcess_OperLibrary.cxx">
+      <Filter>ShapeProcess</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\ShapeProcess\ShapeProcess_Operator.cxx">
+      <Filter>ShapeProcess</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\ShapeProcess\ShapeProcess_ShapeContext.cxx">
+      <Filter>ShapeProcess</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\ShapeProcess\ShapeProcess_UOperator.cxx">
+      <Filter>ShapeProcess</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\ShapeProcessAPI\ShapeProcessAPI_ApplySequence.cxx">
+      <Filter>ShapeProcessAPI</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="E:\code\c\oce\adm\cmake\TKShHealing\Precompiled.h">
+      <Filter>Precompiled</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\code\c\oce\adm\cmake\TKShHealing\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="E:\code\c\oce\build\Version.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Precompiled">
+      <UniqueIdentifier>{9798687B-1064-3C74-84F3-7C7EA6AC7B09}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ShapeAlgo">
+      <UniqueIdentifier>{BE83AB7C-9F51-3814-B769-DDB9EA2B324A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ShapeAnalysis">
+      <UniqueIdentifier>{0F55CEDD-81FA-3961-9E2F-B5F3A6F4909A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ShapeBuild">
+      <UniqueIdentifier>{BBDA17E3-3E24-3182-A952-D7BE2849A0A9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ShapeConstruct">
+      <UniqueIdentifier>{3DCAAD81-6A2E-3493-A89A-02BEC1F5D5A3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ShapeCustom">
+      <UniqueIdentifier>{0808558E-7098-3AC5-A5D9-F850C92C240F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ShapeExtend">
+      <UniqueIdentifier>{1EC54C43-5CE0-3493-8322-7EA981D4200F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ShapeFix">
+      <UniqueIdentifier>{E6E1C55F-4528-3D47-B4AE-F2B2EF86E2E4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ShapeProcess">
+      <UniqueIdentifier>{506E8506-BA81-3E7F-BCE9-BAEA4F8A2116}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ShapeProcessAPI">
+      <UniqueIdentifier>{9CB1C634-A963-3829-9B6F-B0000B1E40C4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ShapeUpgrade">
+      <UniqueIdentifier>{14400A07-5EC4-3364-ABDF-31935B061FB8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{89761968-2B46-3580-8630-22C285107311}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

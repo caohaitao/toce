@@ -1,6 +1,5 @@
 oce-win-bundle/
 /build/CMakeFiles
-/build/adm/cmake
 /build/bin
 /build/x64
 /build/test
@@ -12,3 +11,9 @@ oce-win-bundle/
 *.dll
 *.pdb
 *.suo
+*.obj
+*.pch
+*.res
+*.stamp
+*.depend
+*.cmake

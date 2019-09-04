@@ -1,0 +1,602 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\code\c\oce\adm\cmake\TKLCAF\Precompiled.cpp">
+      <Filter>Precompiled</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TDF\TDF_AttributeArray1_0.cxx">
+      <Filter>TDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TDF\TDF_AttributeDataMap_0.cxx">
+      <Filter>TDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TDF\TDF_AttributeDeltaList_0.cxx">
+      <Filter>TDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TDF\TDF_AttributeDoubleMap_0.cxx">
+      <Filter>TDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TDF\TDF_AttributeIndexedMap_0.cxx">
+      <Filter>TDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TDF\TDF_AttributeList_0.cxx">
+      <Filter>TDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TDF\TDF_AttributeMap_0.cxx">
+      <Filter>TDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TDF\TDF_AttributeSequence_0.cxx">
+      <Filter>TDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TDF\TDF_DataMapIteratorOfAttributeDataMap_0.cxx">
+      <Filter>TDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TDF\TDF_DataMapIteratorOfLabelDataMap_0.cxx">
+      <Filter>TDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TDF\TDF_DataMapIteratorOfLabelIntegerMap_0.cxx">
+      <Filter>TDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TDF\TDF_DataMapNodeOfAttributeDataMap_0.cxx">
+      <Filter>TDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TDF\TDF_DataMapNodeOfLabelDataMap_0.cxx">
+      <Filter>TDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TDF\TDF_DataMapNodeOfLabelIntegerMap_0.cxx">
+      <Filter>TDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TDF\TDF_DeltaList_0.cxx">
+      <Filter>TDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TDF\TDF_DoubleMapIteratorOfAttributeDoubleMap_0.cxx">
+      <Filter>TDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TDF\TDF_DoubleMapIteratorOfGUIDProgIDMap_0.cxx">
+      <Filter>TDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TDF\TDF_DoubleMapIteratorOfLabelDoubleMap_0.cxx">
+      <Filter>TDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TDF\TDF_DoubleMapNodeOfAttributeDoubleMap_0.cxx">
+      <Filter>TDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TDF\TDF_DoubleMapNodeOfGUIDProgIDMap_0.cxx">
+      <Filter>TDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TDF\TDF_DoubleMapNodeOfLabelDoubleMap_0.cxx">
+      <Filter>TDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TDF\TDF_GUIDProgIDMap_0.cxx">
+      <Filter>TDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TDF\TDF_HAttributeArray1_0.cxx">
+      <Filter>TDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TDF\TDF_IDList_0.cxx">
+      <Filter>TDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TDF\TDF_IDMap_0.cxx">
+      <Filter>TDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TDF\TDF_IndexedMapNodeOfAttributeIndexedMap_0.cxx">
+      <Filter>TDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TDF\TDF_IndexedMapNodeOfLabelIndexedMap_0.cxx">
+      <Filter>TDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TDF\TDF_LabelDataMap_0.cxx">
+      <Filter>TDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TDF\TDF_LabelDoubleMap_0.cxx">
+      <Filter>TDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TDF\TDF_LabelIndexedMap_0.cxx">
+      <Filter>TDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TDF\TDF_LabelIntegerMap_0.cxx">
+      <Filter>TDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TDF\TDF_LabelList_0.cxx">
+      <Filter>TDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TDF\TDF_LabelMap_0.cxx">
+      <Filter>TDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TDF\TDF_LabelSequence_0.cxx">
+      <Filter>TDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TDF\TDF_ListIteratorOfAttributeDeltaList_0.cxx">
+      <Filter>TDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TDF\TDF_ListIteratorOfAttributeList_0.cxx">
+      <Filter>TDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TDF\TDF_ListIteratorOfDeltaList_0.cxx">
+      <Filter>TDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TDF\TDF_ListIteratorOfIDList_0.cxx">
+      <Filter>TDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TDF\TDF_ListIteratorOfLabelList_0.cxx">
+      <Filter>TDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TDF\TDF_ListNodeOfAttributeDeltaList_0.cxx">
+      <Filter>TDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TDF\TDF_ListNodeOfAttributeList_0.cxx">
+      <Filter>TDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TDF\TDF_ListNodeOfDeltaList_0.cxx">
+      <Filter>TDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TDF\TDF_ListNodeOfIDList_0.cxx">
+      <Filter>TDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TDF\TDF_ListNodeOfLabelList_0.cxx">
+      <Filter>TDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TDF\TDF_MapIteratorOfAttributeMap_0.cxx">
+      <Filter>TDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TDF\TDF_MapIteratorOfIDMap_0.cxx">
+      <Filter>TDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TDF\TDF_MapIteratorOfLabelMap_0.cxx">
+      <Filter>TDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TDF\TDF_SequenceNodeOfAttributeSequence_0.cxx">
+      <Filter>TDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TDF\TDF_SequenceNodeOfLabelSequence_0.cxx">
+      <Filter>TDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TDF\TDF_StdMapNodeOfAttributeMap_0.cxx">
+      <Filter>TDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TDF\TDF_StdMapNodeOfIDMap_0.cxx">
+      <Filter>TDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TDF\TDF_StdMapNodeOfLabelMap_0.cxx">
+      <Filter>TDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TDF\TDF.cxx">
+      <Filter>TDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TDF\TDF_Attribute.cxx">
+      <Filter>TDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TDF\TDF_AttributeDelta.cxx">
+      <Filter>TDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TDF\TDF_AttributeIterator.cxx">
+      <Filter>TDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TDF\TDF_ChildIDIterator.cxx">
+      <Filter>TDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TDF\TDF_ChildIterator.cxx">
+      <Filter>TDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TDF\TDF_ClosureMode.cxx">
+      <Filter>TDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TDF\TDF_ClosureTool.cxx">
+      <Filter>TDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TDF\TDF_ComparisonTool.cxx">
+      <Filter>TDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TDF\TDF_CopyLabel.cxx">
+      <Filter>TDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TDF\TDF_CopyTool.cxx">
+      <Filter>TDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TDF\TDF_Data.cxx">
+      <Filter>TDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TDF\TDF_DataSet.cxx">
+      <Filter>TDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TDF\TDF_DefaultDeltaOnModification.cxx">
+      <Filter>TDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TDF\TDF_DefaultDeltaOnRemoval.cxx">
+      <Filter>TDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TDF\TDF_Delta.cxx">
+      <Filter>TDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TDF\TDF_DeltaOnAddition.cxx">
+      <Filter>TDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TDF\TDF_DeltaOnForget.cxx">
+      <Filter>TDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TDF\TDF_DeltaOnModification.cxx">
+      <Filter>TDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TDF\TDF_DeltaOnRemoval.cxx">
+      <Filter>TDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TDF\TDF_DeltaOnResume.cxx">
+      <Filter>TDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TDF\TDF_IDFilter.cxx">
+      <Filter>TDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TDF\TDF_Label.cxx">
+      <Filter>TDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TDF\TDF_LabelMapHasher.cxx">
+      <Filter>TDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TDF\TDF_LabelNode.cxx">
+      <Filter>TDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TDF\TDF_Reference.cxx">
+      <Filter>TDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TDF\TDF_RelocationTable.cxx">
+      <Filter>TDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TDF\TDF_TagSource.cxx">
+      <Filter>TDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TDF\TDF_Tool.cxx">
+      <Filter>TDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TDF\TDF_Transaction.cxx">
+      <Filter>TDF</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TDataStd\TDataStd_DataMapIteratorOfDataMapOfStringByte_0.cxx">
+      <Filter>TDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TDataStd\TDataStd_DataMapIteratorOfDataMapOfStringHArray1OfInteger_0.cxx">
+      <Filter>TDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TDataStd\TDataStd_DataMapIteratorOfDataMapOfStringHArray1OfReal_0.cxx">
+      <Filter>TDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TDataStd\TDataStd_DataMapIteratorOfDataMapOfStringReal_0.cxx">
+      <Filter>TDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TDataStd\TDataStd_DataMapIteratorOfDataMapOfStringString_0.cxx">
+      <Filter>TDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TDataStd\TDataStd_DataMapNodeOfDataMapOfStringByte_0.cxx">
+      <Filter>TDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TDataStd\TDataStd_DataMapNodeOfDataMapOfStringHArray1OfInteger_0.cxx">
+      <Filter>TDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TDataStd\TDataStd_DataMapNodeOfDataMapOfStringHArray1OfReal_0.cxx">
+      <Filter>TDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TDataStd\TDataStd_DataMapNodeOfDataMapOfStringReal_0.cxx">
+      <Filter>TDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TDataStd\TDataStd_DataMapNodeOfDataMapOfStringString_0.cxx">
+      <Filter>TDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TDataStd\TDataStd_DataMapOfStringByte_0.cxx">
+      <Filter>TDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TDataStd\TDataStd_DataMapOfStringHArray1OfInteger_0.cxx">
+      <Filter>TDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TDataStd\TDataStd_DataMapOfStringHArray1OfReal_0.cxx">
+      <Filter>TDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TDataStd\TDataStd_DataMapOfStringReal_0.cxx">
+      <Filter>TDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TDataStd\TDataStd_DataMapOfStringString_0.cxx">
+      <Filter>TDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TDataStd\TDataStd_HLabelArray1_0.cxx">
+      <Filter>TDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TDataStd\TDataStd_LabelArray1_0.cxx">
+      <Filter>TDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TDataStd\TDataStd_ListIteratorOfListOfByte_0.cxx">
+      <Filter>TDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TDataStd\TDataStd_ListIteratorOfListOfExtendedString_0.cxx">
+      <Filter>TDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TDataStd\TDataStd_ListNodeOfListOfByte_0.cxx">
+      <Filter>TDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TDataStd\TDataStd_ListNodeOfListOfExtendedString_0.cxx">
+      <Filter>TDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TDataStd\TDataStd_ListOfByte_0.cxx">
+      <Filter>TDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TDataStd\TDataStd_ListOfExtendedString_0.cxx">
+      <Filter>TDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TDataStd\TDataStd.cxx">
+      <Filter>TDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TDataStd\TDataStd_AsciiString.cxx">
+      <Filter>TDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TDataStd\TDataStd_BooleanArray.cxx">
+      <Filter>TDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TDataStd\TDataStd_BooleanList.cxx">
+      <Filter>TDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TDataStd\TDataStd_ByteArray.cxx">
+      <Filter>TDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TDataStd\TDataStd_ChildNodeIterator.cxx">
+      <Filter>TDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TDataStd\TDataStd_Comment.cxx">
+      <Filter>TDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TDataStd\TDataStd_Current.cxx">
+      <Filter>TDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TDataStd\TDataStd_DeltaOnModificationOfByteArray.cxx">
+      <Filter>TDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TDataStd\TDataStd_DeltaOnModificationOfExtStringArray.cxx">
+      <Filter>TDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TDataStd\TDataStd_DeltaOnModificationOfIntArray.cxx">
+      <Filter>TDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TDataStd\TDataStd_DeltaOnModificationOfIntPackedMap.cxx">
+      <Filter>TDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TDataStd\TDataStd_DeltaOnModificationOfRealArray.cxx">
+      <Filter>TDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TDataStd\TDataStd_Directory.cxx">
+      <Filter>TDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TDataStd\TDataStd_Expression.cxx">
+      <Filter>TDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TDataStd\TDataStd_ExtStringArray.cxx">
+      <Filter>TDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TDataStd\TDataStd_ExtStringList.cxx">
+      <Filter>TDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TDataStd\TDataStd_HDataMapOfStringByte.cxx">
+      <Filter>TDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TDataStd\TDataStd_HDataMapOfStringHArray1OfInteger.cxx">
+      <Filter>TDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TDataStd\TDataStd_HDataMapOfStringHArray1OfReal.cxx">
+      <Filter>TDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TDataStd\TDataStd_HDataMapOfStringInteger.cxx">
+      <Filter>TDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TDataStd\TDataStd_HDataMapOfStringReal.cxx">
+      <Filter>TDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TDataStd\TDataStd_HDataMapOfStringString.cxx">
+      <Filter>TDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TDataStd\TDataStd_IntPackedMap.cxx">
+      <Filter>TDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TDataStd\TDataStd_Integer.cxx">
+      <Filter>TDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TDataStd\TDataStd_IntegerArray.cxx">
+      <Filter>TDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TDataStd\TDataStd_IntegerList.cxx">
+      <Filter>TDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TDataStd\TDataStd_Name.cxx">
+      <Filter>TDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TDataStd\TDataStd_NamedData.cxx">
+      <Filter>TDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TDataStd\TDataStd_NoteBook.cxx">
+      <Filter>TDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TDataStd\TDataStd_Real.cxx">
+      <Filter>TDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TDataStd\TDataStd_RealArray.cxx">
+      <Filter>TDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TDataStd\TDataStd_RealList.cxx">
+      <Filter>TDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TDataStd\TDataStd_ReferenceArray.cxx">
+      <Filter>TDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TDataStd\TDataStd_ReferenceList.cxx">
+      <Filter>TDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TDataStd\TDataStd_Relation.cxx">
+      <Filter>TDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TDataStd\TDataStd_Tick.cxx">
+      <Filter>TDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TDataStd\TDataStd_TreeNode.cxx">
+      <Filter>TDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TDataStd\TDataStd_UAttribute.cxx">
+      <Filter>TDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TDataStd\TDataStd_Variable.cxx">
+      <Filter>TDataStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TFunction\TFunction_Array1OfDataMapOfGUIDDriver_0.cxx">
+      <Filter>TFunction</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TFunction\TFunction_DataMapIteratorOfDataMapOfGUIDDriver_0.cxx">
+      <Filter>TFunction</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TFunction\TFunction_DataMapIteratorOfDataMapOfLabelListOfLabel_0.cxx">
+      <Filter>TFunction</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TFunction\TFunction_DataMapNodeOfDataMapOfGUIDDriver_0.cxx">
+      <Filter>TFunction</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TFunction\TFunction_DataMapNodeOfDataMapOfLabelListOfLabel_0.cxx">
+      <Filter>TFunction</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TFunction\TFunction_DataMapOfGUIDDriver_0.cxx">
+      <Filter>TFunction</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TFunction\TFunction_DataMapOfLabelListOfLabel_0.cxx">
+      <Filter>TFunction</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TFunction\TFunction_DoubleMapIteratorOfDoubleMapOfIntegerLabel_0.cxx">
+      <Filter>TFunction</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TFunction\TFunction_DoubleMapNodeOfDoubleMapOfIntegerLabel_0.cxx">
+      <Filter>TFunction</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TFunction\TFunction_DoubleMapOfIntegerLabel_0.cxx">
+      <Filter>TFunction</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TFunction\TFunction_HArray1OfDataMapOfGUIDDriver_0.cxx">
+      <Filter>TFunction</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TFunction\TFunction_Driver.cxx">
+      <Filter>TFunction</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TFunction\TFunction_DriverTable.cxx">
+      <Filter>TFunction</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TFunction\TFunction_Function.cxx">
+      <Filter>TFunction</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TFunction\TFunction_GraphNode.cxx">
+      <Filter>TFunction</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TFunction\TFunction_IFunction.cxx">
+      <Filter>TFunction</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TFunction\TFunction_Iterator.cxx">
+      <Filter>TFunction</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TFunction\TFunction_Logbook.cxx">
+      <Filter>TFunction</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TFunction\TFunction_Scope.cxx">
+      <Filter>TFunction</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TDocStd\TDocStd_DataMapIteratorOfLabelIDMapDataMap_0.cxx">
+      <Filter>TDocStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TDocStd\TDocStd_DataMapNodeOfLabelIDMapDataMap_0.cxx">
+      <Filter>TDocStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TDocStd\TDocStd_LabelIDMapDataMap_0.cxx">
+      <Filter>TDocStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TDocStd\TDocStd_SequenceNodeOfSequenceOfApplicationDelta_0.cxx">
+      <Filter>TDocStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TDocStd\TDocStd_SequenceNodeOfSequenceOfDocument_0.cxx">
+      <Filter>TDocStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TDocStd\TDocStd_SequenceOfApplicationDelta_0.cxx">
+      <Filter>TDocStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TDocStd\TDocStd_SequenceOfDocument_0.cxx">
+      <Filter>TDocStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TDocStd\TDocStd.cxx">
+      <Filter>TDocStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TDocStd\TDocStd_Application.cxx">
+      <Filter>TDocStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TDocStd\TDocStd_ApplicationDelta.cxx">
+      <Filter>TDocStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TDocStd\TDocStd_CompoundDelta.cxx">
+      <Filter>TDocStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TDocStd\TDocStd_Context.cxx">
+      <Filter>TDocStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TDocStd\TDocStd_Document.cxx">
+      <Filter>TDocStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TDocStd\TDocStd_Modified.cxx">
+      <Filter>TDocStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TDocStd\TDocStd_MultiTransactionManager.cxx">
+      <Filter>TDocStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TDocStd\TDocStd_Owner.cxx">
+      <Filter>TDocStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TDocStd\TDocStd_PathParser.cxx">
+      <Filter>TDocStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TDocStd\TDocStd_XLink.cxx">
+      <Filter>TDocStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TDocStd\TDocStd_XLinkIterator.cxx">
+      <Filter>TDocStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TDocStd\TDocStd_XLinkRoot.cxx">
+      <Filter>TDocStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\TDocStd\TDocStd_XLinkTool.cxx">
+      <Filter>TDocStd</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\AppStdL\AppStdL_Application.cxx">
+      <Filter>AppStdL</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="E:\code\c\oce\adm\cmake\TKLCAF\Precompiled.h">
+      <Filter>Precompiled</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\code\c\oce\adm\cmake\TKLCAF\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="E:\code\c\oce\build\Version.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="AppStdL">
+      <UniqueIdentifier>{72BAB890-C99C-3E53-86B1-95BDAE4E3557}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Precompiled">
+      <UniqueIdentifier>{9798687B-1064-3C74-84F3-7C7EA6AC7B09}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{89761968-2B46-3580-8630-22C285107311}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="TDF">
+      <UniqueIdentifier>{D4EC14F0-0076-3035-BDA5-9DC8FF8B0CD1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="TDataStd">
+      <UniqueIdentifier>{C9A403F9-957A-3F56-B84C-930ADB787908}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="TDocStd">
+      <UniqueIdentifier>{DEBC40D8-B5F0-3443-A2FE-758BA8F5775C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="TFunction">
+      <UniqueIdentifier>{B1BA9A64-AA87-3F58-9B1A-3EB9EDA03980}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

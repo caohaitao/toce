@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\code\c\oce\adm\cmake\TKService\Precompiled.cpp">
+      <Filter>Precompiled</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Aspect\Aspect_AspectFillAreaDefinitionError_0.cxx">
+      <Filter>Aspect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Aspect\Aspect_AspectLineDefinitionError_0.cxx">
+      <Filter>Aspect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Aspect\Aspect_AspectMarkerDefinitionError_0.cxx">
+      <Filter>Aspect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Aspect\Aspect_BadAccess_0.cxx">
+      <Filter>Aspect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Aspect\Aspect_DisplayConnectionDefinitionError_0.cxx">
+      <Filter>Aspect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Aspect\Aspect_DriverDefinitionError_0.cxx">
+      <Filter>Aspect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Aspect\Aspect_GraphicDeviceDefinitionError_0.cxx">
+      <Filter>Aspect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Aspect\Aspect_IdentDefinitionError_0.cxx">
+      <Filter>Aspect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Aspect\Aspect_SequenceNodeOfSequenceOfColor_0.cxx">
+      <Filter>Aspect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Aspect\Aspect_SequenceOfColor_0.cxx">
+      <Filter>Aspect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Aspect\Aspect_WindowDefinitionError_0.cxx">
+      <Filter>Aspect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\Aspect\Aspect_WindowError_0.cxx">
+      <Filter>Aspect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Aspect\Aspect_AspectFillArea.cxx">
+      <Filter>Aspect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Aspect\Aspect_AspectLine.cxx">
+      <Filter>Aspect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Aspect\Aspect_AspectMarker.cxx">
+      <Filter>Aspect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Aspect\Aspect_Background.cxx">
+      <Filter>Aspect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Aspect\Aspect_CircularGrid.cxx">
+      <Filter>Aspect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Aspect\Aspect_ColorScale.cxx">
+      <Filter>Aspect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Aspect\Aspect_DisplayConnection.cxx">
+      <Filter>Aspect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Aspect\Aspect_GenId.cxx">
+      <Filter>Aspect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Aspect\Aspect_GradientBackground.cxx">
+      <Filter>Aspect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Aspect\Aspect_Grid.cxx">
+      <Filter>Aspect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Aspect\Aspect_RectangularGrid.cxx">
+      <Filter>Aspect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Aspect\Aspect_Window.cxx">
+      <Filter>Aspect</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\SelectBasics\SelectBasics.cxx">
+      <Filter>SelectBasics</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\SelectBasics\SelectBasics_EntityOwner.cxx">
+      <Filter>SelectBasics</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\SelectBasics\SelectBasics_SensitiveEntity.cxx">
+      <Filter>SelectBasics</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Image\Image_AlienPixMap.cxx">
+      <Filter>Image</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Image\Image_Diff.cxx">
+      <Filter>Image</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Image\Image_PixMap.cxx">
+      <Filter>Image</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColQuantity\TColQuantity_Array1OfLength_0.cxx">
+      <Filter>TColQuantity</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColQuantity\TColQuantity_Array2OfLength_0.cxx">
+      <Filter>TColQuantity</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColQuantity\TColQuantity_HArray1OfLength_0.cxx">
+      <Filter>TColQuantity</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\TColQuantity\TColQuantity_HArray2OfLength_0.cxx">
+      <Filter>TColQuantity</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Font\Font_BRepFont.cxx">
+      <Filter>Font</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Font\Font_FTFont.cxx">
+      <Filter>Font</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Font\Font_FTLibrary.cxx">
+      <Filter>Font</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Font\Font_FontMgr.cxx">
+      <Filter>Font</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Font\Font_SystemFont.cxx">
+      <Filter>Font</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\WNT\WNT_ClassDefinitionError_0.cxx">
+      <Filter>WNT</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\WNT\WNT_WClass.cxx">
+      <Filter>WNT</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\WNT\WNT_Window.cxx">
+      <Filter>WNT</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="E:\code\c\oce\adm\cmake\TKService\Precompiled.h">
+      <Filter>Precompiled</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\code\c\oce\adm\cmake\TKService\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="E:\code\c\oce\build\Version.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Aspect">
+      <UniqueIdentifier>{4CB9A4B7-02B8-3DED-AB65-B1221BCAD1B4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Font">
+      <UniqueIdentifier>{B1847DC8-F97B-3E59-B46A-D78174FF0AEA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Image">
+      <UniqueIdentifier>{434AD8FB-ADCB-39F2-B87C-8864824AB2E9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Precompiled">
+      <UniqueIdentifier>{9798687B-1064-3C74-84F3-7C7EA6AC7B09}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SelectBasics">
+      <UniqueIdentifier>{09E28C8F-C9F4-3D56-9B5D-D016700ADDF8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{89761968-2B46-3580-8630-22C285107311}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="TColQuantity">
+      <UniqueIdentifier>{D4F052C4-DA10-330F-A572-802DBDA83F95}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="WNT">
+      <UniqueIdentifier>{4D3B4E6F-652B-3437-B6EC-CB8064AB967C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

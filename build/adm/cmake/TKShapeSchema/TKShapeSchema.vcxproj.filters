@@ -1,0 +1,662 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\code\c\oce\adm\cmake\TKShapeSchema\Precompiled.cpp">
+      <Filter>Precompiled</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_DBC_VArrayOfCharacter.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_DBC_VArrayOfExtCharacter.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_ObjMgt_ExternRef.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_ObjMgt_ExternShareable.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_ObjMgt_PSeqOfExtRef.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_ObjMgt_SeqNodeOfPSeqOfExtRef.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PBRep_Curve3D.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PBRep_CurveOn2Surfaces.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PBRep_CurveOnClosedSurface.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PBRep_CurveOnSurface.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PBRep_CurveRepresentation.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PBRep_GCurve.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PBRep_PointOnCurve.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PBRep_PointOnCurveOnSurface.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PBRep_PointOnSurface.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PBRep_PointRepresentation.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PBRep_PointsOnSurface.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PBRep_Polygon3D.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PBRep_PolygonOnClosedSurface.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PBRep_PolygonOnClosedTriangulation.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PBRep_PolygonOnSurface.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PBRep_PolygonOnTriangulation.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PBRep_TEdge.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PBRep_TEdge1.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PBRep_TFace.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PBRep_TFace1.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PBRep_TVertex.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PBRep_TVertex1.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PCDMShape_Document.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PCDM_Document.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PColStd_FieldOfHArray1OfInteger.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PColStd_FieldOfHArray1OfReal.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PColStd_FieldOfHArray2OfReal.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PColStd_HArray1OfInteger.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PColStd_HArray1OfReal.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PColStd_HArray2OfReal.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PColgp_FieldOfHArray1OfCirc2d.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PColgp_FieldOfHArray1OfDir.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PColgp_FieldOfHArray1OfDir2d.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PColgp_FieldOfHArray1OfLin2d.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PColgp_FieldOfHArray1OfPnt.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PColgp_FieldOfHArray1OfPnt2d.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PColgp_FieldOfHArray1OfVec.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PColgp_FieldOfHArray1OfVec2d.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PColgp_FieldOfHArray1OfXY.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PColgp_FieldOfHArray1OfXYZ.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PColgp_FieldOfHArray2OfCirc2d.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PColgp_FieldOfHArray2OfDir.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PColgp_FieldOfHArray2OfDir2d.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PColgp_FieldOfHArray2OfLin2d.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PColgp_FieldOfHArray2OfPnt.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PColgp_FieldOfHArray2OfPnt2d.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PColgp_FieldOfHArray2OfVec.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PColgp_FieldOfHArray2OfVec2d.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PColgp_FieldOfHArray2OfXY.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PColgp_FieldOfHArray2OfXYZ.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PColgp_HArray1OfCirc2d.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PColgp_HArray1OfDir.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PColgp_HArray1OfDir2d.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PColgp_HArray1OfLin2d.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PColgp_HArray1OfPnt.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PColgp_HArray1OfPnt2d.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PColgp_HArray1OfVec.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PColgp_HArray1OfVec2d.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PColgp_HArray1OfXY.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PColgp_HArray1OfXYZ.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PColgp_HArray2OfCirc2d.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PColgp_HArray2OfDir.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PColgp_HArray2OfDir2d.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PColgp_HArray2OfLin2d.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PColgp_HArray2OfPnt.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PColgp_HArray2OfPnt2d.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PColgp_HArray2OfVec.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PColgp_HArray2OfVec2d.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PColgp_HArray2OfXY.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PColgp_HArray2OfXYZ.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PColgp_HSequenceOfDir.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PColgp_HSequenceOfPnt.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PColgp_HSequenceOfVec.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PColgp_HSequenceOfXYZ.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PColgp_SeqNodeOfHSequenceOfDir.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PColgp_SeqNodeOfHSequenceOfPnt.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PColgp_SeqNodeOfHSequenceOfVec.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PColgp_SeqNodeOfHSequenceOfXYZ.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PCollection_HAsciiString.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PCollection_HExtendedString.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PGeom2d_AxisPlacement.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PGeom2d_BSplineCurve.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PGeom2d_BezierCurve.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PGeom2d_BoundedCurve.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PGeom2d_CartesianPoint.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PGeom2d_Circle.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PGeom2d_Conic.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PGeom2d_Curve.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PGeom2d_Direction.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PGeom2d_Ellipse.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PGeom2d_Geometry.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PGeom2d_Hyperbola.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PGeom2d_Line.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PGeom2d_OffsetCurve.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PGeom2d_Parabola.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PGeom2d_Point.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PGeom2d_Transformation.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PGeom2d_TrimmedCurve.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PGeom2d_Vector.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PGeom2d_VectorWithMagnitude.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PGeom_Axis1Placement.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PGeom_Axis2Placement.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PGeom_AxisPlacement.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PGeom_BSplineCurve.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PGeom_BSplineSurface.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PGeom_BezierCurve.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PGeom_BezierSurface.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PGeom_BoundedCurve.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PGeom_BoundedSurface.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PGeom_CartesianPoint.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PGeom_Circle.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PGeom_Conic.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PGeom_ConicalSurface.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PGeom_Curve.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PGeom_CylindricalSurface.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PGeom_Direction.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PGeom_ElementarySurface.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PGeom_Ellipse.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PGeom_Geometry.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PGeom_Hyperbola.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PGeom_Line.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PGeom_OffsetCurve.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PGeom_OffsetSurface.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PGeom_Parabola.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PGeom_Plane.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PGeom_Point.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PGeom_RectangularTrimmedSurface.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PGeom_SphericalSurface.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PGeom_Surface.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PGeom_SurfaceOfLinearExtrusion.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PGeom_SurfaceOfRevolution.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PGeom_SweptSurface.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PGeom_ToroidalSurface.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PGeom_Transformation.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PGeom_TrimmedCurve.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PGeom_Vector.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PGeom_VectorWithMagnitude.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PMMgt_PManaged.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PPoly_FieldOfHArray1OfTriangle.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PPoly_HArray1OfTriangle.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PPoly_Polygon2D.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PPoly_Polygon3D.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PPoly_PolygonOnTriangulation.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PPoly_Triangle.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PPoly_Triangulation.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PTopLoc_Datum3D.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PTopLoc_ItemLocation.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PTopLoc_Location.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PTopoDS_CompSolid.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PTopoDS_Compound.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PTopoDS_Edge.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PTopoDS_Face.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PTopoDS_FieldOfHArray1OfHShape.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PTopoDS_FieldOfHArray1OfShape1.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PTopoDS_HArray1OfHShape.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PTopoDS_HArray1OfShape1.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PTopoDS_HShape.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PTopoDS_Shape1.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PTopoDS_Shell.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PTopoDS_Solid.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PTopoDS_TCompSolid.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PTopoDS_TCompSolid1.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PTopoDS_TCompound.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PTopoDS_TCompound1.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PTopoDS_TEdge.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PTopoDS_TEdge1.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PTopoDS_TFace.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PTopoDS_TFace1.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PTopoDS_TShape.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PTopoDS_TShape1.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PTopoDS_TShell.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PTopoDS_TShell1.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PTopoDS_TSolid.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PTopoDS_TSolid1.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PTopoDS_TVertex.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PTopoDS_TVertex1.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PTopoDS_TWire.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PTopoDS_TWire1.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PTopoDS_Vertex.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_PTopoDS_Wire.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_Standard_Persistent.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_Standard_Storable.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_gp_Ax1.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_gp_Ax2.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_gp_Ax22d.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_gp_Ax2d.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_gp_Ax3.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_gp_Circ2d.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_gp_Dir.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_gp_Dir2d.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_gp_Lin2d.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_gp_Mat.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_gp_Mat2d.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_gp_Pnt.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_gp_Pnt2d.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_gp_Trsf.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_gp_Trsf2d.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_gp_Vec.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_gp_Vec2d.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_gp_XY.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\ShapeSchema\ShapeSchema_gp_XYZ.cxx">
+      <Filter>ShapeSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\PCDMShape\PCDMShape_Document.cxx">
+      <Filter>PCDMShape</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="E:\code\c\oce\adm\cmake\TKShapeSchema\Precompiled.h">
+      <Filter>Precompiled</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\code\c\oce\adm\cmake\TKShapeSchema\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="E:\code\c\oce\build\Version.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="PCDMShape">
+      <UniqueIdentifier>{EB004A8A-E698-3E25-B533-1B52DAA8656F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Precompiled">
+      <UniqueIdentifier>{9798687B-1064-3C74-84F3-7C7EA6AC7B09}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ShapeSchema">
+      <UniqueIdentifier>{AEB85031-D28B-373E-AFB8-43F734D7C4BD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{89761968-2B46-3580-8630-22C285107311}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

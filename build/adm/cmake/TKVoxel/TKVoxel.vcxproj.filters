@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\code\c\oce\adm\cmake\TKVoxel\Precompiled.cpp">
+      <Filter>Precompiled</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Voxel\Voxel_BoolDS.cxx">
+      <Filter>Voxel</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Voxel\Voxel_BooleanOperation.cxx">
+      <Filter>Voxel</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Voxel\Voxel_CollisionDetection.cxx">
+      <Filter>Voxel</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Voxel\Voxel_ColorDS.cxx">
+      <Filter>Voxel</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Voxel\Voxel_DS.cxx">
+      <Filter>Voxel</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Voxel\Voxel_FastConverter.cxx">
+      <Filter>Voxel</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Voxel\Voxel_FloatDS.cxx">
+      <Filter>Voxel</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Voxel\Voxel_OctBoolDS.cxx">
+      <Filter>Voxel</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Voxel\Voxel_Prs.cxx">
+      <Filter>Voxel</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Voxel\Voxel_ROctBoolDS.cxx">
+      <Filter>Voxel</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Voxel\Voxel_Reader.cxx">
+      <Filter>Voxel</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Voxel\Voxel_Selector.cxx">
+      <Filter>Voxel</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Voxel\Voxel_SplitData.cxx">
+      <Filter>Voxel</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\Voxel\Voxel_Writer.cxx">
+      <Filter>Voxel</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="E:\code\c\oce\adm\cmake\TKVoxel\Precompiled.h">
+      <Filter>Precompiled</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\code\c\oce\adm\cmake\TKVoxel\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="E:\code\c\oce\build\Version.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Precompiled">
+      <UniqueIdentifier>{9798687B-1064-3C74-84F3-7C7EA6AC7B09}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{89761968-2B46-3580-8630-22C285107311}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Voxel">
+      <UniqueIdentifier>{AF8FEDFC-590F-33B4-B618-364C1F168197}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

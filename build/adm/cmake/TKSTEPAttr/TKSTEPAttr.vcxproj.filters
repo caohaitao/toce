@@ -1,0 +1,704 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\code\c\oce\adm\cmake\TKSTEPAttr\Precompiled.cpp">
+      <Filter>Precompiled</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StepVisual\StepVisual_Array1OfBoxCharacteristicSelect_0.cxx">
+      <Filter>StepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StepVisual\StepVisual_Array1OfCurveStyleFontPattern_0.cxx">
+      <Filter>StepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StepVisual\StepVisual_Array1OfDirectionCountSelect_0.cxx">
+      <Filter>StepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StepVisual\StepVisual_Array1OfFillStyleSelect_0.cxx">
+      <Filter>StepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StepVisual\StepVisual_Array1OfInvisibleItem_0.cxx">
+      <Filter>StepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StepVisual\StepVisual_Array1OfLayeredItem_0.cxx">
+      <Filter>StepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StepVisual\StepVisual_Array1OfPresentationStyleAssignment_0.cxx">
+      <Filter>StepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StepVisual\StepVisual_Array1OfPresentationStyleSelect_0.cxx">
+      <Filter>StepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StepVisual\StepVisual_Array1OfStyleContextSelect_0.cxx">
+      <Filter>StepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StepVisual\StepVisual_Array1OfSurfaceStyleElementSelect_0.cxx">
+      <Filter>StepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StepVisual\StepVisual_Array1OfTextOrCharacter_0.cxx">
+      <Filter>StepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StepVisual\StepVisual_HArray1OfBoxCharacteristicSelect_0.cxx">
+      <Filter>StepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StepVisual\StepVisual_HArray1OfCurveStyleFontPattern_0.cxx">
+      <Filter>StepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StepVisual\StepVisual_HArray1OfDirectionCountSelect_0.cxx">
+      <Filter>StepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StepVisual\StepVisual_HArray1OfFillStyleSelect_0.cxx">
+      <Filter>StepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StepVisual\StepVisual_HArray1OfInvisibleItem_0.cxx">
+      <Filter>StepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StepVisual\StepVisual_HArray1OfLayeredItem_0.cxx">
+      <Filter>StepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StepVisual\StepVisual_HArray1OfPresentationStyleAssignment_0.cxx">
+      <Filter>StepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StepVisual\StepVisual_HArray1OfPresentationStyleSelect_0.cxx">
+      <Filter>StepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StepVisual\StepVisual_HArray1OfStyleContextSelect_0.cxx">
+      <Filter>StepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StepVisual\StepVisual_HArray1OfSurfaceStyleElementSelect_0.cxx">
+      <Filter>StepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StepVisual\StepVisual_HArray1OfTextOrCharacter_0.cxx">
+      <Filter>StepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepVisual\StepVisual_AnnotationOccurrence.cxx">
+      <Filter>StepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepVisual\StepVisual_AnnotationText.cxx">
+      <Filter>StepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepVisual\StepVisual_AnnotationTextOccurrence.cxx">
+      <Filter>StepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepVisual\StepVisual_AreaInSet.cxx">
+      <Filter>StepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepVisual\StepVisual_AreaOrView.cxx">
+      <Filter>StepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepVisual\StepVisual_BackgroundColour.cxx">
+      <Filter>StepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepVisual\StepVisual_BoxCharacteristicSelect.cxx">
+      <Filter>StepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepVisual\StepVisual_CameraImage.cxx">
+      <Filter>StepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepVisual\StepVisual_CameraImage2dWithScale.cxx">
+      <Filter>StepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepVisual\StepVisual_CameraImage3dWithScale.cxx">
+      <Filter>StepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepVisual\StepVisual_CameraModel.cxx">
+      <Filter>StepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepVisual\StepVisual_CameraModelD2.cxx">
+      <Filter>StepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepVisual\StepVisual_CameraModelD3.cxx">
+      <Filter>StepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepVisual\StepVisual_CameraUsage.cxx">
+      <Filter>StepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepVisual\StepVisual_Colour.cxx">
+      <Filter>StepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepVisual\StepVisual_ColourRgb.cxx">
+      <Filter>StepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepVisual\StepVisual_ColourSpecification.cxx">
+      <Filter>StepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepVisual\StepVisual_CompositeText.cxx">
+      <Filter>StepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepVisual\StepVisual_CompositeTextWithExtent.cxx">
+      <Filter>StepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepVisual\StepVisual_ContextDependentInvisibility.cxx">
+      <Filter>StepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepVisual\StepVisual_ContextDependentOverRidingStyledItem.cxx">
+      <Filter>StepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepVisual\StepVisual_CurveStyle.cxx">
+      <Filter>StepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepVisual\StepVisual_CurveStyleFont.cxx">
+      <Filter>StepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepVisual\StepVisual_CurveStyleFontPattern.cxx">
+      <Filter>StepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepVisual\StepVisual_CurveStyleFontSelect.cxx">
+      <Filter>StepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepVisual\StepVisual_DirectionCountSelect.cxx">
+      <Filter>StepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepVisual\StepVisual_DraughtingAnnotationOccurrence.cxx">
+      <Filter>StepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepVisual\StepVisual_DraughtingModel.cxx">
+      <Filter>StepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepVisual\StepVisual_DraughtingPreDefinedColour.cxx">
+      <Filter>StepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepVisual\StepVisual_DraughtingPreDefinedCurveFont.cxx">
+      <Filter>StepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepVisual\StepVisual_ExternallyDefinedCurveFont.cxx">
+      <Filter>StepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepVisual\StepVisual_ExternallyDefinedTextFont.cxx">
+      <Filter>StepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepVisual\StepVisual_FillAreaStyle.cxx">
+      <Filter>StepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepVisual\StepVisual_FillAreaStyleColour.cxx">
+      <Filter>StepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepVisual\StepVisual_FillStyleSelect.cxx">
+      <Filter>StepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepVisual\StepVisual_FontSelect.cxx">
+      <Filter>StepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepVisual\StepVisual_Invisibility.cxx">
+      <Filter>StepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepVisual\StepVisual_InvisibilityContext.cxx">
+      <Filter>StepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepVisual\StepVisual_InvisibleItem.cxx">
+      <Filter>StepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepVisual\StepVisual_LayeredItem.cxx">
+      <Filter>StepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepVisual\StepVisual_MarkerMember.cxx">
+      <Filter>StepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepVisual\StepVisual_MarkerSelect.cxx">
+      <Filter>StepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepVisual\StepVisual_MechanicalDesignGeometricPresentationArea.cxx">
+      <Filter>StepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepVisual\StepVisual_MechanicalDesignGeometricPresentationRepresentation.cxx">
+      <Filter>StepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepVisual\StepVisual_OverRidingStyledItem.cxx">
+      <Filter>StepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepVisual\StepVisual_PlanarBox.cxx">
+      <Filter>StepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepVisual\StepVisual_PlanarExtent.cxx">
+      <Filter>StepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepVisual\StepVisual_PointStyle.cxx">
+      <Filter>StepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepVisual\StepVisual_PreDefinedColour.cxx">
+      <Filter>StepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepVisual\StepVisual_PreDefinedCurveFont.cxx">
+      <Filter>StepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepVisual\StepVisual_PreDefinedItem.cxx">
+      <Filter>StepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepVisual\StepVisual_PreDefinedTextFont.cxx">
+      <Filter>StepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepVisual\StepVisual_PresentationArea.cxx">
+      <Filter>StepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepVisual\StepVisual_PresentationLayerAssignment.cxx">
+      <Filter>StepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepVisual\StepVisual_PresentationLayerUsage.cxx">
+      <Filter>StepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepVisual\StepVisual_PresentationRepresentation.cxx">
+      <Filter>StepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepVisual\StepVisual_PresentationRepresentationSelect.cxx">
+      <Filter>StepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepVisual\StepVisual_PresentationSet.cxx">
+      <Filter>StepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepVisual\StepVisual_PresentationSize.cxx">
+      <Filter>StepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepVisual\StepVisual_PresentationSizeAssignmentSelect.cxx">
+      <Filter>StepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepVisual\StepVisual_PresentationStyleAssignment.cxx">
+      <Filter>StepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepVisual\StepVisual_PresentationStyleByContext.cxx">
+      <Filter>StepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepVisual\StepVisual_PresentationStyleSelect.cxx">
+      <Filter>StepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepVisual\StepVisual_PresentationView.cxx">
+      <Filter>StepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepVisual\StepVisual_PresentedItem.cxx">
+      <Filter>StepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepVisual\StepVisual_PresentedItemRepresentation.cxx">
+      <Filter>StepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepVisual\StepVisual_StyleContextSelect.cxx">
+      <Filter>StepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepVisual\StepVisual_StyledItem.cxx">
+      <Filter>StepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepVisual\StepVisual_SurfaceSideStyle.cxx">
+      <Filter>StepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepVisual\StepVisual_SurfaceStyleBoundary.cxx">
+      <Filter>StepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepVisual\StepVisual_SurfaceStyleControlGrid.cxx">
+      <Filter>StepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepVisual\StepVisual_SurfaceStyleElementSelect.cxx">
+      <Filter>StepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepVisual\StepVisual_SurfaceStyleFillArea.cxx">
+      <Filter>StepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepVisual\StepVisual_SurfaceStyleParameterLine.cxx">
+      <Filter>StepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepVisual\StepVisual_SurfaceStyleSegmentationCurve.cxx">
+      <Filter>StepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepVisual\StepVisual_SurfaceStyleSilhouette.cxx">
+      <Filter>StepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepVisual\StepVisual_SurfaceStyleUsage.cxx">
+      <Filter>StepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepVisual\StepVisual_Template.cxx">
+      <Filter>StepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepVisual\StepVisual_TemplateInstance.cxx">
+      <Filter>StepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepVisual\StepVisual_TextLiteral.cxx">
+      <Filter>StepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepVisual\StepVisual_TextOrCharacter.cxx">
+      <Filter>StepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepVisual\StepVisual_TextStyle.cxx">
+      <Filter>StepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepVisual\StepVisual_TextStyleForDefinedFont.cxx">
+      <Filter>StepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepVisual\StepVisual_TextStyleWithBoxCharacteristics.cxx">
+      <Filter>StepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepVisual\StepVisual_ViewVolume.cxx">
+      <Filter>StepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepVisual\RWStepVisual_RWAreaInSet.cxx">
+      <Filter>RWStepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepVisual\RWStepVisual_RWBackgroundColour.cxx">
+      <Filter>RWStepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepVisual\RWStepVisual_RWCameraImage.cxx">
+      <Filter>RWStepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepVisual\RWStepVisual_RWCameraModel.cxx">
+      <Filter>RWStepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepVisual\RWStepVisual_RWCameraModelD2.cxx">
+      <Filter>RWStepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepVisual\RWStepVisual_RWCameraModelD3.cxx">
+      <Filter>RWStepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepVisual\RWStepVisual_RWCameraUsage.cxx">
+      <Filter>RWStepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepVisual\RWStepVisual_RWColour.cxx">
+      <Filter>RWStepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepVisual\RWStepVisual_RWColourRgb.cxx">
+      <Filter>RWStepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepVisual\RWStepVisual_RWColourSpecification.cxx">
+      <Filter>RWStepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepVisual\RWStepVisual_RWCompositeText.cxx">
+      <Filter>RWStepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepVisual\RWStepVisual_RWCompositeTextWithExtent.cxx">
+      <Filter>RWStepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepVisual\RWStepVisual_RWContextDependentInvisibility.cxx">
+      <Filter>RWStepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepVisual\RWStepVisual_RWContextDependentOverRidingStyledItem.cxx">
+      <Filter>RWStepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepVisual\RWStepVisual_RWCurveStyle.cxx">
+      <Filter>RWStepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepVisual\RWStepVisual_RWCurveStyleFont.cxx">
+      <Filter>RWStepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepVisual\RWStepVisual_RWCurveStyleFontPattern.cxx">
+      <Filter>RWStepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepVisual\RWStepVisual_RWDraughtingModel.cxx">
+      <Filter>RWStepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepVisual\RWStepVisual_RWDraughtingPreDefinedColour.cxx">
+      <Filter>RWStepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepVisual\RWStepVisual_RWDraughtingPreDefinedCurveFont.cxx">
+      <Filter>RWStepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepVisual\RWStepVisual_RWExternallyDefinedCurveFont.cxx">
+      <Filter>RWStepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepVisual\RWStepVisual_RWFillAreaStyle.cxx">
+      <Filter>RWStepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepVisual\RWStepVisual_RWFillAreaStyleColour.cxx">
+      <Filter>RWStepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepVisual\RWStepVisual_RWInvisibility.cxx">
+      <Filter>RWStepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepVisual\RWStepVisual_RWMechanicalDesignGeometricPresentationArea.cxx">
+      <Filter>RWStepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepVisual\RWStepVisual_RWMechanicalDesignGeometricPresentationRepresentation.cxx">
+      <Filter>RWStepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepVisual\RWStepVisual_RWOverRidingStyledItem.cxx">
+      <Filter>RWStepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepVisual\RWStepVisual_RWPlanarBox.cxx">
+      <Filter>RWStepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepVisual\RWStepVisual_RWPlanarExtent.cxx">
+      <Filter>RWStepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepVisual\RWStepVisual_RWPointStyle.cxx">
+      <Filter>RWStepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepVisual\RWStepVisual_RWPreDefinedColour.cxx">
+      <Filter>RWStepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepVisual\RWStepVisual_RWPreDefinedCurveFont.cxx">
+      <Filter>RWStepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepVisual\RWStepVisual_RWPreDefinedItem.cxx">
+      <Filter>RWStepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepVisual\RWStepVisual_RWPresentationArea.cxx">
+      <Filter>RWStepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepVisual\RWStepVisual_RWPresentationLayerAssignment.cxx">
+      <Filter>RWStepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepVisual\RWStepVisual_RWPresentationLayerUsage.cxx">
+      <Filter>RWStepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepVisual\RWStepVisual_RWPresentationRepresentation.cxx">
+      <Filter>RWStepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepVisual\RWStepVisual_RWPresentationSet.cxx">
+      <Filter>RWStepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepVisual\RWStepVisual_RWPresentationSize.cxx">
+      <Filter>RWStepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepVisual\RWStepVisual_RWPresentationStyleAssignment.cxx">
+      <Filter>RWStepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepVisual\RWStepVisual_RWPresentationStyleByContext.cxx">
+      <Filter>RWStepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepVisual\RWStepVisual_RWPresentationView.cxx">
+      <Filter>RWStepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepVisual\RWStepVisual_RWPresentedItemRepresentation.cxx">
+      <Filter>RWStepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepVisual\RWStepVisual_RWStyledItem.cxx">
+      <Filter>RWStepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepVisual\RWStepVisual_RWSurfaceSideStyle.cxx">
+      <Filter>RWStepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepVisual\RWStepVisual_RWSurfaceStyleBoundary.cxx">
+      <Filter>RWStepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepVisual\RWStepVisual_RWSurfaceStyleControlGrid.cxx">
+      <Filter>RWStepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepVisual\RWStepVisual_RWSurfaceStyleFillArea.cxx">
+      <Filter>RWStepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepVisual\RWStepVisual_RWSurfaceStyleParameterLine.cxx">
+      <Filter>RWStepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepVisual\RWStepVisual_RWSurfaceStyleSegmentationCurve.cxx">
+      <Filter>RWStepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepVisual\RWStepVisual_RWSurfaceStyleSilhouette.cxx">
+      <Filter>RWStepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepVisual\RWStepVisual_RWSurfaceStyleUsage.cxx">
+      <Filter>RWStepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepVisual\RWStepVisual_RWTemplate.cxx">
+      <Filter>RWStepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepVisual\RWStepVisual_RWTemplateInstance.cxx">
+      <Filter>RWStepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepVisual\RWStepVisual_RWTextLiteral.cxx">
+      <Filter>RWStepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepVisual\RWStepVisual_RWTextStyle.cxx">
+      <Filter>RWStepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepVisual\RWStepVisual_RWTextStyleForDefinedFont.cxx">
+      <Filter>RWStepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepVisual\RWStepVisual_RWTextStyleWithBoxCharacteristics.cxx">
+      <Filter>RWStepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepVisual\RWStepVisual_RWViewVolume.cxx">
+      <Filter>RWStepVisual</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StepDimTol\StepDimTol_Array1OfDatumReference_0.cxx">
+      <Filter>StepDimTol</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StepDimTol\StepDimTol_HArray1OfDatumReference_0.cxx">
+      <Filter>StepDimTol</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepDimTol\StepDimTol_AngularityTolerance.cxx">
+      <Filter>StepDimTol</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepDimTol\StepDimTol_CircularRunoutTolerance.cxx">
+      <Filter>StepDimTol</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepDimTol\StepDimTol_CoaxialityTolerance.cxx">
+      <Filter>StepDimTol</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepDimTol\StepDimTol_CommonDatum.cxx">
+      <Filter>StepDimTol</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepDimTol\StepDimTol_ConcentricityTolerance.cxx">
+      <Filter>StepDimTol</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepDimTol\StepDimTol_CylindricityTolerance.cxx">
+      <Filter>StepDimTol</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepDimTol\StepDimTol_Datum.cxx">
+      <Filter>StepDimTol</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepDimTol\StepDimTol_DatumFeature.cxx">
+      <Filter>StepDimTol</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepDimTol\StepDimTol_DatumReference.cxx">
+      <Filter>StepDimTol</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepDimTol\StepDimTol_DatumTarget.cxx">
+      <Filter>StepDimTol</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepDimTol\StepDimTol_FlatnessTolerance.cxx">
+      <Filter>StepDimTol</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepDimTol\StepDimTol_GeoTolAndGeoTolWthDatRefAndModGeoTolAndPosTol.cxx">
+      <Filter>StepDimTol</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepDimTol\StepDimTol_GeometricTolerance.cxx">
+      <Filter>StepDimTol</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepDimTol\StepDimTol_GeometricToleranceRelationship.cxx">
+      <Filter>StepDimTol</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepDimTol\StepDimTol_GeometricToleranceWithDatumReference.cxx">
+      <Filter>StepDimTol</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepDimTol\StepDimTol_LineProfileTolerance.cxx">
+      <Filter>StepDimTol</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepDimTol\StepDimTol_ModifiedGeometricTolerance.cxx">
+      <Filter>StepDimTol</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepDimTol\StepDimTol_ParallelismTolerance.cxx">
+      <Filter>StepDimTol</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepDimTol\StepDimTol_PerpendicularityTolerance.cxx">
+      <Filter>StepDimTol</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepDimTol\StepDimTol_PlacedDatumTargetFeature.cxx">
+      <Filter>StepDimTol</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepDimTol\StepDimTol_PositionTolerance.cxx">
+      <Filter>StepDimTol</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepDimTol\StepDimTol_RoundnessTolerance.cxx">
+      <Filter>StepDimTol</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepDimTol\StepDimTol_ShapeToleranceSelect.cxx">
+      <Filter>StepDimTol</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepDimTol\StepDimTol_StraightnessTolerance.cxx">
+      <Filter>StepDimTol</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepDimTol\StepDimTol_SurfaceProfileTolerance.cxx">
+      <Filter>StepDimTol</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepDimTol\StepDimTol_SymmetryTolerance.cxx">
+      <Filter>StepDimTol</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StepDimTol\StepDimTol_TotalRunoutTolerance.cxx">
+      <Filter>StepDimTol</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepDimTol\RWStepDimTol_RWAngularityTolerance.cxx">
+      <Filter>RWStepDimTol</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepDimTol\RWStepDimTol_RWCircularRunoutTolerance.cxx">
+      <Filter>RWStepDimTol</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepDimTol\RWStepDimTol_RWCoaxialityTolerance.cxx">
+      <Filter>RWStepDimTol</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepDimTol\RWStepDimTol_RWCommonDatum.cxx">
+      <Filter>RWStepDimTol</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepDimTol\RWStepDimTol_RWConcentricityTolerance.cxx">
+      <Filter>RWStepDimTol</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepDimTol\RWStepDimTol_RWCylindricityTolerance.cxx">
+      <Filter>RWStepDimTol</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepDimTol\RWStepDimTol_RWDatum.cxx">
+      <Filter>RWStepDimTol</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepDimTol\RWStepDimTol_RWDatumFeature.cxx">
+      <Filter>RWStepDimTol</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepDimTol\RWStepDimTol_RWDatumReference.cxx">
+      <Filter>RWStepDimTol</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepDimTol\RWStepDimTol_RWDatumTarget.cxx">
+      <Filter>RWStepDimTol</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepDimTol\RWStepDimTol_RWFlatnessTolerance.cxx">
+      <Filter>RWStepDimTol</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepDimTol\RWStepDimTol_RWGeoTolAndGeoTolWthDatRefAndModGeoTolAndPosTol.cxx">
+      <Filter>RWStepDimTol</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepDimTol\RWStepDimTol_RWGeometricTolerance.cxx">
+      <Filter>RWStepDimTol</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepDimTol\RWStepDimTol_RWGeometricToleranceRelationship.cxx">
+      <Filter>RWStepDimTol</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepDimTol\RWStepDimTol_RWGeometricToleranceWithDatumReference.cxx">
+      <Filter>RWStepDimTol</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepDimTol\RWStepDimTol_RWLineProfileTolerance.cxx">
+      <Filter>RWStepDimTol</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepDimTol\RWStepDimTol_RWModifiedGeometricTolerance.cxx">
+      <Filter>RWStepDimTol</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepDimTol\RWStepDimTol_RWParallelismTolerance.cxx">
+      <Filter>RWStepDimTol</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepDimTol\RWStepDimTol_RWPerpendicularityTolerance.cxx">
+      <Filter>RWStepDimTol</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepDimTol\RWStepDimTol_RWPlacedDatumTargetFeature.cxx">
+      <Filter>RWStepDimTol</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepDimTol\RWStepDimTol_RWPositionTolerance.cxx">
+      <Filter>RWStepDimTol</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepDimTol\RWStepDimTol_RWRoundnessTolerance.cxx">
+      <Filter>RWStepDimTol</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepDimTol\RWStepDimTol_RWStraightnessTolerance.cxx">
+      <Filter>RWStepDimTol</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepDimTol\RWStepDimTol_RWSurfaceProfileTolerance.cxx">
+      <Filter>RWStepDimTol</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepDimTol\RWStepDimTol_RWSymmetryTolerance.cxx">
+      <Filter>RWStepDimTol</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\RWStepDimTol\RWStepDimTol_RWTotalRunoutTolerance.cxx">
+      <Filter>RWStepDimTol</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="E:\code\c\oce\adm\cmake\TKSTEPAttr\Precompiled.h">
+      <Filter>Precompiled</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\code\c\oce\adm\cmake\TKSTEPAttr\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="E:\code\c\oce\build\Version.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Precompiled">
+      <UniqueIdentifier>{9798687B-1064-3C74-84F3-7C7EA6AC7B09}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="RWStepDimTol">
+      <UniqueIdentifier>{A6EA20AC-196A-3397-941B-A785EC6EB70F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="RWStepVisual">
+      <UniqueIdentifier>{7E0EACCE-D22A-32A9-81C2-E45DAEB627CD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{89761968-2B46-3580-8630-22C285107311}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="StepDimTol">
+      <UniqueIdentifier>{E7C4722D-F592-3140-8727-A02F02FD83B4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="StepVisual">
+      <UniqueIdentifier>{0293F304-C4C7-3420-9F8F-A1AA67CCA5FD}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

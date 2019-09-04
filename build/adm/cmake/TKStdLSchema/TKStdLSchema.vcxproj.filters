@@ -1,0 +1,239 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\code\c\oce\adm\cmake\TKStdLSchema\Precompiled.cpp">
+      <Filter>Precompiled</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StdLSchema\StdLSchema.cxx">
+      <Filter>StdLSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StdLSchema\StdLSchema_DBC_VArrayOfCharacter.cxx">
+      <Filter>StdLSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StdLSchema\StdLSchema_DBC_VArrayOfExtCharacter.cxx">
+      <Filter>StdLSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StdLSchema\StdLSchema_PCDM_Document.cxx">
+      <Filter>StdLSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StdLSchema\StdLSchema_PColStd_FieldOfHArray1OfExtendedString.cxx">
+      <Filter>StdLSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StdLSchema\StdLSchema_PColStd_FieldOfHArray1OfInteger.cxx">
+      <Filter>StdLSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StdLSchema\StdLSchema_PColStd_FieldOfHArray1OfReal.cxx">
+      <Filter>StdLSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StdLSchema\StdLSchema_PColStd_FieldOfHArray2OfInteger.cxx">
+      <Filter>StdLSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StdLSchema\StdLSchema_PColStd_HArray1OfExtendedString.cxx">
+      <Filter>StdLSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StdLSchema\StdLSchema_PColStd_HArray1OfInteger.cxx">
+      <Filter>StdLSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StdLSchema\StdLSchema_PColStd_HArray1OfReal.cxx">
+      <Filter>StdLSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StdLSchema\StdLSchema_PColStd_HArray2OfInteger.cxx">
+      <Filter>StdLSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StdLSchema\StdLSchema_PCollection_HAsciiString.cxx">
+      <Filter>StdLSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StdLSchema\StdLSchema_PCollection_HExtendedString.cxx">
+      <Filter>StdLSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StdLSchema\StdLSchema_PDF_Attribute.cxx">
+      <Filter>StdLSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StdLSchema\StdLSchema_PDF_Data.cxx">
+      <Filter>StdLSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StdLSchema\StdLSchema_PDF_FieldOfHAttributeArray1.cxx">
+      <Filter>StdLSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StdLSchema\StdLSchema_PDF_HAttributeArray1.cxx">
+      <Filter>StdLSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StdLSchema\StdLSchema_PDF_Reference.cxx">
+      <Filter>StdLSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StdLSchema\StdLSchema_PDF_TagSource.cxx">
+      <Filter>StdLSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StdLSchema\StdLSchema_PDataStd_AsciiString.cxx">
+      <Filter>StdLSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StdLSchema\StdLSchema_PDataStd_BooleanArray.cxx">
+      <Filter>StdLSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StdLSchema\StdLSchema_PDataStd_BooleanList.cxx">
+      <Filter>StdLSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StdLSchema\StdLSchema_PDataStd_ByteArray.cxx">
+      <Filter>StdLSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StdLSchema\StdLSchema_PDataStd_ByteArray_1.cxx">
+      <Filter>StdLSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StdLSchema\StdLSchema_PDataStd_Comment.cxx">
+      <Filter>StdLSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StdLSchema\StdLSchema_PDataStd_Directory.cxx">
+      <Filter>StdLSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StdLSchema\StdLSchema_PDataStd_Expression.cxx">
+      <Filter>StdLSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StdLSchema\StdLSchema_PDataStd_ExtStringArray.cxx">
+      <Filter>StdLSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StdLSchema\StdLSchema_PDataStd_ExtStringArray_1.cxx">
+      <Filter>StdLSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StdLSchema\StdLSchema_PDataStd_ExtStringList.cxx">
+      <Filter>StdLSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StdLSchema\StdLSchema_PDataStd_FieldOfHArray1OfByte.cxx">
+      <Filter>StdLSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StdLSchema\StdLSchema_PDataStd_FieldOfHArray1OfHArray1OfInteger.cxx">
+      <Filter>StdLSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StdLSchema\StdLSchema_PDataStd_FieldOfHArray1OfHArray1OfReal.cxx">
+      <Filter>StdLSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StdLSchema\StdLSchema_PDataStd_FieldOfHArray1OfHAsciiString.cxx">
+      <Filter>StdLSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StdLSchema\StdLSchema_PDataStd_HArray1OfByte.cxx">
+      <Filter>StdLSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StdLSchema\StdLSchema_PDataStd_HArray1OfHArray1OfInteger.cxx">
+      <Filter>StdLSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StdLSchema\StdLSchema_PDataStd_HArray1OfHArray1OfReal.cxx">
+      <Filter>StdLSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StdLSchema\StdLSchema_PDataStd_HArray1OfHAsciiString.cxx">
+      <Filter>StdLSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StdLSchema\StdLSchema_PDataStd_IntPackedMap.cxx">
+      <Filter>StdLSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StdLSchema\StdLSchema_PDataStd_IntPackedMap_1.cxx">
+      <Filter>StdLSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StdLSchema\StdLSchema_PDataStd_Integer.cxx">
+      <Filter>StdLSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StdLSchema\StdLSchema_PDataStd_IntegerArray.cxx">
+      <Filter>StdLSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StdLSchema\StdLSchema_PDataStd_IntegerArray_1.cxx">
+      <Filter>StdLSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StdLSchema\StdLSchema_PDataStd_IntegerList.cxx">
+      <Filter>StdLSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StdLSchema\StdLSchema_PDataStd_Name.cxx">
+      <Filter>StdLSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StdLSchema\StdLSchema_PDataStd_NamedData.cxx">
+      <Filter>StdLSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StdLSchema\StdLSchema_PDataStd_NoteBook.cxx">
+      <Filter>StdLSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StdLSchema\StdLSchema_PDataStd_Real.cxx">
+      <Filter>StdLSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StdLSchema\StdLSchema_PDataStd_RealArray.cxx">
+      <Filter>StdLSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StdLSchema\StdLSchema_PDataStd_RealArray_1.cxx">
+      <Filter>StdLSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StdLSchema\StdLSchema_PDataStd_RealList.cxx">
+      <Filter>StdLSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StdLSchema\StdLSchema_PDataStd_ReferenceArray.cxx">
+      <Filter>StdLSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StdLSchema\StdLSchema_PDataStd_ReferenceList.cxx">
+      <Filter>StdLSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StdLSchema\StdLSchema_PDataStd_Relation.cxx">
+      <Filter>StdLSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StdLSchema\StdLSchema_PDataStd_Tick.cxx">
+      <Filter>StdLSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StdLSchema\StdLSchema_PDataStd_TreeNode.cxx">
+      <Filter>StdLSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StdLSchema\StdLSchema_PDataStd_UAttribute.cxx">
+      <Filter>StdLSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StdLSchema\StdLSchema_PDataStd_Variable.cxx">
+      <Filter>StdLSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StdLSchema\StdLSchema_PDocStd_Document.cxx">
+      <Filter>StdLSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StdLSchema\StdLSchema_PDocStd_XLink.cxx">
+      <Filter>StdLSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StdLSchema\StdLSchema_PFunction_Function.cxx">
+      <Filter>StdLSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StdLSchema\StdLSchema_Standard_GUID.cxx">
+      <Filter>StdLSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StdLSchema\StdLSchema_Standard_Persistent.cxx">
+      <Filter>StdLSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\drv\StdLSchema\StdLSchema_Standard_Storable.cxx">
+      <Filter>StdLSchema</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StdLDrivers\StdLDrivers.cxx">
+      <Filter>StdLDrivers</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StdLDrivers\StdLDrivers_DocumentRetrievalDriver.cxx">
+      <Filter>StdLDrivers</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\c\oce\src\StdLDrivers\StdLDrivers_DocumentStorageDriver.cxx">
+      <Filter>StdLDrivers</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="E:\code\c\oce\adm\cmake\TKStdLSchema\Precompiled.h">
+      <Filter>Precompiled</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\code\c\oce\adm\cmake\TKStdLSchema\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="E:\code\c\oce\build\Version.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Precompiled">
+      <UniqueIdentifier>{9798687B-1064-3C74-84F3-7C7EA6AC7B09}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{89761968-2B46-3580-8630-22C285107311}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="StdLDrivers">
+      <UniqueIdentifier>{9CAAB79F-DCE2-3CE4-9BEF-D94FD49277B0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="StdLSchema">
+      <UniqueIdentifier>{0485E459-CBF4-37EF-9E8F-B1686936E6B2}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
