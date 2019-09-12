@@ -7,8 +7,6 @@ oce-win-bundle/
 /build/*.db
 *.tlog
 *.log
-*.lib
-*.dll
 *.pdb
 *.suo
 *.obj
